@@ -13,7 +13,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.ico',
     organizationName: 'Wings', // Usually your GitHub org/user name.
-    projectName: 'wingsdocs', // Usually your repo name.
+    projectName: 'bolsterdigital', // Usually your repo name.
 
     presets: [
       [
@@ -23,7 +23,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           docs: {
             sidebarPath: require.resolve('./sidebars.js'),
             // Please change this to your repo.
-            editUrl: 'https://github.com/wingscms/wingsdocs/edit/main/website/',
+            editUrl: 'https://github.com/bolsterdigital/wingsdocs/edit/main/',
           },
 
           theme: {
@@ -36,6 +36,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
+        image: 'img/wingsdocs-meta.png',
         navbar: {
           title: 'Wings',
           logo: {
@@ -49,11 +50,33 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               position: 'left',
               label: 'Docs',
             },
-
             {
-              href: 'https://github.com/wingscms/wingsdocs',
-              label: 'GitHub',
+              type: 'dropdown',
+              label: 'About',
+              position: 'left',
+              items: [
+                {
+                  label: 'Background',
+                  href: 'https://wings.dev/about',
+                },
+                {
+                  label: 'Features',
+                  href: 'https://wings.dev/features',
+                },
+                {
+                  label: 'Cases',
+                  href: 'https://wings.dev/cases',
+                },
+                {
+                  label: 'Pricing',
+                  href: 'https://wings.dev/pricing',
+                },
+              ],
+            },
+            {
+              href: 'https://admin.wings.dev',
               position: 'right',
+              label: 'Wings Admin',
             },
           ],
         },
