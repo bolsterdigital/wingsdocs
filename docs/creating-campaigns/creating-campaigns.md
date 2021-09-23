@@ -18,7 +18,7 @@ Campaigns is where Wings really shines: they allow you to to create meaningful a
 Campaigns can be shown on the frontend in two ways:
 
 1. Every campaign gets its own 'slug'; most Wings web applications will make each campaign publicly accessible at this slug on the frontend, inside its respective campaign directory. For example, a petition with the slug `my-petition` will typically be found at `mywebsite.com/petitions/my-petition`. Events, signups and fundraisers will be found in `/events/`, `/signups/` and `/fundraisers/`, respectively.
-2. You can also place campaign on a regular content page or article page, by using a [campaign card](publish#campaign)
+2. You can also place campaign on a regular content page or article page, by using a [campaign card](publish-articles-and-pages#campaign)
 
 ![A demo petition at [demo.wings.dev/petitions/demo-petition](https://demo.wings.dev/petitions/demo-petition)](https://screens.wings.dev/CleanShot-2020-02-23-at-21.44.08-1582490660.png)
 
