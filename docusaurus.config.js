@@ -36,6 +36,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
+        algolia: {
+          apiKey: '761cab4809847a1fae3df1e2011d4eda',
+          indexName: 'wingscms',
+
+          // Optional: see doc section below
+          contextualSearch: false,
+
+          // Optional: see doc section below
+          appId: 'MM3FME5B2G',
+
+          // Optional: Algolia search parameters
+          searchParameters: {},
+
+          //... other Algolia params
+        },
         image: 'img/wingsdocs-meta.png',
         navbar: {
           title: 'Wings',
