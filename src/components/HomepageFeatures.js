@@ -15,7 +15,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Run winning campaings',
+    title: 'Run winning campaigns',
     Svg: require('../../static/img/Flag.svg').default,
     description: (
       <>
