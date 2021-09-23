@@ -24,7 +24,7 @@ At Articles you can add and edit articles; at Pages, you can add and edit pages.
 6. The slug goes here. Pages will by default have your main website domain + their slug as their public url, for example `https://www.yourwebsite.com/hello-world`. Articles are placed in a directory called `articles`, for example `https://www.yourwebsite.com/articles/hello-world`.
 7. You can set the language for this page here.
 8. Here you will see a blinking cursor. Start typing away!
-9. This is the layout toolbar, which works similar to other CMS'es and word editing applications. You can use it to add headings, unordered lists (usually styled with bullets), ordered (numbered) lists, **strong**, `code` and [https://example.com](links).
+9. This is the layout toolbar, which works similar to other CMS'es and word editing applications. You can use it to add headings, unordered lists (usually styled with bullets), ordered (numbered) lists, **strong**, `code` and [links](https://example.com).
 10. A 'card' is a special content block, which will be explained in the next section.
 11. Save, delete, publish or _depublish_ a node.
 12. Set the publication date of this node.
