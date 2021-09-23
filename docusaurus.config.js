@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (
   module.exports = {
     title: 'Wings Docs',
-    tagline: 'Get the most out of your Wings website',
+    tagline: 'Go build a movement and win a campaign',
     url: 'https://docs.wings.dev',
     baseUrl: '/',
     onBrokenLinks: 'throw',

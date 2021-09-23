@@ -18,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Set up your Wings website - 5min ⏱️
+            Set up your Wings website 🚀
           </Link>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Wings documentation`}
-      description="Get the most out of your Wings website."
+      description="Go create a movement and build a campaign."
     >
       <HomepageHeader />
       <main>
