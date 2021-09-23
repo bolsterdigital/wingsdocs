@@ -17,7 +17,7 @@ You can set a primary language here, as well as other languages you would like t
 
 ## Project-wide translations for strings
 
-There are quite a few copy strings set by default, such ass "... has been donated to this fundraiser" on fundraiser pages. However, you can configure your own default project-wide copy strings, and even override these if you want to use specific copy for individual campaigns.
+There are quite a few copy strings set by default, such as "... has been donated to this fundraiser" on fundraiser pages. However, you can configure your own default project-wide copy strings, and even override these if you want to use specific copy for individual campaigns.
 
 Go to Languages -> Translations to create a 'translation' for a language:
 
