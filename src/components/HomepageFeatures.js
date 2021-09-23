@@ -4,32 +4,37 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Built for campaigners',
+    title: 'Publish pages & articles',
+    Svg: require('../../static/img/Article.svg').default,
+    description: (
+      <>
+        Get started{' '}
+        <a href="/docs/pages-articles/publish-articles-and-pages">publishing</a>{' '}
+        beautiful pages and compelling stories with Wings.
+      </>
+    ),
+  },
+  {
+    title: 'Run winning campaings',
     Svg: require('../../static/img/Flag.svg').default,
     description: (
       <>
-        Wings is built to help digital campaigners and organizers run successful
-        campaigns, with all the features you need.
+        Start a movement with{' '}
+        <a href="/docs/creating-campaigns/creating-campaigns">
+          Wings campaigns
+        </a>
+        : learn how to use signups, petitions, events and fundraisers.
       </>
     ),
   },
   {
-    title: 'Multilingual',
-    Svg: require('../../static/img/Group-chat.svg').default,
+    title: 'Build a powerhouse',
+    Svg: require('../../static/img/Outlet.svg').default,
     description: (
       <>
-        Wings can support every language, has a built-in language switcher, and
-        translateable strings for all website copy. .
-      </>
-    ),
-  },
-  {
-    title: 'Integrations-ready',
-    Svg: require('../../static/img/Settings-4.svg').default,
-    description: (
-      <>
-        Use Wings as a public-facing website, integrate it with Mailchimp, The
-        Action Network, Trello and the rest of your digital organizing toolkit.
+        Dive into the <a href="/docs/setting-up/webhooks">webhooks docs</a> and
+        find out how to integrate Wings with Mailchimp, The Action Network and
+        many more.
       </>
     ),
   },
