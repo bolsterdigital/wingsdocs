@@ -18,7 +18,7 @@ Campaigns is where Wings really shines: they allow you to to create meaningful a
 Campaigns can be shown on the frontend in two ways:
 
 1. Every campaign gets its own 'slug'; most Wings web applications will make each campaign publicly accessible at this slug on the frontend, inside its respective campaign directory. For example, a petition with the slug `my-petition` will typically be found at `mywebsite.com/petitions/my-petition`. Events, signups and fundraisers will be found in `/events/`, `/signups/` and `/fundraisers/`, respectively.
-2. You can also place campaign on a regular content page or article page, by using a [campaign card](publish-articles-and-pages#campaign)
+2. You can also place campaign on a regular content page or article page, by using a [campaign card](../pages-articles/publish-articles-and-pages#campaign)
 
 ![A demo petition at [demo.wings.dev/petitions/demo-petition](https://demo.wings.dev/petitions/demo-petition)](https://screens.wings.dev/CleanShot-2020-02-23-at-21.44.08-1582490660.png)
 
@@ -90,7 +90,7 @@ If you want to change the default copy of a campaign, for example the Campaign f
 
 ![](https://screens.wings.dev/CleanShot-2021-06-29-at-09.01.00-15V2q3EV3eye7VCKU0hTEkyBbuZAC7XCRNwcQ3fUFk66TUsO4xDMEcXgypkTb3z5HHSGb8TCD2JubqzwsRTZ4Xd5uvQhlj3TXE5R.png)
 
-**Note**: if you want to change the default copy for _every_ campaign, you can create your own 'translation'. [Look here for instructions.](use-multiple-languages#project-wide-translations-for-strings).
+**Note**: if you want to change the default copy for _every_ campaign, you can create your own 'translation'. [Look here for instructions](../setting-up/use-multiple-languages#project-wide-translations-for-strings).
 
 ## Event settings
 
