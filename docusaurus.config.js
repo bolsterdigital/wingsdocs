@@ -5,8 +5,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (
   module.exports = {
-    title: 'Wings Docs',
-    tagline: 'Go build a movement and win a campaign',
+    title: 'Wings',
+    tagline:
+      'Progressive campaign websites-as-a-service. Your domain, your visual identity, your content, your data.',
     url: 'https://docs.wings.dev',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -65,6 +66,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               position: 'left',
               label: 'Docs',
             },
+            // { to: 'blog', label: 'Blog', position: 'left' },
             {
               type: 'dropdown',
               label: 'About',
@@ -96,7 +98,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           ],
         },
         footer: {
-          style: 'dark',
+          style: 'light',
           links: [
             {
               title: 'More',

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # How to create a campaign
@@ -47,7 +47,7 @@ On the 'Fields' tab, you will be able to add additional fields to the ones that 
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-22.23.40-1582493038.png)
 
-## Signatures / Attendees / Donations
+## Downloading user data 
 
 On the 'Signatures' or 'Attendees' or 'Donations' tab, you may see a list of confirmed petition signers, event attendees or fundraiser donations, and/or a 'Download' button which prompts the download of a generated .CSV file.
 
@@ -55,7 +55,7 @@ On the 'Signatures' or 'Attendees' or 'Donations' tab, you may see a list of con
 
 ## Settings
 
-On the Settings tab, you can configure additional stuff.
+On the Settings tab, you can configure additional settings.
 
 ### Legal
 
@@ -63,17 +63,12 @@ On the Legal tab, you can set the paths or urls for the links to the pages where
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-22.36.37-1582493819.png)
 
-### Connecting Mailchimp
+### Connecting third-party services
 
-Here, you can configure an optional connection with a Mailchimp List. It requires that you add a Mailchimp Api Key on the general settings page. If you provide a valid API key, you will find a list of Mailchimp lists. Upon selecting a Mailchimp list, you will be able to map campaign fields to Mailchimp list fields.
+In order to submit user data to third-party services (like email newsletters and voter activation software), you can use two main methods:
 
-![](https://screens.wings.dev/CleanShot-2020-02-23-at-22.34.05-1582493731.png)
-
-### Using Mailchimp Groups
-
-If you setup [Mailchimp Groups](https://mailchimp.com/help/getting-started-with-groups/), these Groups will show up on this configuration page. For example, you could use a group called 'activity' with the values 'Signed petition' and 'Donated' These group values show up here, allowing you to configure Wings to add new subscribers to the group 'Signed petition' after they signed the petition:
-
-![](https://screens.wings.dev/Screen-Recording-2020-02-23-22-42-24-1582494155.gif)
+1. Manually [download user data](#downloading-user-data) in CSV format
+2. Use [webhooks](/docs/setting-up/webhooks) to automatically send user data to a service like Zapier for smart processing, allowing to connect Wings campaigns programmatically to an unlimited number of services.
 
 ### Petition Options
 

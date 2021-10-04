@@ -21,3 +21,15 @@
   align-items: center;
   justify-content: center;
 }
+
+@media screen and (min-width: 500px) {
+  .productImage {
+    max-width: 70%;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .productImage {
+    max-width: 36%;
+  }
+}
