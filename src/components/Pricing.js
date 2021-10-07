@@ -20,7 +20,7 @@ const PricingList = [
         For small non-profits with fewer than 10 staff members
       </Translate>
     ),
-    feature2: <Translate>10 user accounts</Translate>,
+    feature2: <Translate>6 user accounts</Translate>,
     setupFee: <Translate>€ 1295</Translate>,
     buttonclass: 'button button--secondary',
   },
@@ -28,7 +28,7 @@ const PricingList = [
     label: <Translate>Premium</Translate>,
     price: <Translate>€ 195</Translate>,
     feature1: <Translate>For large non-profits</Translate>,
-    feature2: <Translate>3 user accounts</Translate>,
+    feature2: <Translate>20 user accounts</Translate>,
     setupFee: <Translate>€ 295</Translate>,
     buttonclass: 'button button--secondary',
   },
