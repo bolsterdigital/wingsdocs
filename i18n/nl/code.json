@@ -346,5 +346,8 @@
   },
   "Send": {
     "message": "Verzend"
+  },
+  "Get a Wings website": {
+    "message": "Neem een Wings-website"
   }
 }
