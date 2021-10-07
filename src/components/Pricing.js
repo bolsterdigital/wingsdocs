@@ -28,8 +28,8 @@ const PricingList = [
     label: <Translate>Premium</Translate>,
     price: <Translate>€ 195</Translate>,
     feature1: <Translate>For large non-profits</Translate>,
-    feature2: <Translate>20 user accounts</Translate>,
-    setupFee: <Translate>€ 295</Translate>,
+    feature2: <Translate>unlimited user accounts</Translate>,
+    setupFee: <Translate>€ 4.995</Translate>,
     buttonclass: 'button button--secondary',
   },
 ];
@@ -48,7 +48,7 @@ function Pricing({ label, price, feature1, feature2, setupFee, buttonclass }) {
           <p className={styles.perProject}>per project</p>
           <p>{feature1}</p>
           <p>{feature2}</p>
-          <p>Setup fee: {setupFee}</p>
+          <p>{setupFee}</p>
           <button class={buttonclass}>Primary</button>
         </div>
       </div>
