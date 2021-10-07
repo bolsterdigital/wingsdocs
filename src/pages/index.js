@@ -45,8 +45,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Wings`}
-      description="Go create a movement and build a campaign."
+      title={`A website-as-a-service for progressive organizations`}
+      description="Go create a movement and win a campaign."
     >
       <HomepageHeader />
       <main>
