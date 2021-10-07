@@ -13,7 +13,6 @@ function Pricing() {
         </h1>
         <p>
           <Translate>
-            {' '}
             From the smallest grassroots neighbourhood initiative to global,
             multilingual federated website infrastructure: Wings can accomodate
             any progressive campaign.
