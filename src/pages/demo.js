@@ -15,7 +15,12 @@ function Form() {
       </div>
       <div className={styles.formwrapper}>
         <div className={styles.formbox}>
-          <form netlify name="demo-request" method="POST" action="/thank-you">
+          <form
+            data-netlify="true"
+            name="demo-request"
+            method="POST"
+            action="/thank-you"
+          >
             <p>
               <label>
                 <Translate>Name</Translate>{' '}
