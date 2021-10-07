@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     title: 'Wings',
     tagline:
       'Progressive campaign websites-as-a-service. Your domain, your visual identity, your content, your data.',
-    url: 'https://docs.wings.dev',
+    url: 'https://wings.dev',
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
