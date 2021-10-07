@@ -20,7 +20,9 @@ function Form() {
             name="demo-request"
             method="POST"
             action="/thank-you"
+            data-netlify-honeypot="bot-field"
           >
+            <input type="hidden" name="form-name" value="demo-request" />
             <p>
               <label>
                 <Translate>Name</Translate>{' '}
