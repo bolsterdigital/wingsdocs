@@ -92,6 +92,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   label: 'Pricing',
                   href: 'https://wings.dev/pricing',
                 },
+                {
+                  label: 'Request demo',
+                  href: 'https://wings.dev/#demo',
+                },
               ],
             },
             {

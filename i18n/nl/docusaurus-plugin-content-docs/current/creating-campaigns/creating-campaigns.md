@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Hoe een campagne aan te maken
+# Een campagne aanmaken
 
 ## Over campagnes (campaigns)
 
-'Campaigns' (campagnes) is waar Wings echt uitblinkt: ze stellen je in staat om zinvolle en effectieve manieren te creëren waarmee gebruikers kunnen bijdragen aan je doel door evenementen bij te wonen, een petitie te ondertekenen of een donatie te doen. Een snel overzicht:
+'Campaigns' (campagnes) is het onderdeel waar de kracht van Wings zich echt bewijst: ze stellen je in staat om zinvolle en effectieve manieren te creëren waarmee gebruikers kunnen bijdragen aan je doel door evenementen bij te wonen, een petitie te ondertekenen of een donatie te doen. Een snel overzicht:
 
 - **Signups**: inschrijvingen, dit zijn eenvoudige formulieren waarmee mensen zich kunnen 'aanmelden', bijvoorbeeld om nieuwsbriefupdates te ontvangen.
 - **Events** (evenementen) zijn erop gericht om mensen een evenement te laten bezoeken.

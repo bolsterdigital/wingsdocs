@@ -8,27 +8,31 @@
     "description": "Navbar item with label Docs"
   },
   "item.label.About": {
-    "message": "About",
+    "message": "Over",
     "description": "Navbar item with label About"
   },
-  "item.label.Wings Admin": {
-    "message": "Wings Admin",
-    "description": "Navbar item with label Wings Admin"
-  },
   "item.label.Background": {
-    "message": "Background",
+    "message": "Achtergrond",
     "description": "Navbar item with label Background"
   },
   "item.label.Features": {
-    "message": "Features",
+    "message": "Kenmerken",
     "description": "Navbar item with label Features"
   },
   "item.label.Cases": {
-    "message": "Cases",
+    "message": "Voorbeelden",
     "description": "Navbar item with label Cases"
   },
   "item.label.Pricing": {
-    "message": "Pricing",
+    "message": "Kosten",
     "description": "Navbar item with label Pricing"
+  },
+  "item.label.Admin": {
+    "message": "Admin",
+    "description": "Navbar item with label Admin"
+  },
+  "item.label.Request demo": {
+    "message": "Demo aanvragen",
+    "description": "Navbar item with label Request demo"
   }
 }
