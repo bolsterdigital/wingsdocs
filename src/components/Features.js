@@ -125,11 +125,17 @@ export default function Features() {
     <section className={styles.features}>
       <div className="container">
         <div className={styles.intro}>
-          <h1>All the features you need. None of the ones you don't.</h1>
+          <h1>
+            <Translate>
+              All the features you need. None of the ones you don't.
+            </Translate>
+          </h1>
 
           <p>
-            Wings is designed from the ground up to build a non-profit website
-            and run progressive campaigns. Here is an overview of features.{' '}
+            <Translate>
+              Wings is designed from the ground up to build a non-profit website
+              and run progressive campaigns. Here is an overview of features.
+            </Translate>{' '}
           </p>
         </div>
 
