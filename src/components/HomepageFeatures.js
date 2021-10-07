@@ -1,40 +1,53 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import Translate, { translate } from '@docusaurus/Translate';
 
 const FeatureList = [
   {
-    title: 'Publish pages & articles',
+    title: <Translate>Publish pages and articles</Translate>,
     Svg: require('../../static/img/Article.svg').default,
     description: (
       <>
-        Get started{' '}
-        <a href="/docs/pages-articles/publish-articles-and-pages">publishing</a>{' '}
-        beautiful pages and compelling stories with Wings.
+        <Translate>Get started</Translate>{' '}
+        <a href="/docs/pages-articles/publish-articles-and-pages">
+          <Translate>publishing</Translate>
+        </a>{' '}
+        <Translate>
+          beautiful pages and compelling stories with Wings.
+        </Translate>
       </>
     ),
   },
   {
-    title: 'Run winning campaigns',
+    title: <Translate>Run winning campaigns</Translate>,
     Svg: require('../../static/img/Flag.svg').default,
     description: (
       <>
-        Start a movement with{' '}
+        <Translate>Start a movement with</Translate>{' '}
         <a href="/docs/creating-campaigns/creating-campaigns">
-          Wings campaigns
+          <Translate>Wings campaigns</Translate>
         </a>
-        : learn how to use signups, petitions, events and fundraisers.
+        :{' '}
+        <Translate>
+          learn how to use signups, petitions, events and fundraisers.
+        </Translate>
       </>
     ),
   },
   {
-    title: 'Build a powerhouse',
+    title: <Translate>Build a powerhouse</Translate>,
     Svg: require('../../static/img/Outlet.svg').default,
     description: (
       <>
-        Dive into the <a href="/docs/setting-up/webhooks">webhooks docs</a> and
-        find out how to integrate Wings with Mailchimp, The Action Network and
-        many more.
+        <Translate>Dive into the</Translate>{' '}
+        <a href="/docs/setting-up/webhooks">
+          <Translate>webhooks docs</Translate>
+        </a>{' '}
+        <Translate>
+          and find out how to integrate Wings with Mailchimp, The Action Network
+          and many more.
+        </Translate>
       </>
     ),
   },

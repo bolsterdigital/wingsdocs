@@ -1,0 +1,145 @@
+---
+sidebar_position: 1
+---
+
+# Settings (Instellingen)
+
+Als je klikt op `Settings`, you’ll find the the following settings pages. We will go over them one by one.
+
+![](https://screens.wings.dev/CleanShot-2020-09-07-at-13.34.00-1599478452.png)
+
+## Apps
+
+De meeste Wings-projecten hebben één frontend-applicatie – een _website_ – maar het is mogelijk om meerdere frontend-apps te hebben: afzonderlijke websites die hetzelfde Wings-project delen. Zo kun je bijvoorbeeld twee websites hebben met een ander _theme_ en elk een ander domein, als je bijvoorbeeld vanuit meerdere organisaties een gezamenlijke petitie-campagne wil lanceren.
+
+### Algemene app-instellingen
+
+Op de pagina General ('algemeen' kun je deze instellingen configureren:
+
+![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.49.47-1606906227.png)
+
+1. **Theme**: hier kun je het thema voor je site selecteren. Een thema is een verzameling stijlinstellingen, zoals kleuren en lettertypen; ze kunnen worden geconfigureerd via Settings -> themes
+2. **Main Menu**: selecteer welk menu (dat kan worden beheerd op het tabblad Settings -> Menu) als hoofdnavigatiemenu op uw website moet worden gebruikt.
+3. **Homepage**: kies welke _node_ (pagina, artikel of campagne) als voorpagina van uw website moet dienen.
+
+:::tip Hete tip
+
+Als je een thema wil uitproberen, maak je eerst een nieuw theme aan, creëer je vervolgens een nieuwe app en configureer je de app om je nieuwe thema te gebruiken.
+
+:::
+
+### Translation settings (Vertalingen-instellingen)
+
+In de Vertalingen-instellingen van je App kun je de Vertaling selecteren die je hebt gemaakt (zie de aparte [webhooks-pagina](webhooks) voor meer informatie).
+
+![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.48.21-1606906138.png)
+
+### Domains instellingen
+
+Kijk [hier](custom-domains) voor afzonderlijke informatie over het instellen van domeinen.
+
+### Scripts
+
+Het is eenvoudig om aangepaste scripts aan je website toe te voegen. Je kunt bijvoorbeeld een Google Tag Manager-script toevoegen.
+
+![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.52.51-1606906389.png)
+
+1. Ga naar het tabblad 'Scripts' voor je app
+2. Klik op 'Edit scripts'.
+
+Vervolgens kun je eenvoudig de scripts toevoegen:
+
+![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.54.25-1606906541.png)
+
+1. Geef je script een naam.
+2. Plak het script hier. Het moet beginnen met `<script>` en eindigen met `</script>`.
+3. Kies een locatie.
+4. Voeg indien nodig extra scripts toe.
+5. Klik op Finish
+6. En sla je nieuwe instellingen op.
+
+### Een Google Universal Analytics-script toevoegen
+
+Gebruik je Universal Analytics, met een tag die het formaat `UA-XXXXX-Y` heeft? Kopieer het onderstaande script en plak het in het scriptveld in Wings Admin, maar vervang `UA-XXXXX-Y` door je eigen tag.
+
+```
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-XXXXX-Y', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+```
+
+## Themes
+
+Op de pagina Themes (Thema's) kun je je eigen thema's configureren. **Opmerking**: wanneer je het thema bewerkt dat momenteel actief is op uw site, wijzig je onmiddellijk de presentatie van uw website.
+
+![](https://screens.wings.dev/CleanShot-2020-09-07-at-13.50.20-1599479432.png)
+
+## Menus (menu's)
+
+U kunt hier menu's configureren. Klik op 'Menu-item toevoegen' om een item toe te voegen en typ de titel en het pad. **Let op**: je hoeft niet de hele url in te voeren; je kunt relatieve paden gebruiken. Bijvoorbeeld, voor een pagina met de slug '`our-team`', kun je het pad `/our-team` invoeren (met een `/` aan het begin). Onthoud dat artikelen, aanmeldingen, inzamelingsacties, evenementen en petities moeten worden gekoppeld aan een pad dat hun node-type bevat. Een inzamelingsactie met de slug 'save-the-day' heeft een pad genaamd `/fundraisers/save-the-day`. Hetzelfde geldt voor `/articles/`, `/petitions/`, `/events/` en `/signups/`, respectievelijk.
+
+![](https://screens.wings.dev/Screen-Recording-2020-02-23-17-36-31-1582475796.gif)
+
+## Languages
+
+Zie de afzonderlijke [Languages](webhooks)-pagina voor meer informatie.
+
+## Commerce
+
+Op de pagina Commerce Settings kun je betalingsintegraties instellen voor betalingsverwerkers Stripe of Mollie. Indien je Stripe gebruikt, moet je je Public Key en Secret invullen. In het geval van Mollie, vul je gewoon je API-sleutel in. Uw inzamelingsacties zouden automatisch moeten werken. Tip: vul eerst je testgegevens in, zodat je de betalingsstroom kunt testen zonder daadwerkelijke betalingen te doen, en verander deze in de livegegevens nadat je je website heeft gepubliceerd.
+
+Let op: je kunt ook een Valuta instellen op een apart tabblad.
+
+![](https://screens.wings.dev/CleanShot-2020-03-13-at-09.11.43-1584087129.png)
+
+## Integrations
+
+Op de pagina Integrations kun je je integraties instellen met services van derden, zoals Mailchimp. Maak een API-sleutel aan in je Mailchimp-account en voer deze hier in.
+
+![](https://screens.wings.dev/CleanShot-2020-02-23-at-17.54.20-1582476872.png)
+
+## Emails
+
+Op de instellingenpagina voor e-mails kun je de bevestigings-/notificatie-e-mails configureren die worden verzonden naar iedereen die een campagneformulier indient. Er zijn twee typen e-mails die het vaakst voorkomen:
+
+### 1. Bevestigingsmails
+
+Je kunt een knop of tekstlink met een bevestigingslink opnemen. Als een gebruiker op deze link klikt, wordt hij doorgestuurd naar een 'bevestigd'-pagina [zoals deze](https://demo.wings.dev/petitions/demo-petition/confirmed). Bovendien wordt hun inzending als 'bevestigd' geregistreerd.
+
+![](https://screens.wings.dev/CleanShot-2020-02-23-at-18.04.09-1582477476.png)
+
+Deze bevestigings-flow is handig om te controleren of de inzending van een gebruiker een geldig e-mailadres bevat en dat je toestemming hebt gekregen om hun persoonlijke gegevens te gebruiken.
+
+Een ander voordeel van deze stroom is dat de 'bevestigde' pagina call-to-action-links bevat waarmee een gebruiker de campagne met hun vrienden kan delen.
+
+#### De bevestigingsmails configureren
+
+Alle campagnes leggen de gegevens van een gebruiker pas vast nadat deze op een bevestigingslink heeft geklikt in de e-mail die door Wings wordt verzonden. Let op: alle campagnes van een bepaald campagnetype krijgen dezelfde e-mail. Met andere woorden: ondertekenaars van petities ontvangen dezelfde bevestigingsmail van de petitie, ongeacht de petitie die wordt ondertekend.
+
+![](https://bureaubolster.s3-eu-west-1.amazonaws.com/IMG_1108.jpeg)
+
+1. Ga naar Settings -> Emails om de e-mails te configureren.
+2. Stel de afzendernaam in bij 'From'.
+3. Kies voor welk campagnetype je de e-mails wilt configureren.
+4. Schrijf een onderwerpregel voor een e-mail.
+5. Hier kun je inhoudsblokken van rechts naar links slepen om ze aan de e-mail toe te voegen.
+
+### 2. Notificatie- of bedankmails
+
+Als alternatief kun je de e-mail configureren als een eenvoudige 'bedankt'-e-mail met misschien een handmatig toegevoegde link die tot een vervolgactie aanspoort.
+
+## Webhooks
+
+Bekijk de afzonderlijke [webhooks-pagina](webhooks) voor meer informatie.
+
+## Schemas
+
+Schema's worden doorgaans door ontwikkelaars gebruikt om aangepaste componenten en ervaringen mogelijk te maken. [Neem contact op](mailto:dev@wings.dev) als je interesse hebt.

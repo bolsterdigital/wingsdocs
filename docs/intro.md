@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Getting started
 
-Hi! This is the manual for [Wings](https://wings.dev) websites. Wings allows you to add and edit content & campaigns from its admin interface located at [admin.wings.dev](https://admin.wings.dev).
+Hoi! Dit is de handleiding voor [Wings](https://wings.dev)-websites. Met Wings kunt u inhoud en campagnes toevoegen en bewerken vanuit de beheerdersinterface op [admin.wings.dev](https://admin.wings.dev).
 
-The following YouTube video may also serve as a helpful introduction to Wings; it covers the basics of publishing pages, articles and campaigns.
+De volgende (Engelstalige) YouTube-video kan ook dienen als een nuttige introductie tot Wings; het behandelt de basisprincipes van het publiceren van pagina's, artikelen en campagnes.
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/acSlE2wNbnQ" frameborder="0" allowfullscreen width="100%"></iframe>

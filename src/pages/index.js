@@ -7,27 +7,36 @@ import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import HomepageProposition from '../components/HomepageProposition';
 import productImage from '../../static/img/wings-petition.png';
+import Translate, { translate } from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">Wings: go win a campaign.</h1>
+        <h1 className="hero__title">
+          <Translate>Wings: go win a campaign.</Translate>
+        </h1>
         <img
           src={productImage}
           className={styles.productImage}
           alt="Wings Petition"
         />
 
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          {' '}
+          <Translate>
+            Progressive campaign websites-as-a-service. Your domain, your visual
+            identity, your content, your data.
+          </Translate>
+        </p>
 
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Set up your Wings website 🚀
+            <Translate>Set up your Wings website</Translate>
           </Link>
         </div>
       </div>

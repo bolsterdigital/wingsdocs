@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Volgende",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Setting up": {
+    "message": "Beginnen",
+    "description": "The label for category Setting up in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Pages & Articles": {
+    "message": "Pagina's & Artikelen",
+    "description": "The label for category Pages & Articles in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Creating campaigns": {
+    "message": "Campagnes aanmaken",
+    "description": "The label for category Creating campaigns in sidebar tutorialSidebar"
+  }
+}

@@ -15,6 +15,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     favicon: 'img/favicon.ico',
     organizationName: 'Wings', // Usually your GitHub org/user name.
     projectName: 'bolsterdigital', // Usually your repo name.
+    i18n: {
+      defaultLocale: 'en',
+      locales: ['en', 'nl'],
+    },
 
     presets: [
       [
@@ -37,21 +41,21 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
-        algolia: {
-          apiKey: '761cab4809847a1fae3df1e2011d4eda',
-          indexName: 'wingscms',
+        // algolia: {
+        //   apiKey: '761cab4809847a1fae3df1e2011d4eda',
+        //   indexName: 'wingscms',
 
-          // Optional: see doc section below
-          contextualSearch: false,
+        //   // Optional: see doc section below
+        //   contextualSearch: false,
 
-          // Optional: see doc section below
-          appId: 'MM3FME5B2G',
+        //   // Optional: see doc section below
+        //   appId: 'MM3FME5B2G',
 
-          // Optional: Algolia search parameters
-          searchParameters: {},
+        //   // Optional: Algolia search parameters
+        //   searchParameters: {},
 
-          //... other Algolia params
-        },
+        //   //... other Algolia params
+        // },
         image: 'img/wingsdocs-meta.png',
         navbar: {
           title: 'Wings',
@@ -92,8 +96,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             },
             {
               href: 'https://admin.wings.dev',
+              position: 'left',
+              label: 'Admin',
+            },
+            {
+              type: 'localeDropdown',
               position: 'right',
-              label: 'Wings Admin',
             },
           ],
         },
