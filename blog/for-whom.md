@@ -1,0 +1,84 @@
+---
+title: Who is Wings for?
+description: Wings is an ideal tool for a certain type of digital campaigner. Here is a handy checklist to quickly evaluate if Wings is the right fit.
+slug: for-whom
+authors:
+  - name: Jaap Stronks
+    title: Digital strategist
+    url: https://www.twitter.com/jaapstronks
+    image_url: https://screens.wings.dev/avatar-jaapstronks-76l7b6CsaWHRsbsqQ7OPIMlleZSbv3I5r3KV6w5Wx7GmVr0ozCnQgQHwNUGbG9XPu2RyFo18h6Duq2KSUWo9tOcJupIyh7A7e09m.jpeg
+
+tags: [wings]
+image: '../'
+hide_table_of_contents: false
+---
+
+Wings is a website-as-a-service platform for progressive organizations and campaigns. Our setup has a couple of unique characteristics, that may help you evaluate if Wings is right for you.
+
+![](/img/budget.png)
+
+<!--truncate-->
+
+## 1. Your budget
+
+Let's talk about the bottom line. You have a budget, but you have to make it count. You need a professional platform with specialized campaigning & organizing features, and you have some budget to pick something that is better than some free website builder.
+
+### Budget checks
+
+#### A modest setup budget
+
+You have a budget ranging from $ 1,000 to $ 2,500, which has to cover the setup fee as well as an entire year of hosting & support, excluding expenses you have reserved for optional visual design work.
+
+#### Yearly subscription budget
+
+You have a yearly budget of $ 500 - 1000 available to cover usage, hosting, maintenance and support after the first year. Maybe double that if you are a larger organization. You have a similarly-sized budget available for an email newsletter / CRM suite such as Mailchimp or The Action Network.
+
+#### Not looking for a costly bespoke setup
+
+You are not looking to spend $ 10,000 (or a multiple of that) on a custom-designed bespoke website.
+
+## 2. Your time
+
+So, you have green light and white smoke: it is time to set up a digital campaign. But how can you make it happen in the time that is available to you?
+
+![](/img/time.jpg)
+
+### Time considerations
+
+#### A short timeline
+
+You either need a campaign website in the very short term – tomorrow, or next week – or there may not be a rush, but you certainly do not have the luxury of spending countless of hours prepping a campaign website. It needs to Just Work™.
+
+#### Onboarding coworkers quickly
+
+You do not have a lot of time to train coworkers in using a CMS. The content management system should be simple to use and not have too many options you don't even use.
+
+#### No time to double-check everything
+
+You don't have time to check everything. You want to be sure all the bases are covered: the website should be responsive, secure, stable and GDPR-friendly, allowing you to focus on actual campaign work.
+
+## 3. Your technical requirements
+
+You do not have a fortune to spend, but that does not mean you are not ambitious. You need a powerful platform to run effective campaigns, and you have a list of requirements.
+
+![](/img/requirements.jpeg)
+
+### Requirements
+
+#### Petitions, signups and fundraisers out of the box
+
+You need a digital campaigning infrastructure that lets you build a movement. Processing payments and petition signatures should work out of the box.
+
+#### Integrations
+
+Are you using Mailchimp, ActiveCampaign, The Action Network or Nationbuilder for messaging and organizing? It should not matter: your campaign website should offer a seamless integration out of the box. (Wings does.)
+
+#### GDPR compliant
+
+You don't want to worry about GDPR compliance. Wings is hosted on servers in the European Union, all signup forms require users to actively check a privacy agreement box, and all signups include an email confirmation flow that makes sure your constituents consent to signing up for future updates.
+
+#### The right kind of customizability
+
+You need a website that is consistent with your organization's visual identity, including custom fonts, color schemes and details such as shadows and whether rectangles are square or rounded; you also want to be able to create forms with custom fields and send form submissions to third party services. However, you do not need to have full control over the design and layout of every element. Nor do you need custom post types, Google maps mashups and a multitude of article templates that would require custom design and development.
+
+So, do you think Wings might be a good fit for you? Go ahead and try it out for free – no obligations: [get a free demo account](/demo)!

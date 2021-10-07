@@ -1,0 +1,40 @@
+.pricing {
+  display: flex;
+  align-items: center;
+  padding: 4rem 1rem;
+  width: 100%;
+  background: #3c7aeb;
+}
+
+.pricingcolumn {
+  background: #f7f7f7;
+  border-radius: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+}
+h2.pricetitle {
+  margin-bottom: 0.5rem;
+}
+.project {
+  font-weight: 800;
+}
+p.perProject {
+  font-size: 1.4rem;
+}
+
+.label {
+  color: #3d7aeb;
+  background-color: rgba(61, 122, 235, 0.1);
+  text-transform: uppercase;
+  border-radius: 10rem;
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  font-size: 80%;
+  font-weight: 600;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  font-weight: 400;
+}

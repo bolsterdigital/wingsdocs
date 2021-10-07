@@ -70,7 +70,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               position: 'left',
               label: 'Docs',
             },
-            // { to: 'blog', label: 'Blog', position: 'left' },
+            { to: 'blog', label: 'Blog', position: 'left' },
             {
               type: 'dropdown',
               label: 'About',
@@ -78,23 +78,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               items: [
                 {
                   label: 'Background',
-                  href: 'https://wings.dev/about',
+                  href: '/about',
                 },
                 {
                   label: 'Features',
-                  href: 'https://wings.dev/features',
+                  href: '/features',
                 },
-                {
-                  label: 'Cases',
-                  href: 'https://wings.dev/cases',
-                },
+
                 {
                   label: 'Pricing',
-                  href: 'https://wings.dev/pricing',
+                  href: '/pricing',
                 },
                 {
                   label: 'Request demo',
-                  href: 'https://wings.dev/#demo',
+                  href: '/demo',
                 },
               ],
             },

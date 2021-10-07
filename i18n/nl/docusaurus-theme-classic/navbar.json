@@ -34,5 +34,9 @@
   "item.label.Request demo": {
     "message": "Demo aanvragen",
     "description": "Navbar item with label Request demo"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
   }
 }

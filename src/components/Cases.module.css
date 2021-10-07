@@ -1,0 +1,21 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featuredImage {
+  width: 80%;
+}
+
+.intro {
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto 6rem;
+}
+
+/* .featureSvg {
+    height: 100%;
+    width: 100%;
+  } */

@@ -33,7 +33,7 @@ export default function HomepageProposition() {
             website. Tell stories, launch petitions, build a following, raise
             funds, and win a campaign.
           </Translate>{' '}
-          <a href="https://wings.dev/#demo">
+          <a href="/demo">
             <Translate>Get a demo account</Translate>
           </a>
           !
