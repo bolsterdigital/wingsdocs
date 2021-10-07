@@ -113,10 +113,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               title: 'More',
               items: [
                 {
-                  label: 'wings.dev',
-                  to: 'https://wings.dev',
-                },
-                {
                   label: 'Wings admin',
                   to: 'https://admin.wings.dev',
                 },
