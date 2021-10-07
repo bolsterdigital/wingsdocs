@@ -45,16 +45,6 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate>Advanced Editor</Translate>,
-    image: '/img/article.png',
-    description: (
-      <Translate>
-        Launch powerful fundraiser campaigns and process donations with Stripe
-        or Mollie.
-      </Translate>
-    ),
-  },
-  {
     title: <Translate>Theming support</Translate>,
     image: '/img/theming.png',
     description: (
