@@ -23,10 +23,6 @@
     "message": "Features",
     "description": "Navbar item with label Features"
   },
-  "item.label.Cases": {
-    "message": "Cases",
-    "description": "Navbar item with label Cases"
-  },
   "item.label.Pricing": {
     "message": "Pricing",
     "description": "Navbar item with label Pricing"

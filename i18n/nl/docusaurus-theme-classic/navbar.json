@@ -19,10 +19,6 @@
     "message": "Kenmerken",
     "description": "Navbar item with label Features"
   },
-  "item.label.Cases": {
-    "message": "Voorbeelden",
-    "description": "Navbar item with label Cases"
-  },
   "item.label.Pricing": {
     "message": "Kosten",
     "description": "Navbar item with label Pricing"
