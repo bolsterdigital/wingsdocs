@@ -45,7 +45,7 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Wings documentation`}
+      title={`Wings`}
       description="Go create a movement and build a campaign."
     >
       <HomepageHeader />

@@ -56,7 +56,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
         //   //... other Algolia params
         // },
-        image: 'img/wingsdocs-meta.png',
+        image: 'img/wings-meta-image.png',
         navbar: {
           title: 'Wings',
           logo: {
