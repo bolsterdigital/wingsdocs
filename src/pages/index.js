@@ -15,9 +15,19 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">
-          <Translate>Wings: go win a campaign.</Translate>
-        </h1>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{
+            opacity: [0.5, 1],
+            y: 0,
+            scale: [0.7, 1],
+          }}
+          transition={{ ease: 'easeOut', duration: 1 }}
+        >
+          <h1 className="hero__title">
+            <Translate>Wings: go win a campaign.</Translate>
+          </h1>
+        </motion.div>
         <motion.div
           initial={{ opacity: 0 }}
           animate={{
@@ -25,6 +35,7 @@ function HomepageHeader() {
             y: 0,
             scale: [0.5, 1],
           }}
+          transition={{ ease: 'easeOut', duration: 1.5 }}
         >
           <img
             src={productImage}
