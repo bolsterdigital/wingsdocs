@@ -30,7 +30,7 @@ const PricingList = [
     feature1: <Translate>For large non-profits</Translate>,
     feature2: <Translate>unlimited user accounts</Translate>,
     setupFee: <Translate>€ 4.995</Translate>,
-    buttonclass: 'button button--seceondary',
+    buttonclass: 'button button--secondary',
   },
 ];
 
