@@ -19,6 +19,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       defaultLocale: 'en',
       locales: ['en', 'nl'],
     },
+    plugins: ['docusaurus-plugin-matomo'],
 
     presets: [
       [
@@ -56,6 +57,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
         //   //... other Algolia params
         // },
+        matomo: {
+          matomoUrl: 'https://stats.bureaubolster.nl/',
+          siteId: '7',
+        },
         image: 'img/wings-meta-image.png',
         navbar: {
           title: 'Wings',
