@@ -45,7 +45,9 @@ function Pricing({ label, price, feature1, feature2, setupFee, buttonclass }) {
           <h2 className={styles.pricetitle}>
             {price} <span className={styles.project}>/ mo</span>
           </h2>
-          <p className={styles.perProject}>per project</p>
+          <p className={styles.perProject}>
+            <Translate>per project</Translate>
+          </p>
           <p>{feature1}</p>
           <p>{feature2}</p>
           <p>Setup fee: {setupFee}</p>

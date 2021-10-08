@@ -54,7 +54,7 @@ function HomepageHeader() {
 
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/demo">
-            <Translate> Get a Wings website</Translate>
+            <Translate>Get a Wings website</Translate>
           </Link>
         </div>
       </div>
