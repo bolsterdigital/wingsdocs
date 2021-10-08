@@ -20,7 +20,8 @@ h2.pricetitle {
   font-weight: 800;
 }
 p.perProject {
-  font-size: 1.4rem;
+  text-transform: uppercase;
+  font-size: 0.8rem;
 }
 
 .label {
