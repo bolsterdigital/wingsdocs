@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+
 # Artikelen en pagina's maken
 
 Bij Articles kun je artikelen toevoegen en bewerken; bij Pages kun je pagina's toevoegen en bewerken. De interface lijkt voor beide erg op elkaar, maar artikelen worden meestal gebruikt voor nieuwsartikelen en 'verhalen', meestal met een groter beginscherm, terwijl 'pagina's' worden gebruikt voor algemene informatiepagina's.
@@ -20,7 +21,7 @@ Bij Articles kun je artikelen toevoegen en bewerken; bij Pages kun je pagina's t
 3. Meta: dit tabblad kan af en toe worden gebruikt om specifieke instellingen te configureren. Indien van toepassing, dien je specifieke instructies te ontvangen van een websiteontwikkelaar
 4. Apps: als je specifieke instellingen met betrekking tot de frontend-applicatie moet wijzigen, moet je hier zijn. Je kunt bijvoorbeeld een hoofdnavigatiemenu instellen dat deze pagina op de frontend moet weergeven, als dit anders moet zijn dan het hoofdmenu dat standaard is ingesteld.
 5. De titel komt hier.
-6. De _slug_ gaat hierheen. Pagina's hebben standaard uw hoofdwebsitedomein + hun slug als hun openbare url, bijvoorbeeld `https://www.uwwebsite.com/hello-world`. Artikelen worden in een directory met de naam `articles` geplaatst, bijvoorbeeld `https://www.yourwebsite.com/articles/hello-world`.
+6. De _slug_ gaat hierheen. Pagina's hebben standaard jouw hoofdwebsitedomein + hun slug als hun openbare url, bijvoorbeeld `https://www.uwwebsite.com/hello-world`. Artikelen worden in een directory met de naam `articles` geplaatst, bijvoorbeeld `https://www.yourwebsite.com/articles/hello-world`.
 7. Je kunt hier de taal voor deze pagina instellen.
 8. Hier zie je een knipperende cursor. Begin maar met typen!
 9. Dit is de opmaakwerkbalk, die vergelijkbaar is met andere CMS'en en tekstbewerkingsprogramma's. Je kunt deze gebruiken om koppen, ongeordende lijsten (meestal gestileerd met opsommingstekens), geordende (genummerde) lijsten, **strong**, `code' en [links](https://example.com) toe te voegen.
@@ -82,7 +83,7 @@ Hierdoor wordt de campagne getoond op de gekozen locatie:
 
 ### Nodes
 
-Met een Nodes-kaart kunt je een raster van pagina's, artikelen of campagnes weergeven. Je kunt ervoor kiezen om een handmatige selectie van knooppunten weer te geven, of een automatisch bijgewerkte lijst van de meest recente knooppunten van een bepaald type, met paginering (dus: een lijst met artikelen / pagina's / evenementen, enz.).
+Met een Nodes-kaart kunt je een raster van pagina's, artikelen of campagnes weergeven. Je kunt ervoor kiezen om een handmatige selectie van nodes weer te geven, of een automatisch bijgewerkte lijst van de meest recente nodes van een bepaald type, met paginering (dus: een lijst met artikelen / pagina's / evenementen, enz.).
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.06.58-1582466831.png)
 
@@ -94,7 +95,7 @@ Het resultaat ziet er ongeveer zo uit:
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-15-09-1582467315.gif)
 
-De 'Archive'-versie toont de 12 meest recente nodes van het geselecteerde node-type, en stelt je in staat om andere nodes te bekijken met behulp van de pagineringsknoppen onderaan.
+De 'Archive'-versie toont de 12 meest recente nodes van het geselecteerde node-type (dus: de meest recente artikelen, of de meest recent gepubliceerde pagina's, petities, evenementen, enzovoorts), en stelt je in staat om terug te bladeren naar nog eerder gepubliceerde nodes.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.17.35-1582467483.png)
 
@@ -106,7 +107,7 @@ Met een embed kun je een YouTube-video weergeven door de URL in te voeren.
 
 ### Een insight (inzicht)
 
-Een insight geeft een grote, gemarkeerd citaat weer.
+Een insight geeft een groot, gemarkeerd citaat weer.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.23.09-1582467798.png)
 
@@ -117,7 +118,7 @@ Met de testimonial kun je een gemarkeerd verhaal en een afbeelding weergeven. Al
 
 ### Q&A (Vraag en antwoord)
 
-De Q&A wordt vaak gebruikt voor veelgestelde vragen: er wordt een lijst met vragen weergegeven en het antwoordgedeelte van elke vraag wordt uitgevouwen en samengevouwen.
+De Q&A wordt vaak gebruikt voor veelgestelde vragen: er wordt een lijst met vragen weergegeven en het antwoordgedeelte van elke vraag wordt uit- en ingeklapt.
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-27-06-1582468032.gif)
 
@@ -133,11 +134,11 @@ Met het element Collection kun je een raster van personen of een lijst met organ
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-30-48-1582468259.gif)
 
-Een verzameling 'mensen' toont een raster van persoonskaarten:
+Een verzameling 'persons' toont een raster van persoonskaarten:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.31.42-1582468308.png)
 
-Een verzameling 'organisaties' toont een lijst met organisatieprofielen:
+Een verzameling 'organizations' toont een lijst met organisatieprofielen:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.32.33-1582468374.png)
 
@@ -150,7 +151,7 @@ Op het tabblad Platforms kun je instellingen configureren voor zoekmachines en s
 Als kr op het tabblad 'Platforms' klikt, kunt je het volgende configureren:
 
 - **Featured** ('uitgelicht'): de titel, beschrijving en afbeelding die wordt weergegeven bij gebruik van de kaart 'nodes' of 'campaign'. Deze instellingen worden ook gebruikt voor zoekmachines en social media, **tenzij** je deze apart configureert:
-- **Search Engines**: stel een titel en beschrijving in om te overschrijven wat je hebt geconfigureerd op het tabblad 'Aanbevolen'.
-- **Facebook**: stel een titel, beschrijving en meta-afbeelding in voor Facebook en andere sociale-mediaplatforms, die worden gebruikt om een 'kaart' weer te geven wanneer een gebruiker een link deelt naar de pagina die je aan het bewerken bent op sociale media. De Facebook-instellingen worden ook gebruikt voor Twitter en WhatsApp, **tenzij** je die apart configureert
-- **Twitter**: vul hier details in als je een andere titel, beschrijving en afbeelding wilt gebruiken dan je hebt geconfigureerd voor Facebook.
-- **WhatsApp**: configureer een standaard bericht voor delen.
+- **Search Engines**: stel een titel en beschrijving in om te overschrijven wat je hebt geconfigureerd op het tabblad 'Featured'.
+- **Facebook**: stel een titel, beschrijving en meta-afbeelding in voor Facebook en andere sociale-mediaplatforms, die worden gebruikt om een 'card' weer te geven wanneer een gebruiker op sociale media een link deelt naar de pagina die je aan het bewerken bent. De Facebook-instellingen worden ook gebruikt voor Twitter en WhatsApp, **tenzij** je daarvoor iets specifieks instelt.
+- **Twitter**: vul hier details in als je een andere titel, beschrijving en afbeelding wilt gebruiken dan je hebt ingesteld voor Facebook.
+- **WhatsApp**: stel een standaardbericht in dat wordt ingevoegd aan een WhatsApp-bericht dat wordt aangemaakt wanneer een gebruiker op de 'deel via WhatsApp'-knop drukt..

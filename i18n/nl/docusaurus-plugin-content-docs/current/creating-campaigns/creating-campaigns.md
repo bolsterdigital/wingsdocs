@@ -55,7 +55,7 @@ Op het tabblad 'Signatures' of 'Attendees' of 'Donations' zie je de mogelijkheid
 
 ## Settings
 
-Op het tabblad Instellingen kun je aanvullende instellingen configureren.
+Op het tabblad Settings kun je aanvullende instellingen configureren.
 
 ### Legal
 
@@ -65,14 +65,14 @@ Op het tabblad Legal ('juridisch') kun je de paden of urls instellen voor de lin
 
 ### Koppelingen maken met andere webdiensten
 
-Om gebruikersgegevens in te dienen bij services van derden (zoals e-mailnieuwsbrieven en kiezersactiveringssoftware), kun je twee hoofdmethoden gebruiken:
+Om gebruikersgegevens in te dienen bij diensten van derden (zoals e-mailnieuwsbrieven en kiezersactiveringssoftware), kun je twee hoofdmethoden gebruiken:
 
 1. Handmatig [gebruikersgegevens downloaden](#downloading-user-data) in CSV-formaat
 2. Gebruik [webhooks](/docs/setting-up/webhooks) om automatisch gebruikersgegevens naar een service als Zapier te sturen voor slimme verwerking, waardoor Wings-campagnes programmatisch kunnen worden gekoppeld aan een onbeperkt aantal services.
 
 ### Petitie-mogelijkheden
 
-Petition campaigns have a couple of special options:
+Petities hebben een aantal bijzondere opties:
 
 1. Bij petities wordt standaard een teller weergegeven die het aantal mensen toont dat heeft getekend. Je kunt deze teller verbergen door dit vakje aan te vinken.
 2. Je kunt het weergegeven aantal mensen dat heeft getekend, ophogen met een willekeurig aantal.

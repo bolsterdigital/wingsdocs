@@ -23,9 +23,7 @@ Petities bestaan meestal uit de volgende elementen:
 - Petities **werken op vele niveaus**: ze vergroten het bewustzijn, kanaliseren publieke verontwaardiging, creëren politieke druk en helpen je om supporters en activisten te organiseren en werven.
 - Een petitie moet een **theorie van verandering** (meestal in het Engels aangeduid als 'Theory of Change') hebben – het moet gewoon _logisch_ zijn dat het ondertekenen van een petitie je kan helpen je doel te bereiken. Dit doel moet haalbaar lijken, tijdgebonden, meetbaar, enigszins beperkt van omvang en dramatisch zijn.
 
-## Petitions: speciale instellingen
-
-Petition campaigns have a couple of special options:
+## Petities: speciale instellingen
 
 Petitiecampagnes hebben een aantal speciale opties:
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Gebruik webhooks
 
-Webhooks bieden een lichtgewicht maar krachtige manier om formulierinzendingen en informatie over gemaakte, bijgewerkte en verwijderde knooppunten (artikelen, pagina's en campagnes) naar services van derden te verzenden.
+Webhooks bieden een lichtgewicht maar krachtige manier om formulierinzendingen en informatie over gemaakte, bijgewerkte en verwijderde nodes (artikelen, pagina's en campagnes) naar diensten van derden te verzenden.
 
 ## Wat zijn webhooks?
 
@@ -149,7 +149,7 @@ Als je op 'Doorgaan' klikt, kun je de laatste stap configureren.
 
 ### 7. Stuur de gegevens naar een service van derden
 
-De laatste stap van een Zapier-reeks is het verzenden van de gegevens naar een service van derden. In dit voorbeeld sturen we de gebruikersinzending naar The Action Network.
+De laatste stap van een Zapier-reeks is het verzenden van de gegevens naar een dienst van derden. In dit voorbeeld sturen we de gebruikersinzending naar The Action Network.
 
 ![](https://screens.wings.dev/CleanShot-2020-11-28-at-15.04.49-1606572306.png)
 
