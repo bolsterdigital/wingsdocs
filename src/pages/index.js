@@ -8,6 +8,7 @@ import HomepageFeatures from '../components/HomepageFeatures';
 import HomepageProposition from '../components/HomepageProposition';
 import productImage from '../../static/img/wings-petition.png';
 import Translate, { translate } from '@docusaurus/Translate';
+import { motion } from 'framer-motion';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -17,11 +18,20 @@ function HomepageHeader() {
         <h1 className="hero__title">
           <Translate>Wings: go win a campaign.</Translate>
         </h1>
-        <img
-          src={productImage}
-          className={styles.productImage}
-          alt="Wings Petition"
-        />
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{
+            opacity: [0.5, 1],
+            y: 0,
+            scale: [0.5, 1],
+          }}
+        >
+          <img
+            src={productImage}
+            className={styles.productImage}
+            alt="Wings Petition"
+          />
+        </motion.div>
 
         <p className="hero__subtitle">
           {' '}
