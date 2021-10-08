@@ -3,14 +3,25 @@ import Layout from '@theme/Layout';
 import Pricings from '../components/Pricing';
 import styles from './pricing.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
+import { motion } from 'framer-motion';
 
 function Pricing() {
   return (
     <Layout title="Pricing">
       <div className={styles.pricingcontainer}>
-        <h1>
-          <Translate>We've got great plans for you.</Translate>
-        </h1>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{
+            opacity: [0.5, 1],
+            y: 0,
+            scale: [0.7, 1],
+          }}
+          transition={{ ease: 'easeOut', duration: 1 }}
+        >
+          <h1>
+            <Translate>We've got great plans for you.</Translate>
+          </h1>
+        </motion.div>
         <p>
           <Translate>
             From the smallest grassroots neighbourhood initiative to global,
