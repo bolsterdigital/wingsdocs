@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './Features.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
+import { motion } from 'framer-motion';
 
 const FeatureList = [
   {
@@ -125,11 +126,21 @@ export default function Features() {
     <section className={styles.features}>
       <div className="container">
         <div className={styles.intro}>
-          <h1>
-            <Translate>
-              All the features you need. None of the ones you don't.
-            </Translate>
-          </h1>
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{
+              opacity: [0.5, 1],
+              y: 0,
+              scale: [0.7, 1],
+            }}
+            transition={{ ease: 'easeOut', duration: 1 }}
+          >
+            <h1>
+              <Translate>
+                All the features you need. None of the ones you don't.
+              </Translate>
+            </h1>
+          </motion.div>
 
           <p>
             <Translate>
