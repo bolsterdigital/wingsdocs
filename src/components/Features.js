@@ -21,7 +21,8 @@ const FeatureList = [
     image: '/img/fundraisers.png',
     description: (
       <Translate>
-        learn how to use signups, petitions, events and fundraisers.
+        Launch powerful fundraiser campaigns and process donations with Stripe
+        or Mollie.
       </Translate>
     ),
   },
@@ -30,8 +31,7 @@ const FeatureList = [
     image: '/img/article.png',
     description: (
       <Translate>
-        Launch powerful fundraiser campaigns and process donations with Stripe
-        or Mollie.
+        Use our user-friendly card-based editor to create beautiful content.
       </Translate>
     ),
   },
