@@ -2,7 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
-import { motion } from 'framer-motion';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -11,9 +11,9 @@ const FeatureList = [
     description: (
       <>
         <Translate>Get started</Translate>{' '}
-        <a href="/docs/pages-articles/publish-articles-and-pages">
+        <Link to="/docs/pages-articles/publish-articles-and-pages">
           <Translate>publishing</Translate>
-        </a>{' '}
+        </Link>{' '}
         <Translate>
           beautiful pages and compelling stories with Wings.
         </Translate>
@@ -26,13 +26,14 @@ const FeatureList = [
     Svg: require('../../static/img/Flag.svg').default,
     description: (
       <>
-        <Translate>Start a movement with</Translate>{' '}
-        <a href="/docs/creating-campaigns/creating-campaigns">
-          <Translate>Wings campaigns</Translate>
-        </a>
+        <Translate>Build a movement with our</Translate>{' '}
+        <Link to="/features">
+          <Translate>powerful features</Translate>
+        </Link>
         :{' '}
         <Translate>
-          learn how to use signups, petitions, events and fundraisers.
+          create signups, petitions, events and fundraisers to win your
+          campaign.
         </Translate>
       </>
     ),
@@ -43,9 +44,9 @@ const FeatureList = [
     description: (
       <>
         <Translate>Dive into the</Translate>{' '}
-        <a href="/docs/setting-up/webhooks">
+        <Link to="/docs/setting-up/webhooks">
           <Translate>webhooks docs</Translate>
-        </a>{' '}
+        </Link>{' '}
         <Translate>
           and find out how to integrate Wings with Mailchimp, The Action Network
           and many more.
