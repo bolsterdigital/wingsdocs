@@ -7,10 +7,14 @@ function Form() {
   return (
     <Layout title="Get a demo">
       <div className={styles.content}>
-        <h1>Take Wings for a spin</h1>
+        <h1>
+          <Translate>Take Wings for a spin</Translate>
+        </h1>
         <p>
-          Let's create a demo project that you can try out for free, no
-          obligations.
+          <Translate>
+            Let's create a demo project that you can try out for free, no
+            obligations.
+          </Translate>
         </p>
       </div>
       <div className={styles.formwrapper}>

@@ -182,9 +182,6 @@
   "Wings: go win a campaign.": {
     "message": "Wings: win een campagne."
   },
-  "Set up your Wings website": {
-    "message": "Ga aan de slag met Wings 🚀"
-  },
   "Get started": {
     "message": "Begin met het"
   },
@@ -193,9 +190,6 @@
   },
   "beautiful pages and compelling stories with Wings.": {
     "message": "van fraaie pagina's en overtuigende artikelen met Wings."
-  },
-  "Start a movement with": {
-    "message": "Lanceer een beweging met"
   },
   "Wings campaigns": {
     "message": "Wings-campagnes"
@@ -364,5 +358,41 @@
   },
   "From the smallest grassroots neighbourhood initiative to global, multilingual federated website infrastructure: Wings can accomodate any progressive campaign.": {
     "message": "Van een kleinschalig lokaal initiatief tot een wereldwijd meertalig websitenetwerk: Wings kan elk formaat aan."
+  },
+  "bloebloe & Articles": {
+    "message": "bloebloe & Articles"
+  },
+  "blabla & Articles": {
+    "message": "blabla & Articles"
+  },
+  "Use our user-friendly card-based editor to create beautiful content.": {
+    "message": "Gebruik onze handige card-gebaseerde redactiesysteem om verzorgde contentpagina's samen te stellen."
+  },
+  "Build a movement with our": {
+    "message": "Bouw een beweging met onze"
+  },
+  "powerful features": {
+    "message": "krachtige functies"
+  },
+  "create signups, petitions, events and fundraisers to win your campaign.": {
+    "message": "Creëer nieuwsbriefsignups, petities, evenementen en donatiecampagnes om een succesvolle campagne mee te bouwen."
+  },
+  "6 user accounts": {
+    "message": "6 gebruikersaccounts"
+  },
+  "unlimited user accounts": {
+    "message": "onbeperkt aantal gebruikersaccounts"
+  },
+  "€ 4.995": {
+    "message": "€ 4.995"
+  },
+  "per project": {
+    "message": "per project"
+  },
+  "Take Wings for a spin": {
+    "message": "Probeer Wings eens uit"
+  },
+  "Let's create a demo project that you can try out for free, no obligations.": {
+    "message": "We maken graag een voorbeeld-project aan dat je gratis kunt uitproberen, zonder verplichtingen."
   }
 }
