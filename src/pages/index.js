@@ -31,7 +31,6 @@ function HomepageHeader() {
         </motion.div>
 
         <ImageComponent className={styles.productImage} image={productImage} />
-        {/* <img src={productImage} alt="Wings Petition" /> */}
 
         <p className="hero__subtitle">
           {' '}

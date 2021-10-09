@@ -23,7 +23,7 @@ export default function ImageComponent(props) {
             x: 0,
             scale: [0.2, 1],
             height: imageLoading ? '100%' : 'auto',
-            opacity: imageLoading ? 0 : 1,
+            opacity: [0, 1],
           }}
           transition={
             ({ scale: { delay: 0, duration: 0.4 } },
