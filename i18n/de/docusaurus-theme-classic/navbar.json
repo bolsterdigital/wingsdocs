@@ -1,0 +1,38 @@
+{
+  "title": {
+    "message": "Wings",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "Dokumentation",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.About": {
+    "message": "Über",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Admin": {
+    "message": "Admin",
+    "description": "Navbar item with label Admin"
+  },
+  "item.label.Background": {
+    "message": "Herkunft",
+    "description": "Navbar item with label Background"
+  },
+  "item.label.Features": {
+    "message": "Funktionen",
+    "description": "Navbar item with label Features"
+  },
+  "item.label.Pricing": {
+    "message": "Preise",
+    "description": "Navbar item with label Pricing"
+  },
+  "item.label.Request demo": {
+    "message": "Demo anfordern",
+    "description": "Navbar item with label Request demo"
+  }
+}
