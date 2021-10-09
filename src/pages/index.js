@@ -45,7 +45,7 @@ function HomepageHeader() {
           whileTap={{ scale: 0.9 }}
         >
           <Link to="/demo">
-            <Translate> Get a Wings website</Translate>
+            <Translate>Take off with Wings 🛫</Translate>
           </Link>
         </motion.button>
       </div>
