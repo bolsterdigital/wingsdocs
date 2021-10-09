@@ -45,7 +45,7 @@ This brings us to a simplified model of degrees of engagement, as it relates to 
 - Contributers: users who provide your organization with other types of value than the monetary kind. They may pay with their knowledge, network, time, presence or reputation. They are activists, volunteers, ambassadors, committee members, and so on. There are countless of ways in which people can participate, with many intermediary levels that may be distinguished.
 - Leaders: Contributors that become more active may be rewarded with additional responsibilities, eventually obtaining positions associated with leadership.
 
-Here, it becomes apparent in what respects the emergence of the web has been transformational to the fabric of society: it introduced weak ties – relationships that may be unidirectional and lower-value, but still lasting, possibly long-term relationships that do not require the exchange of money. We know them as fans, followers and email subscribers.
+It becomes apparent in what respects the emergence of the web has been transformational to the fabric of society: it introduced weak ties – relationships that may be unidirectional and lower-value, but still lasting, possibly long-term relationships that do not require the exchange of money. We know them as fans, followers and email subscribers.
 
 As this engagement level did simply not exist before, it still presents nonprofits with a formidable challenge to incorporate this into their engagement infrastructure.
 
