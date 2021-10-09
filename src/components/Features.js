@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import styles from './Features.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
+import ImageComponent from '../components/ImageComponent';
 
 const FeatureList = [
   {
@@ -111,7 +112,7 @@ function Feature({ image, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={image} className={styles.featuredImage} alt={title} />
+        <ImageComponent className={styles.featuredImage} image={image} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
@@ -133,21 +134,22 @@ export default function Features() {
               y: 0,
               scale: [0.7, 1],
             }}
-            transition={{ ease: 'easeOut', duration: 1 }}
+            transition={{ ease: 'easeOut', duration: 0.5 }}
           >
             <h1>
               <Translate>
                 All the features you need. None of the ones you don't.
               </Translate>
             </h1>
-          </motion.div>
 
-          <p>
-            <Translate>
-              Wings is designed from the ground up to build a non-profit website
-              and run progressive campaigns. Here is an overview of features.
-            </Translate>{' '}
-          </p>
+            <p>
+              <Translate>
+                Wings is designed from the ground up to build a non-profit
+                website and run progressive campaigns. Here is an overview of
+                features.
+              </Translate>{' '}
+            </p>
+          </motion.div>
         </div>
 
         <div className="row">

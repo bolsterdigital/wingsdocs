@@ -13,14 +13,19 @@ image: '../'
 hide_table_of_contents: false
 ---
 
-As a progressive movement or charity organization, you are in the business of building engagement. Engagement can take many forms. People may:
+import ImageComponent from '../src/components/ImageComponent';
+import budgetImage from '/img/ladder.png';
+
+As a progressive movement or charity organization, you are in the business of building engagement.
+
+<ImageComponent image={budgetImage} />
+
+Engagement can take many forms. People may:
 
 - apply for a membership
 - become a recurring donor
 - volunteer their time
 - share their knowledge and experience
-
-![](/img/ladder.png)
 
 Since the emergence of the web, nonprofits were faced with the challenge of creating models of engagement that are compatible with the way people communicate and form relationships online. They need to build a ladder of engagement – and if you are looking to construct one for your progressive organization, this article may help you on your way.
 

@@ -13,9 +13,14 @@ image: '../'
 hide_table_of_contents: false
 ---
 
+import ImageComponent from '../src/components/ImageComponent';
+import budgetImage from '/img/budget.png';
+import requirementsImage from '/img/requirements.jpeg';
+import timeImage from '/img/time.jpg';
+
 Wings is a website-as-a-service platform for progressive organizations and campaigns. Our setup has a couple of unique characteristics, that may help you evaluate if Wings is right for you.
 
-![](/img/budget.png)
+<ImageComponent image={budgetImage} />
 
 <!--truncate-->
 
@@ -41,7 +46,7 @@ You are not looking to spend $ 10,000 (or a multiple of that) on a custom-design
 
 So, you have green light and white smoke: it is time to set up a digital campaign. But how can you make it happen in the time that is available to you?
 
-![](/img/time.jpg)
+<ImageComponent image={timeImage} />>
 
 ### Time considerations
 
@@ -61,7 +66,7 @@ You don't have time to check everything. You want to be sure all the bases are c
 
 You do not have a fortune to spend, but that does not mean you are not ambitious. You need a powerful platform to run effective campaigns, and you have a list of requirements.
 
-![](/img/requirements.jpeg)
+<ImageComponent image={requirementsImage} />
 
 ### Requirements
 

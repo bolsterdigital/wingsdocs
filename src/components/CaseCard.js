@@ -2,17 +2,19 @@ import styles from './CaseCard.module.css';
 
 function CaseCard(title, description, image) {
   return (
-    <div class="card-demo">
-      <div class="card">
-        <div class="card__image">
+    <div className="card-demo">
+      <div className="card">
+        <div className="card__image">
           <img src={image} alt={title} title={title} />
         </div>
-        <div class="card__body">
+        <div className="card__body">
           <h4>{title}</h4>
           <small>{description}</small>
         </div>
-        <div class="card__footer">
-          <button class="button button--primary button--block">Visit</button>
+        <div className="card__footer">
+          <button className="button button--primary button--block">
+            Visit
+          </button>
         </div>
       </div>
     </div>

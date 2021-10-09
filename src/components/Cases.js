@@ -15,6 +15,28 @@ const Caseslist = [
       </>
     ),
   },
+  {
+    title: <Translate>bloebloe & Articles</Translate>,
+    image: '/img/content-editor.png',
+    description: (
+      <>
+        <Translate>
+          beautiful pages and compelling stories with Wings.
+        </Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate>blabla & Articles</Translate>,
+    image: '/img/content-editor.png',
+    description: (
+      <>
+        <Translate>
+          beautiful pages and compelling stories with Wings.
+        </Translate>
+      </>
+    ),
+  },
 ];
 
 function Case({ image, title, description }) {
