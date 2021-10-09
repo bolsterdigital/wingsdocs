@@ -1,0 +1,368 @@
+{
+  "Pages & Articles": {
+    "message": "Seiten & Artikel"
+  },
+  "beautiful pages and compelling stories with Wings.": {
+    "message": "schöner Seiten und fesselnder Geschichten mit Wings."
+  },
+  "Donations": {
+    "message": "Spenden"
+  },
+  "Launch powerful fundraiser campaigns and process donations with Stripe or Mollie.": {
+    "message": "Starten Sie leistungsstarke Spendenaktionen, die von Stripe oder Mollie unterstützt werden."
+  },
+  "Advanced Editor": {
+    "message": "Tolle Bearbeitungsmöglichkeitenr"
+  },
+  "Use our user-friendly card-based editor to create beautiful content.": {
+    "message": "Verwenden Sie unseren benutzerfreundlichen kartenbasierten Editor, um schöne Inhalte zu erstellen."
+  },
+  "Confirmation emails": {
+    "message": "Bestätigungs-E-Mails"
+  },
+  "Configure personalized confirmation emails with a user-friendly drag-and-drop editor.": {
+    "message": "Konfigurieren Sie personalisierte Bestätigungs-E-Mails mit einem benutzerfreundlichen Drag-and-Drop-Editor"
+  },
+  "Theming support": {
+    "message": "Themenunterstützung"
+  },
+  "Easily configure colors, typography, link styles and more with the Theming editor, and even create multiple themes.": {
+    "message": "Mit dem Theme-Editor können Sie ganz einfach Farben, Typografie, Link-Stile und mehr konfigurieren und sogar mehrere Themen erstellen."
+  },
+  "Signups": {
+    "message": "Anmeldungen"
+  },
+  "Publish email signup forms on standalone landing pages or insert signup campagins into any article or page.": {
+    "message": "Zeigen Sie E-Mail-Anmeldeformulare auf eigenständigen Zielseiten an oder fügen Sie sie in einen Artikel oder eine Seite ein."
+  },
+  "Event campaigns": {
+    "message": "Event campaigns"
+  },
+  "Launch event campaigns and save user data of people who sign up to attend.": {
+    "message": "Starten Sie Veranstaltungskampagnen und speichern Sie Benutzerdaten von Personen, die sich für die Teilnahme anmelden."
+  },
+  "Petitions": {
+    "message": "Petitionen"
+  },
+  "Create petition campaigns with custom fields, a configurable counter and email confirmations.": {
+    "message": "Erstellen Sie Petitionskampagnen mit benutzerdefinierten Feldern, einem konfigurierbaren Zähler und E-Mail-Bestätigungen."
+  },
+  "Internationalization": {
+    "message": "Mehrsprachigkeit"
+  },
+  "Wings supports multiple languages, including a language switcher for pages that have mulitple locales.": {
+    "message": "Wings unterstützt mehrere Sprachen, einschließlich eines Sprachumschalters für Seiten mit mehreren Sprachversionen."
+  },
+  "Custom fields": {
+    "message": "Benutzerdefinierte Felder"
+  },
+  "Add custom text or checkbox fields to your campaign forms to collect valuable user info and build a movement.": {
+    "message": "Fügen Sie Ihren Kampagnenformularen benutzerdefinierte Text- oder Kontrollkästchenfelder hinzu, um wertvolle Benutzerinformationen zu sammeln und eine Bewegung aufzubauen."
+  },
+  "All the features you need. None of the ones you don't.": {
+    "message": "Alle Funktionen, die Sie brauchen, und keine überflüssigen."
+  },
+  "Wings is designed from the ground up to build a non-profit website and run progressive campaigns. Here is an overview of features.": {
+    "message": "Wings wurde von Grund auf entwickelt, um Websites für gemeinnützige Organisationen und progressive Kampagnen zu erstellen. Hier ist eine Übersicht der Funktionen."
+  },
+  "Publish pages and articles": {
+    "message": "Seiten und Artikel veröffentlichen"
+  },
+  "Get started": {
+    "message": "Beginnen Sie mit der"
+  },
+  "publishing": {
+    "message": "Veröffentlichung"
+  },
+  "Run winning campaigns": {
+    "message": "Führen Sie erfolgreiche Kampagnen durch"
+  },
+  "Start a movement with": {
+    "message": "Starten Sie eine Bewegung mit"
+  },
+  "Wings campaigns": {
+    "message": "Wings-kampagnen"
+  },
+  "learn how to use signups, petitions, events and fundraisers.": {
+    "message": "Erfahren Sie, wie Sie Anmeldungen, Petitionen, Veranstaltungen und Spendenaktionen nutzen."
+  },
+  "Build a powerhouse": {
+    "message": "Baue ein Kraftpaket"
+  },
+  "Dive into the": {
+    "message": "Tauchen Sie ein in die"
+  },
+  "webhooks docs": {
+    "message": "Webhooks-Dokumentation"
+  },
+  "and find out how to integrate Wings with Mailchimp, The Action Network and many more.": {
+    "message": "und finden Sie heraus, wie Sie Wings mit Mailchimp, The Action Network und vielen mehr integrieren können."
+  },
+  "Try it out": {
+    "message": "Versuch es"
+  },
+  "Supercharge your campaign.": {
+    "message": "Verleihen Sie Ihrer Kampagne Flügel."
+  },
+  "Use Wings as your content management system and public-facing website. Tell stories, launch petitions, build a following, raise funds, and win a campaign.": {
+    "message": "Verwenden Sie Wings als Ihr Content-Management-System und Ihre öffentlich zugängliche Website. Erzählen Sie Geschichten, starten Sie Petitionen, bauen Sie eine Fangemeinde auf, sammeln Sie Spenden und gewinnen Sie eine Kampagne."
+  },
+  "Get a demo account": {
+    "message": "Holen Sie sich ein Demokonto"
+  },
+  "grassroots": {
+    "message": "grassroots"
+  },
+  "€ 39": {
+    "message": "€ 39"
+  },
+  "For non-profits with no paid staff": {
+    "message": "Für gemeinnützige Organisationen ohne bezahlte Mitarbeiter"
+  },
+  "3 user accounts": {
+    "message": "3 Benutzerkonten"
+  },
+  "€ 495": {
+    "message": "€ 495"
+  },
+  "Basic": {
+    "message": "Basis"
+  },
+  "€ 79": {
+    "message": "€ 79"
+  },
+  "For small non-profits with fewer than 10 staff members": {
+    "message": "Für kleine gemeinnützige Organisationen mit weniger als 10 Mitarbeitern"
+  },
+  "6 user accounts": {
+    "message": "6 Benutzerkonten"
+  },
+  "€ 1295": {
+    "message": "€ 1295"
+  },
+  "Premium": {
+    "message": "Premium"
+  },
+  "€ 195": {
+    "message": "€ 195"
+  },
+  "For large non-profits": {
+    "message": "Für große Organisationen"
+  },
+  "unlimited user accounts": {
+    "message": "unbegrenzte Anzahl von Benutzerkonten"
+  },
+  "€ 4.995": {
+    "message": "€ 4.995"
+  },
+  "Name": {
+    "message": "Nahme"
+  },
+  "Your Email": {
+    "message": "Deine E-Mail"
+  },
+  "Organization": {
+    "message": "Organisation"
+  },
+  "Send": {
+    "message": "Senden"
+  },
+  "Wings: go win a campaign.": {
+    "message": "Wings: Gewinnen Sie eine Kampagne."
+  },
+  "Progressive campaign websites-as-a-service. Your domain, your visual identity, your content, your data.": {
+    "message": "Progressive Kampagnen-Websites-as-a-Service. Ihre Domain, Ihre visuelle Identität, Ihre Inhalte, Ihre Daten."
+  },
+  "Get a Wings website": {
+    "message": "Holen Sie sich eine Wings-Website"
+  },
+  "We've got great plans for you.": {
+    "message": "Für jede Größe der richtige Preis."
+  },
+  "From the smallest grassroots neighbourhood initiative to global, multilingual federated website infrastructure: Wings can accomodate any progressive campaign.": {
+    "message": "Von der kleinsten Graswurzel-Nachbarschaftsinitiative bis hin zur globalen, mehrsprachigen Infrastruktur mit mehreren Websites: Wings kann jede progressive Kampagne unterstützen."
+  },
+  "theme.NotFound.title": {
+    "message": "Seite nicht gefunden",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Wir konnten nicht finden, wonach Sie gesucht haben.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Bitte kontaktieren Sie den Besitzer der Seite, die Sie mit der ursprünglichen URL verlinkt hat, und teilen Sie ihm mit, dass der Link nicht mehr funktioniert.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Schließen",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archiv",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archiv",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Navigation der Blog-Listenseite",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Neuere Einträge",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Ältere Einträge",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Eine Minute Lesezeit|{readingTime} Minuten Lesezeit",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Mehr lesen",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog Post Seiten Navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Neuer Post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Älterer Post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.blog.post.plurals": {
+    "message": "Ein Post|{count} Posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} getaggt mit \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Alle Tags anzeigen",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "In die Zwischenablage kopieren",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Kopiert",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Kopieren",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Seitenleiste ausklappen",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Seitenleiste ausklappen",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Dokumentation Seiten Navigation",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Zurück",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Weiter",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Seitenleiste einklappen",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Seitenleiste einklappen",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Das ist die unveröffentlichte Dokumentation für {siteTitle} {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Das ist die Dokumentation für {siteTitle} {versionLabel} und wird nicht weiter gewartet.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Für die aktuellste Dokumentation bitte auf {latestVersionLink} ({versionLabel}) gehen.",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "letzte Version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Diese Seite bearbeiten",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Direkter Link zur Überschrift",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " am {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " von {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Letztes Update{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Zurück zum Hauptmenü",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versionen",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Zum Hauptinhalt springen",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Auf dieser Seite",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tags:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
+  },
+  "per project": {
+    "message": "pro Projekt"
+  }
+}
