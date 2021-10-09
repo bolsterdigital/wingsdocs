@@ -9,6 +9,7 @@ import HomepageProposition from '../components/HomepageProposition';
 import productImage from '../../static/img/wings-petition.png';
 import Translate, { translate } from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
+import ImageComponent from '../components/ImageComponent';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -28,21 +29,8 @@ function HomepageHeader() {
             <Translate>Wings: go win a campaign.</Translate>
           </h1>
         </motion.div>
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{
-            opacity: [0.5, 1],
-            y: 0,
-            scale: [0.5, 1],
-          }}
-          transition={{ ease: 'easeOut', duration: 1.5 }}
-        >
-          <img
-            src={productImage}
-            className={styles.productImage}
-            alt="Wings Petition"
-          />
-        </motion.div>
+
+        <ImageComponent className={styles.productImage} image={productImage} />
 
         <p className="hero__subtitle">
           {' '}
@@ -51,12 +39,15 @@ function HomepageHeader() {
             identity, your content, your data.
           </Translate>
         </p>
-
-        <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/demo">
-            <Translate>Get a Wings website</Translate>
+        <motion.button
+          className="button button--secondary button--lg"
+          whileHover={{ scale: 1.2 }}
+          whileTap={{ scale: 0.9 }}
+        >
+          <Link to="/demo">
+            <Translate> Get a Wings website</Translate>
           </Link>
-        </div>
+        </motion.button>
       </div>
     </header>
   );

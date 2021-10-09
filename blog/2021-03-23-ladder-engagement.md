@@ -13,14 +13,19 @@ image: '../'
 hide_table_of_contents: false
 ---
 
-As a progressive movement or charity organization, you are in the business of building engagement. Engagement can take many forms. People may:
+import ImageComponent from '../src/components/ImageComponent';
+import budgetImage from '/img/ladder.png';
+
+As a progressive movement or charity organization, you are in the business of building engagement.
+
+<ImageComponent image={budgetImage} />
+
+Engagement can take many forms. People may:
 
 - apply for a membership
 - become a recurring donor
 - volunteer their time
 - share their knowledge and experience
-
-![](/img/ladder.png)
 
 Since the emergence of the web, nonprofits were faced with the challenge of creating models of engagement that are compatible with the way people communicate and form relationships online. They need to build a ladder of engagement – and if you are looking to construct one for your progressive organization, this article may help you on your way.
 
@@ -40,7 +45,7 @@ This brings us to a simplified model of degrees of engagement, as it relates to 
 - Contributers: users who provide your organization with other types of value than the monetary kind. They may pay with their knowledge, network, time, presence or reputation. They are activists, volunteers, ambassadors, committee members, and so on. There are countless of ways in which people can participate, with many intermediary levels that may be distinguished.
 - Leaders: Contributors that become more active may be rewarded with additional responsibilities, eventually obtaining positions associated with leadership.
 
-Here, it becomes apparent in what respects the emergence of the web has been transformational to the fabric of society: it introduced weak ties – relationships that may be unidirectional and lower-value, but still lasting, possibly long-term relationships that do not require the exchange of money. We know them as fans, followers and email subscribers.
+It becomes apparent in what respects the emergence of the web has been transformational to the fabric of society: it introduced weak ties – relationships that may be unidirectional and lower-value, but still lasting, possibly long-term relationships that do not require the exchange of money. We know them as fans, followers and email subscribers.
 
 As this engagement level did simply not exist before, it still presents nonprofits with a formidable challenge to incorporate this into their engagement infrastructure.
 

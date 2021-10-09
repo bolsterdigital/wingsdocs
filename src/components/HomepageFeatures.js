@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
+import { motion } from 'framer-motion';
 
 const FeatureList = [
   {
@@ -19,6 +20,7 @@ const FeatureList = [
       </>
     ),
   },
+
   {
     title: <Translate>Run winning campaigns</Translate>,
     Svg: require('../../static/img/Flag.svg').default,

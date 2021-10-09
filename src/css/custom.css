@@ -57,6 +57,20 @@ button,
   text-align: center;
 }
 
+.button--outline.button--primary a:hover,
+.button--outline.button--primary:hover a {
+  color: #fff;
+}
+
+.button--whitecolor,
+.button--whitecolor a {
+  color: #fff;
+}
+
+.button a {
+  text-decoration: none;
+}
+
 .hero__subtitle {
   max-width: 700px;
 

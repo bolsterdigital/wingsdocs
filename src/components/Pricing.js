@@ -2,6 +2,8 @@ import styles from './Pricing.module.css';
 import React from 'react';
 import clsx from 'clsx';
 import Translate, { translate } from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
+import { motion } from 'framer-motion';
 
 const PricingList = [
   {
@@ -10,7 +12,7 @@ const PricingList = [
     feature1: <Translate>For non-profits with no paid staff</Translate>,
     feature2: <Translate>3 user accounts</Translate>,
     setupFee: <Translate>€ 495</Translate>,
-    buttonclass: 'button button--primary',
+    buttonclass: 'button button--whitecolor button--primary',
   },
   {
     label: <Translate>Basic</Translate>,
@@ -51,9 +53,14 @@ function Pricing({ label, price, feature1, feature2, setupFee, buttonclass }) {
           <p>{feature1}</p>
           <p>{feature2}</p>
           <p>Setup fee: {setupFee}</p>
-          <a href="/demo">
-            <button class={buttonclass}>Request a demo</button>
-          </a>
+
+          <motion.button
+            class={buttonclass}
+            whileHover={{ scale: 1.2 }}
+            whileTap={{ scale: 0.9 }}
+          >
+            <Link to="/demo">Request a demo</Link>
+          </motion.button>
         </div>
       </div>
     </div>

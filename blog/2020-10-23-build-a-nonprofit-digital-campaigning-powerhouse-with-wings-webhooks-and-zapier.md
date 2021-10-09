@@ -13,9 +13,14 @@ image: '/img/webhooks-2.png'
 hide_table_of_contents: false
 ---
 
-As a digital strategist or campaigner for a progressive nonprofit, you need to turn a multitude of online services, tools and applications into a finely tuned campaigning powerhouse. You have to reach people using social media, word-of-mouth, canvassing campaigns and ads, in order to allow them to take a first step on a ladder of engagement and convert them into fans, supporters, donors, activists and members. And webhooks are a great tool to help make that happen.
+import ImageComponent from '../src/components/ImageComponent';
+import webhooks from '/img/webhooks.png';
 
-![](/img/webhooks.png)
+As a digital strategist or campaigner for a progressive nonprofit, you need to turn a multitude of online services, tools and applications into a finely tuned campaigning powerhouse.
+
+<ImageComponent image={webhooks} />
+
+You have to reach people using social media, word-of-mouth, canvassing campaigns and ads, in order to allow them to take a first step on a ladder of engagement and convert them into fans, supporters, donors, activists and members. And webhooks are a great tool to help make that happen.
 
 <!--truncate-->
 
