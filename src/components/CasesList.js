@@ -89,7 +89,7 @@ const CaseList = [
 function Case({ image, title, description, link }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="card">
+      <div className="card shadow--lw">
         <div className="card__image">
           <ImageComponent className={styles.featuredImage} image={image} />
         </div>
