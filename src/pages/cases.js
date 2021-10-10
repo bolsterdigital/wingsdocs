@@ -1,11 +1,11 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import Cases from '../components/Cases';
+import ShowCaseList from '../components/CasesList';
 
 function CasesPage() {
   return (
     <Layout title="Wings Cases">
-      <Cases />
+      <ShowCaseList />
     </Layout>
   );
 }

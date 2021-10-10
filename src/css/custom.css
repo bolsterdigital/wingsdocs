@@ -57,6 +57,11 @@ button,
   text-align: center;
 }
 
+.card {
+  background-color: #f2f4f8;
+  margin-top: 1rem;
+}
+
 .button--outline.button--primary a:hover,
 .button--outline.button--primary:hover a {
   color: #fff;
@@ -75,6 +80,9 @@ button,
   max-width: 700px;
 
   margin: 0 auto 20px;
+}
+.button--primary a {
+  color: #fff;
 }
 
 .footer {

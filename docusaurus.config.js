@@ -89,6 +89,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   label: 'Features',
                   href: '/features',
                 },
+                {
+                  label: 'Showcase',
+                  href: '/cases',
+                },
 
                 {
                   label: 'Pricing',
