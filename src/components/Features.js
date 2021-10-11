@@ -141,7 +141,7 @@ const FeatureList = [
   },
   {
     title: <Translate>Media Uploader</Translate>,
-    image: '/img/integrations-2.png',
+    image: '/img/media-upload.png',
     description: (
       <Translate>
         Upload images to your Wings media library, add alt tags and captions,
