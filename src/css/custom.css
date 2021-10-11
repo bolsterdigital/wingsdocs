@@ -61,6 +61,17 @@ button,
   margin-top: 2rem;
 }
 
+.cta-card {
+  background-color: #3c7aeb;
+  padding: 3rem 1rem 1rem;
+}
+
+.cta-card .card {
+  max-width: 28rem;
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
 .button--outline.button--primary a:hover,
 .button--outline.button--primary:hover a {
   color: #fff;

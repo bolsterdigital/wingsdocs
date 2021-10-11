@@ -448,5 +448,74 @@
   },
   "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals.": {
     "message": "Eine Koalitionskampagne, die darauf abzielt, die Niederlande daran zu hindern, als Steueroase für multinationale Unternehmen zu dienen"
+  },
+  "Want to know more?": {
+    "message": "Möchten Sie mehr wissen?"
+  },
+  "Themes": {
+    "message": "Themen"
+  },
+  "Easily configure colors, typography, link styles and more with the Theme editor, and even create multiple themes.": {
+    "message": "Mit dem Theme-Editor können Sie ganz einfach Farben, Typografie, Link-Stile und mehr konfigurieren und sogar mehrere Themes erstellen."
+  },
+  "Custom scripts": {
+    "message": "Benutzerdefinierte Scripts"
+  },
+  "Insert any script you want into the header or body of your website and easily add an analytics script, tag manager or cookie wall to your website.": {
+    "message": "Fügen Sie ein beliebiges Script in die Head oder den Body Ihrer Website ein und fügen Sie Ihrer Website ganz einfach ein Analyseskript, einen Tag-Manager oder eine Cookie-Wall hinzu."
+  },
+  "Custom domains": {
+    "message": "Benutzerdefinierte Domains"
+  },
+  "You are in control: add any domain you want, and we handle the rest. Your domain is automatically routed, configured and equipped with a Let's Encrypt SSL certificate.": {
+    "message": "Sie haben die Kontrolle: Fügen Sie eine beliebige Domain hinzu und wir kümmern uns um den Rest. Ihre Domain wird automatisch geroutet, konfiguriert und mit einem Let's Encrypt SSL-Zertifikat ausgestattet."
+  },
+  "Webhooks": {
+    "message": "Webhooks"
+  },
+  "Use our webhooks service to send updates and form submissions to any third party-service, including Mailchimp, Nationbuilder, The Action Network and many others.": {
+    "message": "Verwenden Sie unseren Webhooks-Dienst, um Updates und Formulareinsendungen an Drittanbieter-Dienste zu senden, darunter Mailchimp, Nationbuilder, The Action Network und viele andere."
+  },
+  "Media Uploader": {
+    "message": "Medien-Uploader"
+  },
+  "Upload images to your Wings media library, add alt tags and captions, and insert them in various layout types into your pages.": {
+    "message": "Laden Sie Bilder in Ihre Wings-Medienbibliothek hoch, fügen Sie Alt-Tags und Bildunterschriften hinzu und fügen Sie sie in verschiedenen Layout-Typen in Ihre Seiten ein."
+  },
+  "CSV Downloads": {
+    "message": "CSV Downloads"
+  },
+  "Wings campaigns let you download a CSV file with your user data, allowing you to decide how to use that data with your preferred CRM or email application.": {
+    "message": "Mit Wings-Kampagnen können Sie eine CSV-Datei mit Ihren Benutzerdaten herunterladen, sodass Sie entscheiden können, wie Sie diese Daten mit Ihrer bevorzugten CRM- oder E-Mail-Anwendung verwenden möchten."
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithVersion": {
+    "message": "Suchen... [{version}]",
+    "description": "Placeholder shown in the searchbar if it is empty and no documentation version has been detected"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithoutVersion": {
+    "message": "Suchen...",
+    "description": "Placeholder shown in the searchbar if it is empty and a documentation version has been detected (available in the {version} placeholder"
+  },
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Leeren",
+    "description": "Title of the button to clear the current search input"
+  },
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Abbrechen",
+    "description": "Text of the button to close the detached search window"
+  },
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Suchen",
+    "description": "Title of the button to submit a new search"
+  },
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Keine Suchergebnissse gefunden.",
+    "description": "message shown if no results are found"
+  },
+  "Just take Wings for a spin. Send us a message and we will set you up with a demo account in no time, free of charge.": {
+    "message": "Nehmen Sie einfach Wings für eine Spritztour. Senden Sie uns eine Nachricht und wir richten Ihnen in kürzester Zeit und kostenlos ein Demokonto ein."
+  },
+  "Get Wings": {
+    "message": "Holen Sie sich Wings"
   }
 }

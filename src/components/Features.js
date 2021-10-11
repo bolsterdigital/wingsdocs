@@ -7,14 +7,13 @@ import ImageComponent from '../components/ImageComponent';
 
 const FeatureList = [
   {
-    title: <Translate>Pages & Articles</Translate>,
-    image: '/img/content-editor.png',
+    title: <Translate>Petitions</Translate>,
+    image: '/img/petition.png',
     description: (
-      <>
-        <Translate>
-          beautiful pages and compelling stories with Wings.
-        </Translate>
-      </>
+      <Translate>
+        Create petition campaigns with custom fields, a configurable counter and
+        email confirmations.
+      </Translate>
     ),
   },
   {
@@ -27,6 +26,38 @@ const FeatureList = [
       </Translate>
     ),
   },
+  {
+    title: <Translate>Event campaigns</Translate>,
+    image: '/img/event.png',
+    description: (
+      <Translate>
+        Launch event campaigns and save user data of people who sign up to
+        attend.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate>Signups</Translate>,
+    image: '/img/signup-2.png',
+    description: (
+      <Translate>
+        Publish email signup forms on standalone landing pages or insert signup
+        campagins into any article or page.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate>Pages & Articles</Translate>,
+    image: '/img/content-editor.png',
+    description: (
+      <>
+        <Translate>
+          beautiful pages and compelling stories with Wings.
+        </Translate>
+      </>
+    ),
+  },
+
   {
     title: <Translate>Advanced Editor</Translate>,
     image: '/img/article.png',
@@ -47,45 +78,16 @@ const FeatureList = [
     ),
   },
   {
-    title: <Translate>Theming support</Translate>,
+    title: <Translate>Themes</Translate>,
     image: '/img/theming.png',
     description: (
       <Translate>
-        Easily configure colors, typography, link styles and more with the
-        Theming editor, and even create multiple themes.
+        Easily configure colors, typography, link styles and more with the Theme
+        editor, and even create multiple themes.
       </Translate>
     ),
   },
-  {
-    title: <Translate>Signups</Translate>,
-    image: '/img/signup-2.png',
-    description: (
-      <Translate>
-        Publish email signup forms on standalone landing pages or insert signup
-        campagins into any article or page.
-      </Translate>
-    ),
-  },
-  {
-    title: <Translate>Event campaigns</Translate>,
-    image: '/img/event.png',
-    description: (
-      <Translate>
-        Launch event campaigns and save user data of people who sign up to
-        attend.
-      </Translate>
-    ),
-  },
-  {
-    title: <Translate>Petitions</Translate>,
-    image: '/img/petition.png',
-    description: (
-      <Translate>
-        Create petition campaigns with custom fields, a configurable counter and
-        email confirmations.
-      </Translate>
-    ),
-  },
+
   {
     title: <Translate>Internationalization</Translate>,
     image: '/img/multilingual.png',
@@ -119,7 +121,7 @@ const FeatureList = [
   },
   {
     title: <Translate>Custom domains</Translate>,
-    image: '/img/custom-domains.png',
+    image: '/img/customdomains.png',
     description: (
       <Translate>
         You are in control: add any domain you want, and we handle the rest.
@@ -130,12 +132,12 @@ const FeatureList = [
   },
   {
     title: <Translate>Webhooks</Translate>,
-    image: '/img/integrations-2.png',
+    image: '/img/webhooks.png',
     description: (
       <Translate>
-        Use our webhooks service to send content updates and new form
-        submissions to any third party-service, such as Mailchimp,
-        Nationbuilder, The Action Network, Trello, Slack, Discord or others.
+        Use our webhooks service to send updates and form submissions to any
+        third party-service, including Mailchimp, Nationbuilder, The Action
+        Network and many others.
       </Translate>
     ),
   },
@@ -146,6 +148,17 @@ const FeatureList = [
       <Translate>
         Upload images to your Wings media library, add alt tags and captions,
         and insert them in various layout types into your pages.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate>CSV Downloads</Translate>,
+    image: '/img/csvdownloads.png',
+    description: (
+      <Translate>
+        Wings campaigns let you download a CSV file with your user data,
+        allowing you to decide how to use that data with your preferred CRM or
+        email application.
       </Translate>
     ),
   },

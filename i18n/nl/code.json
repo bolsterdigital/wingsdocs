@@ -478,5 +478,50 @@
   "cmfcmf/d-s-l.searchBar.noResults": {
     "message": "Helaas, niets gevonden",
     "description": "message shown if no results are found"
+  },
+  "Want to know more?": {
+    "message": "Meer weten?"
+  },
+  "Themes": {
+    "message": "Thema's"
+  },
+  "Easily configure colors, typography, link styles and more with the Theme editor, and even create multiple themes.": {
+    "message": "Configureer eenvoudig kleuren, typografie, linkstijlen en meer met de Thema-editor en maak zelfs meerdere thema's"
+  },
+  "Custom scripts": {
+    "message": "Voeg eigen scripts toe"
+  },
+  "Insert any script you want into the header or body of your website and easily add an analytics script, tag manager or cookie wall to your website.": {
+    "message": "Voeg elk gewenst script toe aan de head of body van je website en voeg eenvoudig een analytics-script, tagmanager of cookie-wall toe aan je website."
+  },
+  "Custom domains": {
+    "message": "Je eigen domein"
+  },
+  "You are in control: add any domain you want, and we handle the rest. Your domain is automatically routed, configured and equipped with a Let's Encrypt SSL certificate.": {
+    "message": "Jij bent de baas: voeg elk domein toe dat je wil, en wij doen de rest. Je domein wordt automatisch gekoppeld en voorzien van een Let's Encrypt SSL-certificaat."
+  },
+  "Webhooks": {
+    "message": "Webhooks"
+  },
+  "Use our webhooks service to send updates and form submissions to any third party-service, including Mailchimp, Nationbuilder, The Action Network and many others.": {
+    "message": "Gebruik onze webhooks-service om updates en formulierinzendingen te verzenden naar een keur aan externe diensten, zoals Mailchimp, Nationbuilder, The Action Network en vele anderen."
+  },
+  "Media Uploader": {
+    "message": "Media Uploader"
+  },
+  "Upload images to your Wings media library, add alt tags and captions, and insert them in various layout types into your pages.": {
+    "message": "Upload afbeeldingen naar je Wings-mediabibliotheek, voeg alt-tags en bijschriften toe en voeg ze in verschillende lay-outtypen in je pagina's in."
+  },
+  "CSV Downloads": {
+    "message": "CSV Downloads"
+  },
+  "Wings campaigns let you download a CSV file with your user data, allowing you to decide how to use that data with your preferred CRM or email application.": {
+    "message": "Met Wings-campagnes kun je een CSV-bestand met je gebruikersgegevens downloaden, zodat je zelf kunt beslissen hoe je die gegevens wil gebruiken met je favoriete CRM- of e-mailsysteem."
+  },
+  "Just take Wings for a spin. Send us a message and we will set you up with a demo account in no time, free of charge.": {
+    "message": "Probeer Wings gewoon eens uit. Stuur ons een bericht en we maken binnen no-time gratis een demo-account voor je aan."
+  },
+  "Get Wings": {
+    "message": "Probeer Wings"
   }
 }
