@@ -19,7 +19,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       defaultLocale: 'en',
       locales: ['en', 'nl', 'de'],
     },
-    plugins: ['docusaurus-plugin-matomo'],
+    plugins: [
+      'docusaurus-plugin-matomo',
+      [
+        require.resolve('@cmfcmf/docusaurus-search-local'),
+        {
+          indexPages: true,
+          language: ['en', 'nl', 'de'],
+        },
+      ],
+    ],
 
     presets: [
       [

@@ -454,5 +454,29 @@
   },
   "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals.": {
     "message": "Een coalitiecampagne die strijdt tegen de status van Nederland als belastingparadijs voor multinationals."
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithVersion": {
+    "message": "Zoeken",
+    "description": "Placeholder shown in the searchbar if it is empty and no documentation version has been detected"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithoutVersion": {
+    "message": "Zoeken",
+    "description": "Placeholder shown in the searchbar if it is empty and a documentation version has been detected (available in the {version} placeholder"
+  },
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Wissen",
+    "description": "Title of the button to clear the current search input"
+  },
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Sluiten",
+    "description": "Text of the button to close the detached search window"
+  },
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Zoek",
+    "description": "Title of the button to submit a new search"
+  },
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Helaas, niets gevonden",
+    "description": "message shown if no results are found"
   }
 }
