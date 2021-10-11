@@ -4,20 +4,20 @@ sidebar_position: 2
 
 # Eine Petition erstellen
 
+Let's dive into one of Wings's most powerful features: petitions.
+
+## Warum Petitionen?
+
+Petitionen sind ein sehr wirksames Instrument, um auf eine Sache aufmerksam zu machen und eine Bewegung aufzubauen, da normalerweise mehr als die Hälfte der Benutzer, die eine Petition unterschreiben, auch zukünftige E-Mail-Updates abonnieren.
+
+Es ist nicht ungewöhnlich, dass gemeinnützige Organisationen, die normalerweise nur eine Handvoll Abonnenten pro Woche bekommen, mit einer Petitionskampagne Tausende von Abonnenten gewinnen.
+
+![](https://screens.wings.dev/wings-petition-example-l6mxOum3PTo3HrD5Q6NsStni3ilbPKZZExWuAfYxUkfDLvPrTHp9a2gsZjM7e7hZNEQ1mrzGuJm6izN0PMjBJTQ102ubxy35SIRY.jpeg)
+
 :::tip Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
-
-Let's dive into one of Wings's most powerful features: petitions.
-
-## Why petitions?
-
-Petitions are a very powerful tool to raise awareness for a cause and to build a movement, as typically more than half of users signing a petition also subscribe to future email updates.
-
-It is not uncommon for nonprofits who usually only get a handful of subscribers per week, to gain thousands of subscribers with a petition campaign.
-
-![](https://screens.wings.dev/wings-petition-example-l6mxOum3PTo3HrD5Q6NsStni3ilbPKZZExWuAfYxUkfDLvPrTHp9a2gsZjM7e7hZNEQ1mrzGuJm6izN0PMjBJTQ102ubxy35SIRY.jpeg)
 
 ## The petition strategy: characteristics and variations
 

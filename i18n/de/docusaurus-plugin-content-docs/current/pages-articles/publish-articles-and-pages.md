@@ -4,14 +4,14 @@ sidebar_position: 1
 
 # Artikel und Seiten erstellen
 
+Unter _Articles_ können Sie Artikel hinzufügen und bearbeiten; Unter Seiten können Sie Seiten hinzufügen und bearbeiten. Die Benutzeroberfläche ist für beide sehr ähnlich, aber Artikel werden in der Regel für Nachrichtenartikel und "Geschichten" verwendet, normalerweise mit einem größeren Begrüßungsbildschirm, während "Seiten" für allgemeine Informationsseiten verwendet werden.
+
+![](https://screens.wings.dev/Screen-Shot-2020-02-23-11-46-44-1582454834.png)
+
 :::tip Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
-
-At Articles you can add and edit articles; at Pages, you can add and edit pages. The interface is very similar for both, but articles tend to be used for news articles and 'stories', typically with a bigger splash screen, whereas 'pages' are used for general information pages.
-
-![](https://screens.wings.dev/Screen-Shot-2020-02-23-11-46-44-1582454834.png)
 
 1. Click 'Content' in the main menu.
 2. Choose between Articles and Pages. Depending on your selection, you will find a list of existing articles and pages below.

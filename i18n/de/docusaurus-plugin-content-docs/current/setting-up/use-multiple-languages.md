@@ -4,21 +4,21 @@ sidebar_position: 2
 
 # Mehrsprachigkeit
 
+Wings hat große Unterstützung bei der Internationalisierung. Seine Hauptmerkmale:
+
+- Erstellen Sie mehrere Sprachversionen von Seiten, sodass Benutzer zu einer anderen Sprachversion einer Seite wechseln können
+- Integrierte _Microcopy_ (Formularetiketten, Bestätigungsnachrichten usw.) für mehr als 20 Sprachen
+- Optionen zur Konfiguration sprachspezifischer Navigationsmenüs
+- Optionen zum Erstellen einer eigenen Übersetzungsdatei durch Überschreiben (von Teilen) einer vorhandenen Übersetzung für die Microcopy
+
+Sie können hier auch eine primäre Sprache einstellen.
+
+![](https://screens.wings.dev/CleanShot-2020-10-31-at-10.44.29-2x-1604137489.png)
+
 :::tip Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
-
-Wings has great internationalization support. Its main features:
-
-- Create multiple language versions of pages, allowing users to switch to a different-language version of a page
-- Built-in microcopy (form labels, confirmation messages, etc) for 20+ languages
-- Options to configure language-specific navigation menus
-- Options to create your own translation file by overriding (parts of) an existing translation for microcopy
-
-You can set a primary language here, as well as other languages you would like to use.
-
-![](https://screens.wings.dev/CleanShot-2020-10-31-at-10.44.29-2x-1604137489.png)
 
 ## Project-wide translations for strings
 

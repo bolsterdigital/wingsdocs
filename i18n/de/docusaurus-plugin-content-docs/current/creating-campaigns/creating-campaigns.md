@@ -9,9 +9,14 @@ sidebar_position: 1
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
-## About campaigns
+## Über Kampagnen
 
-Campaigns is where Wings really shines: they allow you to to create meaningful and effective ways that allow users to contribute to your cause by attending events, signing a petition or making a donation. A quick overview:
+Bei Kampagnen glänzt Wings wirklich: Sie ermöglichen es Ihnen, sinnvolle und effektive Möglichkeiten zu schaffen, mit denen Benutzer zu Ihrem Anliegen beitragen können, indem sie an Veranstaltungen teilnehmen, eine Petition unterschreiben oder eine Spende tätigen. Ein schneller Überblick:
+
+:::tip Hinweis: in Arbeit
+
+Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
+:::
 
 - **Signups** are simple forms that let people 'sign up', for example to receive newsletter updates.
 - **Events** are geared towards getting people to visit an event.

@@ -4,27 +4,27 @@ sidebar_position: 3
 
 # Use webhooks
 
+Webhooks bieten eine einfache und dennoch leistungsstarke Möglichkeit, Formulareinsendungen sowie Informationen über erstellte, aktualisierte und gelöschte _nodes_ (Artikel, Seiten und Kampagnen) an Dienste von Drittanbietern zu senden.
+
+## Was sind Webhooks?
+
+:::tip Empfohlener Artikel
+Eine Einführung in Webhooks finden Sie unter [What are Webhooks?](https://zapier.com/blog/what-are-webhooks/) (English), ein aufschlussreicher Artikel von Zapier, einem Dienst, mit dem jeder Benutzer Arbeitsabläufe automatisieren kann, einschließlich der Verwendung von Webhooks.
+:::
+
+Kurz gesagt, Webhooks ermöglichen es Ihnen, Webservices zu verbinden, indem Sie Webservice A (Wings) mitteilen, dass er jedes Mal, wenn ein bestimmtes Ereignis eintritt, automatisch eine Reihe von Daten an einen anderen Webservice senden soll.
+
+Die Verwendung von Webhooks hat Vorteile:
+
+- Sie werden effektiver – Sie werden einfach mehr erledigen.
+- Prozesse werden effizienter: Viele Workflows ersparen Ihnen viel manuelle Arbeit.
+- Zukünftige Innovationen werden einfacher, da Sie mit Webhooks unabhängige Best-of-Breed-Dienste verbinden können.
+- Sie sparen Geld, weil Sie sich nicht auf teure, aber veraltete All-in-One-Plattformen verlassen müssen.
+- 
 :::tip Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
-
-Webhooks provide a lightweight yet powerful way to send form submissions as well as information about created, updated and deleted nodes (articles, pages and campaigns) to third party services.
-
-## What are webhooks?
-
-:::tip Recommended article
-For an introduction to webhooks, please read [What are webhooks?](https://zapier.com/blog/what-are-webhooks/), an insightful article by Zapier, a service that lets any user automate workflows, including using webhooks.
-:::
-
-In a nutshell, webhooks allow you to connect webservices by telling webservice A (Wings) that whenevver a certain event happens, they should automatically send a bunch of data to another webservice (for example, a service like Zapier that let you decide what to do with that data.
-
-Using webhooks has benefits:
-
-- You will be more effective – you will simply get more done.
-- Processes will be more efficient: many workflows will save you a lot of manual labor.
-- Future innovation will be easier, because using webhooks allow you to connect independent best-of-breed services.
-- You will save money, because you do not need to rely on expensive yet out-dated all-in-one platforms.
 
 ## Webhooks examples
 
