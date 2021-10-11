@@ -8,7 +8,7 @@ Unter _Articles_ können Sie Artikel hinzufügen und bearbeiten; Unter Seiten k�
 
 ![](https://screens.wings.dev/Screen-Shot-2020-02-23-11-46-44-1582454834.png)
 
-:::tip Hinweis: in Arbeit
+:::caution Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::

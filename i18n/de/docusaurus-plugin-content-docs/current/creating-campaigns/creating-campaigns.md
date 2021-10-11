@@ -13,7 +13,7 @@ Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen da
 
 Bei Kampagnen glänzt Wings wirklich: Sie ermöglichen es Ihnen, sinnvolle und effektive Möglichkeiten zu schaffen, mit denen Benutzer zu Ihrem Anliegen beitragen können, indem sie an Veranstaltungen teilnehmen, eine Petition unterschreiben oder eine Spende tätigen. Ein schneller Überblick:
 
-:::tip Hinweis: in Arbeit
+:::caution Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::

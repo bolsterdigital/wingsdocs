@@ -20,8 +20,7 @@ Die Verwendung von Webhooks hat Vorteile:
 - Prozesse werden effizienter: Viele Workflows ersparen Ihnen viel manuelle Arbeit.
 - Zukünftige Innovationen werden einfacher, da Sie mit Webhooks unabhängige Best-of-Breed-Dienste verbinden können.
 - Sie sparen Geld, weil Sie sich nicht auf teure, aber veraltete All-in-One-Plattformen verlassen müssen.
-- 
-:::tip Hinweis: in Arbeit
+- :::caution Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::

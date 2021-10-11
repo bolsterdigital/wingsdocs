@@ -14,7 +14,7 @@ Es ist nicht ungewöhnlich, dass gemeinnützige Organisationen, die normalerweis
 
 ![](https://screens.wings.dev/wings-petition-example-l6mxOum3PTo3HrD5Q6NsStni3ilbPKZZExWuAfYxUkfDLvPrTHp9a2gsZjM7e7hZNEQ1mrzGuJm6izN0PMjBJTQ102ubxy35SIRY.jpeg)
 
-:::tip Hinweis: in Arbeit
+:::caution Hinweis: in Arbeit
 
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
