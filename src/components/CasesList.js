@@ -84,6 +84,46 @@ const CaseList = [
     ),
     link: 'https://next.blue',
   },
+  {
+    title: <Translate>SP voor Rood</Translate>,
+    image: '/img/spvoorrood.png',
+    description: (
+      <>
+        <Translate>
+          This is a fundraising campaign for the socialist youth organization
+          ROOD.
+        </Translate>
+      </>
+    ),
+    link: 'https://www.spvoorrood.nl',
+  },
+  {
+    title: <Translate>Open over Abortus</Translate>,
+    image: '/img/openoverabortus.png',
+    description: (
+      <>
+        <Translate>
+          A campaign website by the Dutch Humanist Society with a collection of
+          submitted stories and a manifesto which aims to break the silence
+          around abortion.
+        </Translate>
+      </>
+    ),
+    link: 'https://openoverabortus.humanistischverbond.nl',
+  },
+  {
+    title: <Translate>Stop Belastingparadijs NL</Translate>,
+    image: '/img/stopbelastingparadijs.png',
+    description: (
+      <>
+        <Translate>
+          A coalition campaign that aims to stop The Netherlands from serving as
+          a tax haven for multinationals.
+        </Translate>
+      </>
+    ),
+    link: 'https://next.blue',
+  },
 ];
 
 function Case({ image, title, description, link }) {
