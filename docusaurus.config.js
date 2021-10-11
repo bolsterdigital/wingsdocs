@@ -78,16 +78,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             src: 'img/wings_logo_blue.svg',
           },
           items: [
+            { to: 'features', label: 'Features', position: 'left' },
             {
-              type: 'doc',
-              docId: 'intro',
+              to: 'cases',
+              label: 'Showcase',
               position: 'left',
-              label: 'Docs',
             },
-            { to: 'blog', label: 'Blog', position: 'left' },
             {
               type: 'dropdown',
-              label: 'About',
+              label: 'More',
               position: 'left',
               items: [
                 {
@@ -95,12 +94,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   href: '/about',
                 },
                 {
-                  label: 'Features',
-                  href: '/features',
-                },
-                {
-                  label: 'Showcase',
-                  href: '/cases',
+                  type: 'doc',
+                  docId: 'intro',
+                  label: 'Docs',
                 },
 
                 {
@@ -111,13 +107,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   label: 'Request demo',
                   href: '/demo',
                 },
+                {
+                  href: 'https://admin.wings.dev',
+                  label: 'Admin',
+                },
               ],
             },
-            {
-              href: 'https://admin.wings.dev',
-              position: 'left',
-              label: 'Admin',
-            },
+
             {
               type: 'localeDropdown',
               position: 'right',
