@@ -70,13 +70,23 @@ function Pricing({ label, price, feature1, feature2, setupFee, buttonclass }) {
 export default function Pricings() {
   return (
     <section className={styles.pricing}>
-      <div className="container">
-        <div className="row">
-          {PricingList.map((props, idx) => (
-            <Pricing key={idx} {...props} />
-          ))}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{
+          opacity: [0, 0.3, 1],
+          y: 0,
+          scale: [1.5, 1],
+        }}
+        transition={{ ease: 'easeOut', duration: 0.5, delay: 0.5 }}
+      >
+        <div className="container">
+          <div className="row">
+            {PricingList.map((props, idx) => (
+              <Pricing key={idx} {...props} />
+            ))}
+          </div>
         </div>
-      </div>
+      </motion.div>
     </section>
   );
 }
