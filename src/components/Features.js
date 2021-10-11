@@ -106,6 +106,49 @@ const FeatureList = [
       </Translate>
     ),
   },
+  {
+    title: <Translate>Custom scripts</Translate>,
+    image: '/img/scripts.png',
+    description: (
+      <Translate>
+        Insert any script you want into the header or body of your website and
+        easily add an analytics script, tag manager or cookie wall to your
+        website.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate>Custom domains</Translate>,
+    image: '/img/custom-domains.png',
+    description: (
+      <Translate>
+        You are in control: add any domain you want, and we handle the rest.
+        Your domain is automatically routed, configured and equipped with a
+        Let's Encrypt SSL certificate.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate>Webhooks</Translate>,
+    image: '/img/integrations-2.png',
+    description: (
+      <Translate>
+        Use our webhooks service to send content updates and new form
+        submissions to any third party-service, such as Mailchimp,
+        Nationbuilder, The Action Network, Trello, Slack, Discord or others.
+      </Translate>
+    ),
+  },
+  {
+    title: <Translate>Media Uploader</Translate>,
+    image: '/img/integrations-2.png',
+    description: (
+      <Translate>
+        Upload images to your Wings media library, add alt tags and captions,
+        and insert them in various layout types into your pages.
+      </Translate>
+    ),
+  },
 ];
 
 function Feature({ image, title, description }) {
