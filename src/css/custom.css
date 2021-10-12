@@ -13,8 +13,8 @@
   --ifm-color-primary-darker: rgb(46, 94, 182);
   --ifm-color-primary-darkest: rgb(40, 81, 156);
   --ifm-color-primary-light: rgb(81, 136, 237);
-  --ifm-color-primary-lighter: rgb(125, 166, 241);
-  --ifm-color-primary-lightest: rgb(168, 195, 246);
+  --ifm-color-primary-lighter: rgb(203, 216, 241);
+  --ifm-color-primary-lightest: rgb(234, 238, 242);
   --ifm-code-font-size: 95%;
 }
 
@@ -96,8 +96,8 @@ button,
 }
 
 .footer {
-  background-color: #f2f4f8;
-  color: rgb(134, 154, 184);
+  background-color: var(--ifm-color-primary-lightest);
+  /* color:  */
 }
 
 .footer__link-item {
@@ -131,6 +131,13 @@ table td {
 
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary-lightest: #081544;
+  --ifm-color-primary-darker: #051127;
+  --ifm-color-primary-dark: #0d2374;
+  /* any other colors you wish to overwrite */
 }
 
 .video-container {

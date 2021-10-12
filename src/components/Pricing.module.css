@@ -1,17 +1,16 @@
 .pricing {
-  display: flex;
   align-items: center;
   padding: 4rem 1rem;
   width: 100%;
-  background: #3c7aeb;
+  background-color: var(--ifm-color-primary-dark);
 }
 
 .pricingcolumn {
-  background: #f7f7f7;
   border-radius: 2rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
+  background-color: var(--ifm-color-primary-lightest);
 }
 h2.pricetitle {
   margin-bottom: 0.5rem;
@@ -25,8 +24,8 @@ p.perProject {
 }
 
 .label {
-  color: #3d7aeb;
-  background-color: rgba(61, 122, 235, 0.1);
+  color: var(--ifm-color-primary-darkest);
+  background-color: var(--ifm-color-primary-lighter);
   text-transform: uppercase;
   border-radius: 10rem;
   display: inline-block;
