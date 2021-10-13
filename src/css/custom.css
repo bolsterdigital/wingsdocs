@@ -86,11 +86,6 @@ button,
   text-decoration: none;
 }
 
-.hero__subtitle {
-  max-width: 700px;
-
-  margin: 0 auto 20px;
-}
 .button--primary a {
   color: #fff;
 }

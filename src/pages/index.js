@@ -25,18 +25,21 @@ function HomepageHeader() {
           }}
           transition={{ ease: 'easeOut', duration: 1 }}
         >
-          <h1 className="hero__title">
-            <Translate>Wings: go win a campaign.</Translate>
+          <h1 className={clsx('hero__title', styles.heroTitle)}>
+            <Translate>
+              There's a better way to build a progressive digital campaign.
+            </Translate>
           </h1>
         </motion.div>
 
         <ImageComponent className={styles.productImage} image={productImage} />
 
-        <p className="hero__subtitle">
+        <p className={clsx('hero__subtitle', styles.heroSubtitle)}>
           {' '}
           <Translate>
-            Progressive campaign websites-as-a-service. Your domain, your visual
-            identity, your content, your data.
+            Wings gives you a better, faster and more easy-to-use campaign
+            website that can connect to any email service, CRM system or
+            campaigning toolkit.
           </Translate>
         </p>
         <motion.button

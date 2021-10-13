@@ -38,5 +38,9 @@
   "item.label.Showcase": {
     "message": "Voorbeelden",
     "description": "Navbar item with label Showcase"
+  },
+  "item.label.More": {
+    "message": "Meer",
+    "description": "Navbar item with label More"
   }
 }
