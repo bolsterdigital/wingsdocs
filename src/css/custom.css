@@ -132,6 +132,7 @@ html[data-theme='dark'] {
   --ifm-color-primary-lightest: #081544;
   --ifm-color-primary-darker: #051127;
   --ifm-color-primary-dark: #0d2374;
+  --ifm-hero-background-color: #0d2374;
   /* any other colors you wish to overwrite */
 }
 

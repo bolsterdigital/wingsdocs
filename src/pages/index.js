@@ -33,24 +33,37 @@ function HomepageHeader() {
         </motion.div>
 
         <ImageComponent className={styles.productImage} image={productImage} />
+        <div className={styles.proposition}>
+          <p className={clsx('hero__subtitle', styles.heroSubtitle)}>
+            {' '}
+            <Translate>
+              Wings gives you a better, faster and more easy-to-use campaign
+              website that can connect to any email service, CRM system or
+              campaigning toolkit.
+            </Translate>
+          </p>
 
-        <p className={clsx('hero__subtitle', styles.heroSubtitle)}>
-          {' '}
-          <Translate>
-            Wings gives you a better, faster and more easy-to-use campaign
-            website that can connect to any email service, CRM system or
-            campaigning toolkit.
-          </Translate>
-        </p>
-        <motion.button
-          className="button button--secondary button--lg"
-          whileHover={{ scale: 1.2 }}
-          whileTap={{ scale: 0.9 }}
-        >
-          <Link to="/demo">
-            <Translate>Take off with Wings 🛫</Translate>
+          <Link to="/features">
+            <button
+              class={clsx(
+                'button button--outline button--primary button--lg ',
+                styles.primarybutton
+              )}
+            >
+              <Translate>Features</Translate>
+            </button>
           </Link>
-        </motion.button>
+          <Link to="/cases">
+            <button
+              class={clsx(
+                'button button--outline button--lg button--secondary',
+                styles.secondarybutton
+              )}
+            >
+              <Translate>Cases</Translate>
+            </button>
+          </Link>
+        </div>
       </div>
     </header>
   );

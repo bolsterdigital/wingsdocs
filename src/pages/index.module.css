@@ -25,6 +25,28 @@
     padding: 2rem;
   }
 }
+.primarybutton {
+  background-color: #fff;
+}
+button.secondarybutton {
+  color: #fff !important;
+}
+
+button.secondarybutton:hover {
+  color: #000 !important;
+}
+
+.primarybutton:hover {
+  background-color: #000;
+}
+
+html[data-theme='dark'] .primarybutton:hover {
+  color: #fff;
+}
+
+html[data-theme='dark'] .heroSubtitle {
+  color: #fff;
+}
 
 .buttons {
   display: flex;
