@@ -17,7 +17,7 @@
 }
 
 .heroSubtitle {
-  max-width: 60rem;
+  max-width: 40rem;
   font-size: 1.2rem;
   margin: 1rem auto;
   line-height: 1.8rem;
@@ -29,6 +29,11 @@
   }
   .heroTitle {
     font-size: 3rem;
+  }
+  .heroSubtitle {
+    font-size: 1.5rem;
+    max-width: 50rem;
+    line-height: 2.2rem;
   }
 }
 
