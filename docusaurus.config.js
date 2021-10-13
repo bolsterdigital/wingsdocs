@@ -85,6 +85,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               position: 'left',
             },
             {
+              type: 'doc',
+              docId: 'intro',
+              label: 'Docs',
+            },
+            {
               type: 'dropdown',
               label: 'More',
               position: 'left',
@@ -94,9 +99,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   href: '/about',
                 },
                 {
-                  type: 'doc',
-                  docId: 'intro',
-                  label: 'Docs',
+                  label: 'Wings Coalitions',
+                  href: '/coalitions',
                 },
 
                 {
