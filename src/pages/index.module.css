@@ -4,27 +4,40 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 2rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
 }
 
 .heroTitle {
-  font-size: 4rem;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: var(--ifm-heading-color);
 }
 
 .heroSubtitle {
   max-width: 60rem;
-
-  margin: 0 auto 20px;
+  font-size: 1.2rem;
+  margin: 1rem auto;
+  line-height: 1.8rem;
 }
 
-@media screen and (max-width: 966px) {
+@media screen and (min-width: 966px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 3rem 0;
+  }
+  .heroTitle {
+    font-size: 3rem;
   }
 }
+
+@media screen and (min-width: 1200px) {
+  .heroTitle {
+    font-size: 4rem;
+  }
+}
+
 .primarybutton {
   background-color: #fff;
 }
@@ -34,6 +47,7 @@ button.secondarybutton {
 
 button.secondarybutton:hover {
   color: #000 !important;
+  background-color: #fff;
 }
 
 .primarybutton:hover {

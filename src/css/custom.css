@@ -62,7 +62,7 @@ button,
 }
 
 .cta-card {
-  background-color: #3c7aeb;
+  background-color: var(--ifm-color-primary);
   padding: 3rem 1rem 1rem;
 }
 
@@ -96,10 +96,10 @@ button,
 }
 
 .footer__link-item {
-  color: rgb(134, 154, 184);
+  color: var(--ifm-link-color);
 }
 .footer__title {
-  color: #506690;
+  color: var(--ifm-heading-color);
 }
 
 body,
@@ -132,7 +132,12 @@ html[data-theme='dark'] {
   --ifm-color-primary-lightest: #081544;
   --ifm-color-primary-darker: #051127;
   --ifm-color-primary-dark: #0d2374;
-  --ifm-hero-background-color: #0d2374;
+  --ifm-color-primary: #112e99;
+  --ifm-button-color: #fff;
+  --ifm-heading-color: #fff;
+  --ifm-menu-color-active: #a2c3ff;
+  --ifm-link-color: #a2c3ff;
+  --ifm-navbar-link-hover-color: #a2c3ff;
   /* any other colors you wish to overwrite */
 }
 

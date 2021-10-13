@@ -42,7 +42,7 @@ const FeatureList = [
     description: (
       <Translate>
         Publish email signup forms on standalone landing pages or insert signup
-        campagins into any article or page.
+        campaigns into any article or page.
       </Translate>
     ),
   },

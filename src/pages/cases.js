@@ -6,7 +6,9 @@ import CallToAction from '../components/CallToAction';
 function CasesPage() {
   return (
     <Layout title="Wings Cases">
-      <ShowCaseList />
+      <main>
+        <ShowCaseList />
+      </main>
       <CallToAction />
     </Layout>
   );

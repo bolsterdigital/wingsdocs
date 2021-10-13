@@ -10,6 +10,7 @@ import productImage from '../../static/img/wings-petition.png';
 import Translate, { translate } from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
 import ImageComponent from '../components/ImageComponent';
+import { FeaturedList } from '../components/CasesList';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -27,7 +28,7 @@ function HomepageHeader() {
         >
           <h1 className={clsx('hero__title', styles.heroTitle)}>
             <Translate>
-              There's a better way to build a progressive digital campaign.
+              A better platform for your progressive digital campaign.
             </Translate>
           </h1>
         </motion.div>
@@ -37,15 +38,14 @@ function HomepageHeader() {
           <p className={clsx('hero__subtitle', styles.heroSubtitle)}>
             {' '}
             <Translate>
-              Wings gives you a better, faster and more easy-to-use campaign
-              website that can connect to any email service, CRM system or
-              campaigning toolkit.
+              Wings is a better, faster and more user-friendly campaign website
+              service. Customizable, integrations-ready and privacy-friendly.
             </Translate>
           </p>
 
           <Link to="/features">
             <button
-              class={clsx(
+              className={clsx(
                 'button button--outline button--primary button--lg ',
                 styles.primarybutton
               )}
@@ -55,7 +55,7 @@ function HomepageHeader() {
           </Link>
           <Link to="/cases">
             <button
-              class={clsx(
+              className={clsx(
                 'button button--outline button--lg button--secondary',
                 styles.secondarybutton
               )}
@@ -76,9 +76,11 @@ export default function Home() {
       title={`A website-as-a-service for progressive organizations`}
       description="Go create a movement and win a campaign."
     >
-      <HomepageHeader />
       <main>
+        <HomepageHeader />
+
         <HomepageFeatures />
+        <FeaturedList />
         <HomepageProposition />
       </main>
     </Layout>

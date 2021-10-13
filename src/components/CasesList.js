@@ -22,31 +22,17 @@ const CaseList = [
     link: 'https://republiek.org',
   },
   {
-    title: <Translate>Controle Alt Delete</Translate>,
-    image: '/img/controlealtdel.png',
+    title: <Translate>Extinction Rebellion</Translate>,
+    image: '/img/xr-website.png',
     description: (
       <>
         <Translate>
-          Controle Alt Delete, a nonprofit that fights back against excessive
-          police violence and ethnic profiling, uses Wings for their main
-          website as well as for petition campaigns.
+          A coalition campaign led by Extinction Rebellion to launch a citizen
+          council for climate & environmental issues.
         </Translate>
       </>
     ),
-    link: 'https://controlealtdelete.nl',
-  },
-  {
-    title: <Translate>Jongsocialisten</Translate>,
-    image: '/img/jongsocialisten.png',
-    description: (
-      <>
-        <Translate>
-          The Belgian Young Socialists use Wings to power their main website as
-          well as local chapter websites.
-        </Translate>
-      </>
-    ),
-    link: 'https://www.jongsocialisten.nl',
+    link: 'https://burgerberaad.extinctionrebellion.nl',
   },
   {
     title: <Translate>SPD Niedersachsen</Translate>,
@@ -61,6 +47,35 @@ const CaseList = [
     ),
     link: 'https://aktion.spdnds.de',
   },
+  {
+    title: <Translate>Controle Alt Delete</Translate>,
+    image: '/img/controlealtdel.png',
+    description: (
+      <>
+        <Translate>
+          Controle Alt Delete, a nonprofit that fights back against excessive
+          police violence and ethnic profiling, uses Wings for their main
+          website as well as for petition campaigns.
+        </Translate>
+      </>
+    ),
+    link: 'https://controlealtdelete.nl',
+  },
+
+  {
+    title: <Translate>Jongsocialisten</Translate>,
+    image: '/img/jongsocialisten.png',
+    description: (
+      <>
+        <Translate>
+          The Belgian Young Socialists use Wings to power their main website as
+          well as local chapter websites.
+        </Translate>
+      </>
+    ),
+    link: 'https://www.jongsocialisten.nl',
+  },
+
   {
     title: <Translate>Frisse Wind</Translate>,
     image: '/img/frissewind.png',
@@ -103,9 +118,8 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          A campaign website by the Dutch Humanist Society with a collection of
-          submitted stories and a manifesto which aims to break the silence
-          around abortion.
+          A campaign website by the Dutch Humanist Society which aims to break
+          the silence around abortion.
         </Translate>
       </>
     ),
@@ -122,7 +136,33 @@ const CaseList = [
         </Translate>
       </>
     ),
-    link: 'https://next.blue',
+    link: 'https://www.stopbelastingparadijs.nl',
+  },
+  {
+    title: <Translate>BIJ1</Translate>,
+    image: '/img/bij1.png',
+    description: (
+      <>
+        <Translate>
+          The Dutch leftist party BIJ1 uses Wings to power its local chapter
+          website.
+        </Translate>
+      </>
+    ),
+    link: 'https://amsterdam.bij1.org',
+  },
+  {
+    title: <Translate>Probeer de Bond</Translate>,
+    image: '/img/probeerdebond.png',
+    description: (
+      <>
+        <Translate>
+          A campaign website by labour union CNV to get more young people to
+          join a union.
+        </Translate>
+      </>
+    ),
+    link: 'https://www.probeerdebond.nl',
   },
 ];
 
@@ -146,6 +186,75 @@ function Case({ image, title, description, link }) {
         </div>
       </div>
     </div>
+  );
+}
+
+function SimpleCase({ image, title, description }) {
+  return (
+    <div className={clsx('col col--4')}>
+      <div className="card shadow--lw">
+        <div className="card__image">
+          <ImageComponent className={styles.featuredImage} image={image} />
+        </div>
+        <div className="card__body">
+          <h2>{title}</h2>
+          <small>{description}</small>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+let arr = [];
+while (arr.length < 3) {
+  let r = Math.floor(Math.random() * 11) + 1;
+  if (arr.indexOf(r) === -1) arr.push(r);
+}
+
+const Featured = [CaseList[arr[0]], CaseList[arr[1]], CaseList[arr[2]]];
+console.log(arr);
+
+export function FeaturedList() {
+  return (
+    <section className={styles.cases}>
+      <div className="container">
+        <div className={styles.intro}>
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{
+              opacity: [0.5, 1],
+              y: 0,
+              scale: [0.7, 1],
+            }}
+            transition={{ ease: 'easeOut', duration: 0.5 }}
+          >
+            <h1>
+              <Translate>It's battle-tested and ready.</Translate>
+            </h1>
+
+            <p>
+              <Translate>
+                Wings has been used by green, social-democratic and socialist
+                parties, labour unions, citizen action groups and
+                non-governmental organizations. Take a look at some examples.
+              </Translate>{' '}
+            </p>
+          </motion.div>
+        </div>
+        <div className="row">
+          {Featured.map((props, idx) => (
+            <SimpleCase key={idx} {...props} />
+          ))}
+        </div>
+        <div className={styles.center}>
+          <Link to="/cases">
+            <button className="button button--secondary button--lg">
+              <Translate>More cases</Translate>
+            </button>
+          </Link>
+        </div>
+      </div>
+    </section>
   );
 }
 

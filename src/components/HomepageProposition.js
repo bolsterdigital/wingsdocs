@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageProposition.module.css';
 import Translate, { translate } from '@docusaurus/Translate';
+import Link from '@docusaurus/Link';
 
 function Feature({ Svg, title, description }) {
   return (
@@ -33,10 +34,9 @@ export default function HomepageProposition() {
             website. Tell stories, launch petitions, build a following, raise
             funds, and win a campaign.
           </Translate>{' '}
-          <a href="/demo">
+          <Link to="/demo">
             <Translate>Get a demo account</Translate>
-          </a>
-          !
+          </Link>
         </p>
       </div>
     </section>

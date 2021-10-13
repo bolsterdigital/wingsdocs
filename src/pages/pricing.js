@@ -8,31 +8,33 @@ import { motion } from 'framer-motion';
 function Pricing() {
   return (
     <Layout title="Pricing">
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{
-          opacity: [0.5, 1],
-          y: 0,
-          scale: [0.7, 1],
-        }}
-        transition={{ ease: 'easeOut', duration: 1 }}
-      >
-        <div className={styles.pricingcontainer}>
-          <h1>
-            <Translate>We've got great plans for you.</Translate>
-          </h1>
+      <main>
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{
+            opacity: [0.5, 1],
+            y: 0,
+            scale: [0.7, 1],
+          }}
+          transition={{ ease: 'easeOut', duration: 1 }}
+        >
+          <div className={styles.pricingcontainer}>
+            <h1>
+              <Translate>We've got great plans for you.</Translate>
+            </h1>
 
-          <p>
-            <Translate>
-              From the smallest grassroots neighbourhood initiative to global,
-              multilingual federated website infrastructure: Wings can
-              accomodate any progressive campaign.
-            </Translate>
-          </p>
-        </div>
-      </motion.div>
+            <p>
+              <Translate>
+                From the smallest grassroots neighbourhood initiative to global,
+                multilingual federated website infrastructure: Wings can
+                accomodate any progressive campaign.
+              </Translate>
+            </p>
+          </div>
+        </motion.div>
 
-      <Pricings />
+        <Pricings />
+      </main>
     </Layout>
   );
 }

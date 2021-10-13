@@ -32,7 +32,7 @@
   "Signups": {
     "message": "Anmeldungen"
   },
-  "Publish email signup forms on standalone landing pages or insert signup campagins into any article or page.": {
+  "Publish email signup forms on standalone landing pages or insert signup campaigns into any article or page.": {
     "message": "Zeigen Sie E-Mail-Anmeldeformulare auf eigenständigen Zielseiten an oder fügen Sie sie in einen Artikel oder eine Seite ein."
   },
   "Event campaigns": {
@@ -523,5 +523,47 @@
   },
   "Wings gives you a better, faster and more easy-to-use campaign website that can connect to any email service, CRM system or campaigning toolkit.": {
     "message": "Wings bietet eine bessere, schnellere und benutzerfreundlichere Kampagnen-Website, die sich mit jedem E-Mail-Dienst, CRM-System oder Kampagnen-Toolkit verbinden kann."
+  },
+  "Extinction Rebellion": {
+    "message": "Extinction Rebellion"
+  },
+  "A coalition campaign led by Extinction Rebellion to launch a citizen council for climate & environmental issues.": {
+    "message": "Eine von Extinction Rebellion geführte Koalitionskampagne zur Gründung eines Bürgerrats für Klima- und Umweltfragen."
+  },
+  "A campaign website by the Dutch Humanist Society which aims to break the silence around abortion.": {
+    "message": "Eine Kampagnen-Website der Niederländischen Humanistischen Gesellschaft, die darauf abzielt, das Schweigen über Abtreibungen zu brechen.."
+  },
+  "BIJ1": {
+    "message": "BIJ1"
+  },
+  "The Dutch leftist party BIJ1 uses Wings to power its local chapter website.": {
+    "message": "Die niederländische Linkspartei BIJ1 nutzt Wings, um ihre lokale Chapter-Website zu betreiben."
+  },
+  "Probeer de Bond": {
+    "message": "Probeer de Bond"
+  },
+  "A campaign website by labour union CNV to get more young people to join a union.": {
+    "message": "Eine Kampagnen-Website der Gewerkschaft CNV, um mehr junge Menschen dazu zu bringen, einer Gewerkschaft beizutreten."
+  },
+  "It's battle-tested and ready.": {
+    "message": "Es ist eine bewährte Plattform und ist bereit für Ihre Kampagne."
+  },
+  "Wings has been used by green, social-democratic and socialist parties, labour unions, citizen action groups and non-governmental organizations. Take a look at some examples.": {
+    "message": "Wings wurde von grünen, sozialdemokratischen und sozialistischen Parteien, Gewerkschaften, Bürgerinitiativen und Nichtregierungsorganisationen genutzt. Schauen Sie sich einige Beispiele an."
+  },
+  "More cases": {
+    "message": "Mehr Beispiele"
+  },
+  "A better platform for your progressive digital campaign.": {
+    "message": "Eine bessere Plattform für Ihre progressive digitale Kampagne"
+  },
+  "Wings is a better, faster and more user-friendly campaign website service. Customizable, integrations-ready and privacy-friendly.": {
+    "message": "Wings ist ein besserer, schnellerer und benutzerfreundlicherer Kampagnen-Website-Service. Anpassbar, integrationsfähig und datenschutzfreundlich."
+  },
+  "Features": {
+    "message": "Merkmale"
+  },
+  "Cases": {
+    "message": "Beispiele"
   }
 }

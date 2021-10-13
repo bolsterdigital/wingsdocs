@@ -6,7 +6,9 @@ import CallToAction from '../components/CallToAction';
 function FeaturePage() {
   return (
     <Layout title="Wings Features">
-      <Features />
+      <main>
+        <Features />
+      </main>
       <CallToAction />
     </Layout>
   );

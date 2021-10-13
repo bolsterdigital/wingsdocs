@@ -9,6 +9,11 @@
   padding: 1rem;
 }
 
+.center {
+  text-align: center;
+  margin: 2rem auto;
+}
+
 .intro {
   max-width: 800px;
   text-align: center;
