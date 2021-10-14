@@ -80,12 +80,11 @@ const CaseList = [
     title: <Translate>Frisse Wind</Translate>,
     image: '/img/frissewind.png',
     description: (
-      <>
-        <Translate>
-          Frisse Wind is a citizen-led action committee that aims to improve air
-          quality in the vicinity of Tata Steel.
-        </Translate>
-      </>
+      <Translate>
+        Frisse Wind is a brave citizen action committee that uses Wings to raise
+        close to € 60,000 euros to fund their lawsuit against Tata Steel
+        corporation and its toxic emissions.
+      </Translate>
     ),
     link: 'https://www.frissewind.nu',
   },

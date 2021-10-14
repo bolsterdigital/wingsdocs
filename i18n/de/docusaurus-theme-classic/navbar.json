@@ -42,5 +42,9 @@
   "item.label.More": {
     "message": "Mehr",
     "description": "Navbar item with label More"
+  },
+  "item.label.Wings Coalitions": {
+    "message": "Wings Coalitions",
+    "description": "Navbar item with label Wings Coalitions"
   }
 }
