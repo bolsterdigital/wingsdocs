@@ -10,6 +10,7 @@ import productImage from '../../static/img/wings-petition.png';
 import Translate, { translate } from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
 import ImageComponent from '../components/ImageComponent';
+import { FeaturedList } from '../components/CasesList';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -77,7 +78,9 @@ export default function Home() {
     >
       <main>
         <HomepageHeader />
+
         <HomepageFeatures />
+        <FeaturedList />
         <HomepageProposition />
       </main>
     </Layout>

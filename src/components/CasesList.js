@@ -205,14 +205,7 @@ function SimpleCase({ image, title, description }) {
   );
 }
 
-let arr = [];
-while (arr.length < 3) {
-  let r = Math.floor(Math.random() * 11) + 1;
-  if (arr.indexOf(r) === -1) arr.push(r);
-}
-
-const Featured = [CaseList[arr[0]], CaseList[arr[1]], CaseList[arr[2]]];
-console.log(arr);
+const Featured = [CaseList[3], CaseList[0], CaseList[5]];
 
 export function FeaturedList() {
   return (
