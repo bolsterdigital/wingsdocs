@@ -7,14 +7,6 @@
     "message": "Dokumentation",
     "description": "Navbar item with label Docs"
   },
-  "item.label.Blog": {
-    "message": "Blog",
-    "description": "Navbar item with label Blog"
-  },
-  "item.label.About": {
-    "message": "Über",
-    "description": "Navbar item with label About"
-  },
   "item.label.Admin": {
     "message": "Admin",
     "description": "Navbar item with label Admin"

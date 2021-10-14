@@ -11,6 +11,7 @@ import Translate, { translate } from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
 import ImageComponent from '../components/ImageComponent';
 import { FeaturedList } from '../components/CasesList';
+import Testimonial from '../components/Testimonial';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -80,6 +81,7 @@ export default function Home() {
         <HomepageHeader />
 
         <HomepageFeatures />
+        <Testimonial />
         <FeaturedList />
         <HomepageProposition />
       </main>

@@ -1,0 +1,28 @@
+.testimonial {
+  max-width: 50rem;
+  text-align: center;
+}
+
+.profileImage img {
+  width: 12rem;
+  margin: 0 auto;
+  border-radius: 50%;
+
+  object-fit: cover;
+}
+.quoteWrapper {
+  background: url(/img/quotes.png) left top no-repeat;
+  background-size: 66px 54px;
+  /* margin-top: 1rem; */
+}
+
+p.quote {
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+@media (min-width: 600px) {
+  p.quote {
+    font-size: 1.3rem;
+  }
+}
