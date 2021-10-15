@@ -7,10 +7,7 @@
     "message": "Docs",
     "description": "Navbar item with label Docs"
   },
-  "item.label.About": {
-    "message": "About",
-    "description": "Navbar item with label About"
-  },
+
   "item.label.Wings Admin": {
     "message": "Wings Admin",
     "description": "Navbar item with label Wings Admin"

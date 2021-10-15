@@ -5,6 +5,9 @@
   width: 100%;
 }
 
+.featureTitle {
+  font-size: 1.8rem;
+}
 .featuredImage {
   padding: 1rem;
 }
@@ -18,6 +21,10 @@
   max-width: 800px;
   text-align: center;
   margin: 1rem auto 2rem;
+}
+
+.homeIntro {
+  font-size: 1.2rem;
 }
 
 /* .featureSvg {

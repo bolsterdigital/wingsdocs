@@ -220,15 +220,19 @@ export function FeaturedList() {
             }}
             transition={{ ease: 'easeOut', duration: 0.5 }}
           >
-            <h1>
-              <Translate>It's battle-tested and ready.</Translate>
-            </h1>
-
-            <p>
+            <h2 className={styles.featureTitle}>
               <Translate>
-                Wings has been used by green, social-democratic and socialist
-                parties, labour unions, citizen action groups and
-                non-governmental organizations. Take a look at some examples.
+                It's battle-tested and ready for your campaign.
+              </Translate>
+            </h2>
+
+            <p className={styles.homeIntro}>
+              <Translate>
+                Wings is a proven platform that has been used by green,
+                social-democratic and socialist parties, labour unions, citizen
+                action groups and non-governmental organizations to process
+                millions of signups, signatures and donations. Take a look at
+                some examples.
               </Translate>{' '}
             </p>
           </motion.div>
