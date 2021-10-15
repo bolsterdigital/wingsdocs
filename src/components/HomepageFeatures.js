@@ -6,22 +6,6 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: <Translate>Publish pages and articles</Translate>,
-    Svg: require('../../static/img/Article.svg').default,
-    description: (
-      <>
-        <Translate>Get started</Translate>{' '}
-        <Link to="/docs/pages-articles/publish-articles-and-pages">
-          <Translate>publishing</Translate>
-        </Link>{' '}
-        <Translate>
-          beautiful pages and compelling stories with Wings.
-        </Translate>
-      </>
-    ),
-  },
-
-  {
     title: <Translate>Run winning campaigns</Translate>,
     Svg: require('../../static/img/Flag.svg').default,
     description: (
@@ -51,6 +35,23 @@ const FeatureList = [
           and find out how to integrate Wings with Mailchimp, The Action Network
           and many more.
         </Translate>
+      </>
+    ),
+  },
+  {
+    title: <Translate>Try before you buy</Translate>,
+    Svg: require('../../static/img/Time-schedule.svg').default,
+    description: (
+      <>
+        <Translate>Wings is set up quickly and has affordable</Translate>{' '}
+        <Link to="/pricing">
+          <Translate>pricing</Translate>
+        </Link>
+        . <Translate>Try out a</Translate>{' '}
+        <Link to="/demo">
+          <Translate>free demo account</Translate>
+        </Link>{' '}
+        <Translate>and you will be up and running in no time.</Translate>
       </>
     ),
   },

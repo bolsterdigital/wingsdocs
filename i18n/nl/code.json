@@ -182,12 +182,6 @@
   "Wings: go win a campaign.": {
     "message": "Wings: win een campagne."
   },
-  "Get started": {
-    "message": "Begin met het"
-  },
-  "publishing": {
-    "message": "publiceren"
-  },
   "beautiful pages and compelling stories with Wings.": {
     "message": "van fraaie pagina's en overtuigende artikelen met Wings."
   },
@@ -247,9 +241,6 @@
   },
   "Configure personalized confirmation emails with a user-friendly drag-and-drop editor.": {
     "message": "Stel gepersonaliseerde bevestigingsmailtjes op met een gebruiksvriendelijke drag-en-drop-editor."
-  },
-  "Theming support": {
-    "message": "Thema's"
   },
   "Easily configure colors, typography, link styles and more with the Theming editor, and even create multiple themes.": {
     "message": "Configureer kleuren, lettertypes, linkstijlen en meer in een handomdraai met de thema-bewerker, en maak zelfs meerdere thema's aan."
@@ -551,9 +542,6 @@
   "A campaign website by labour union CNV to get more young people to join a union.": {
     "message": "Een campagnewebsite van vakbond CNV om meer jongeren voor de vakbond te interesseren."
   },
-  "It's battle-tested and ready.": {
-    "message": "Wings heeft zijn sporen verdiend en is klaar voor jouw campagne."
-  },
   "Wings has been used by green, social-democratic and socialist parties, labour unions, citizen action groups and non-governmental organizations. Take a look at some examples.": {
     "message": "Het Wings-platform is gebruikt door groene, sociaal-democratische en socialistische partijen, alsmede door vakbonden, goede doelen en non-profitorganisaties. Bekijk eens een paar voorbeelden."
   },
@@ -577,5 +565,32 @@
   },
   "“Using Wings saved us a lot of time and effort getting a grassroots campaign off the ground. I love how easy it is to get started with great default settings, while it offers advanced options if you want to build more complex and customized supporter journeys.”": {
     "message": "Wings heeft ons veel tijd en moeite bespaard om een grassroots-campagne van de grond te krijgen. Ik vind het geweldig hoe gemakkelijk het is om aan de slag te gaan met uitstekende standaardinstellingen, terwijl je geavanceerde opties kunt gebruiken als je complexere en op maat gemaakte customer journeys wil bouwen.”"
+  },
+  "It's battle-tested and ready for your campaign.": {
+    "message": "Wings is gepokt en gemazeld – en klaar voor jouw campagne."
+  },
+  "Wings is a proven platform that has been used by green, social-democratic and socialist parties, labour unions, citizen action groups and non-governmental organizations to process millions of signups, signatures and donations. Take a look at some examples.": {
+    "message": "Wings is een bewezen platform dat is gebruikt door groene, sociaal-democratische en socialistische partijen, vakbonden, burgeractiegroepen en ngo's om miljoenen aanmeldingen, handtekeningen en donaties te verwerken. Bekijk enkele voorbeelden."
+  },
+  "Try before you buy": {
+    "message": "Probeer het eens uit"
+  },
+  "Wings is set up quickly and has affordable": {
+    "message": "Wings is snel opgezet en heeft relatief lage"
+  },
+  "pricing": {
+    "message": "kosten"
+  },
+  "free demo account": {
+    "message": "gratis demo-account"
+  },
+  "and you will be up and running in no time.": {
+    "message": "en je bent binnen de kortste keren aan de slag."
+  },
+  "Using Wings saved us a lot of time and effort getting a grassroots campaign off the ground. I love how easy it is to get started with great default settings, while it offers advanced options if you want to build more complex and customized supporter journeys.": {
+    "message": "Wings heeft ons veel tijd en moeite bespaard om een grassroots-campagne van de grond te krijgen. Ik vind het geweldig hoe gemakkelijk het is om aan de slag te gaan met uitstekende standaardinstellingen, terwijl het geavanceerde opties biedt als je complexere en op maat gemaakte customer journeys wilt bouwen."
+  },
+  "Try out a": {
+    "message": "Probeer een"
   }
 }

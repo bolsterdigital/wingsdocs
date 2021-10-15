@@ -8,6 +8,7 @@ import SanneWalvisch from '/img/sanne-walvisch.jpg';
 export default function Testimonial() {
   return (
     <div className={clsx('container', styles.testimonial)}>
+      <h2 className={styles.testimonialTitle}>What people are saying</h2>
       <div className={styles.profileImage}>
         <ImageComponent image={SanneWalvisch} />
         <small className={styles.quotePerson}>
@@ -17,10 +18,10 @@ export default function Testimonial() {
       <div className={styles.quoteWrapper}>
         <p className={styles.quote}>
           <Translate>
-            “Using Wings saved us a lot of time and effort getting a grassroots
+            Using Wings saved us a lot of time and effort getting a grassroots
             campaign off the ground. I love how easy it is to get started with
             great default settings, while it offers advanced options if you want
-            to build more complex and customized supporter journeys.”
+            to build more complex and customized supporter journeys.
           </Translate>
         </p>
       </div>
