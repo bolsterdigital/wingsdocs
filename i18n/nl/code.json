@@ -592,5 +592,17 @@
   },
   "Try out a": {
     "message": "Probeer een"
+  },
+  "Email": {
+    "message": "E-mail"
+  },
+  "Phone Number": {
+    "message": "Telefoonnummer"
+  },
+  "Comments": {
+    "message": "Opmerkingen"
+  },
+  "Get a Wings account": {
+    "message": "Wings-account aanvragen"
   }
 }

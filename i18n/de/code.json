@@ -595,5 +595,17 @@
   },
   "Try out a": {
     "message": "Probieren Sie ein kostenloses"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Phone Number": {
+    "message": "Telefon"
+  },
+  "Comments": {
+    "message": "Bemerkungen"
+  },
+  "Get a Wings account": {
+    "message": "Wings-Konto anfordern"
   }
 }

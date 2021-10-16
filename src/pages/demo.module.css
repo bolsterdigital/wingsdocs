@@ -33,3 +33,12 @@ input {
   border: 1px solid #ddd;
   border-radius: 0.6rem;
 }
+
+textarea {
+  margin: 0.2rem 0 0.6rem;
+  width: 100%;
+  font-size: 1rem;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 0.6rem;
+}
