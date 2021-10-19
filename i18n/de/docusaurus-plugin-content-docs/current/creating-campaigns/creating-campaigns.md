@@ -10,7 +10,7 @@ Bei Kampagnen glänzt Wings wirklich: Sie ermöglichen es Ihnen, sinnvolle und e
 
 :::caution Hinweis: in Arbeit
 
-Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
+Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
 - **Signups** are simple forms that let people 'sign up', for example to receive newsletter updates.

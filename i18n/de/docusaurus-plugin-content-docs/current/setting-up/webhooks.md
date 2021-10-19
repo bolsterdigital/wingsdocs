@@ -22,7 +22,7 @@ Die Verwendung von Webhooks hat Vorteile:
 - Sie sparen Geld, weil Sie sich nicht auf teure, aber veraltete All-in-One-Plattformen verlassen müssen.
 - :::caution Hinweis: in Arbeit
 
-Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
+Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
 ## Beispiele für Webhooks
@@ -200,7 +200,7 @@ Zapier zeigt Ihnen an, dass das Formular eingegangen ist. Als Nächstes richten 
 
 ![](https://screens.wings.dev/CleanShot-2020-12-05-at-13.54.05-2x-1607172900.png)
 
-Klicken Sie auf `continue`, bis Sie die `outbound email` ("ausgehende E-Mail“)  konfigurieren können. Anschließend können Sie die E-Mail-Benachrichtigung konfigurieren. Sie können alle Informationen verwenden, die Wings sammelt.
+Klicken Sie auf `continue`, bis Sie die `outbound email` ("ausgehende E-Mail“) konfigurieren können. Anschließend können Sie die E-Mail-Benachrichtigung konfigurieren. Sie können alle Informationen verwenden, die Wings sammelt.
 
 ![](https://screens.wings.dev/CleanShot-2020-12-05-at-14.17.37-2x-1607174267.png)
 

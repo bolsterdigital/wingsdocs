@@ -17,7 +17,7 @@ Sie können hier auch eine primäre Sprache einstellen.
 
 :::caution Hinweis: in Arbeit
 
-Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
+Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
 ## Projektweite Übersetzungen für Strings
@@ -46,6 +46,6 @@ Möchten Sie die Seiten in der Sekundär- (oder Tertiär-)Sprache getrennt von d
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-17.43.42-1582476248.png)
 
-Möchten Sie dieselbe Seite in mehreren Sprachen veröffentlichen? Dann veröffentlichen Sie einfach die gleiche Seite/den gleichen Artikel/die gleiche Kampagne in einer anderen Sprache, aber **verwenden Sie denselben Slug wie den in der Primärsprache veröffentlichten** Im obigen Beispiel gibt es auch einen englischen Artikel mit dem Slug `/demo -Artikel`, die Sie unter einsehen können:  [demo.wings.dev/articles/demo-article](https://demo.wings.dev/articles/demo-article).
+Möchten Sie dieselbe Seite in mehreren Sprachen veröffentlichen? Dann veröffentlichen Sie einfach die gleiche Seite/den gleichen Artikel/die gleiche Kampagne in einer anderen Sprache, aber **verwenden Sie denselben Slug wie den in der Primärsprache veröffentlichten** Im obigen Beispiel gibt es auch einen englischen Artikel mit dem Slug `/demo -Artikel`, die Sie unter einsehen können: [demo.wings.dev/articles/demo-article](https://demo.wings.dev/articles/demo-article).
 
 Die niederländische Version finden Sie erwartungsgemäß hier: [demo.wings.dev/articles/articles/demo-article?lang=nl](https://demo.wings.dev/articles/demo-article?lang=nl).

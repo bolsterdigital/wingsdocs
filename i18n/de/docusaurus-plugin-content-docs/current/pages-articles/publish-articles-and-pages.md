@@ -10,7 +10,7 @@ Unter _Articles_ können Sie Artikel hinzufügen und bearbeiten; Unter Seiten k�
 
 :::caution Hinweis: in Arbeit
 
-Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
+Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
 1. Click 'Content' in the main menu.
