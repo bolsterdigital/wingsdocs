@@ -1,6 +1,6 @@
 {
   "name": "wingsdocs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -15,9 +15,9 @@
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^0.6.6",
-    "@docusaurus/core": "2.0.0-beta.6",
+    "@docusaurus/core": "2.0.0-beta.7",
     "@docusaurus/plugin-google-analytics": "^2.0.0-beta.6",
-    "@docusaurus/preset-classic": "2.0.0-beta.6",
+    "@docusaurus/preset-classic": "2.0.0-beta.7",
     "@docusaurus/theme-search-algolia": "^2.0.0-beta.6",
     "@mdx-js/react": "^1.6.21",
     "@svgr/webpack": "^5.5.0",
