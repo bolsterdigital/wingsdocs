@@ -73,7 +73,7 @@ const CaseList = [
         </Translate>
       </>
     ),
-    link: 'https://www.jongsocialisten.nl',
+    link: 'https://www.jongsocialisten.de',
   },
 
   {
