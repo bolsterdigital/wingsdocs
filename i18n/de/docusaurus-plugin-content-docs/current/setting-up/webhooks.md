@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Use webhooks
+# Über die Verwendung von Webhooks
 
 Webhooks bieten eine einfache und dennoch leistungsstarke Möglichkeit, Formulareinsendungen sowie Informationen über erstellte, aktualisierte und gelöschte _nodes_ (Artikel, Seiten und Kampagnen) an Dienste von Drittanbietern zu senden.
 
