@@ -4,11 +4,6 @@ sidebar_position: 1
 
 # Kampagnen erstellen
 
-:::tip Hinweis: in Arbeit
-
-Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
-:::
-
 ## Über Kampagnen
 
 Bei Kampagnen glänzt Wings wirklich: Sie ermöglichen es Ihnen, sinnvolle und effektive Möglichkeiten zu schaffen, mit denen Benutzer zu Ihrem Anliegen beitragen können, indem sie an Veranstaltungen teilnehmen, eine Petition unterschreiben oder eine Spende tätigen. Ein schneller Überblick:

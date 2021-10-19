@@ -17,55 +17,55 @@ Die meisten Wings-Projekte haben eine Frontend-Anwendung – eine _Website_ –,
 Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
-### General app settings
+### Allgemeine App-Einstellungen
 
-On the General page, you can configure these settings:
+Auf der Seite Allgemein können Sie diese Einstellungen konfigurieren:
 
 ![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.49.47-1606906227.png)
 
-1. **Theme**: you can select the theme for your site. A theme is a collection of style settings, such as colours and fonts; they can be configured at Settings -> Themes.
-2. **Main Menu**: select which menu (which can be managed on the Settings -> Menu tab) is to be used as a main navigation menu on your website.
-3. **Homepage**: choose which node (page, article or campaign) should serve as the home page of your website. **Note**: the node that is selected here will no longer be found at its usual path & slug.
+1. **Theme**: Sie können das Thema für Ihre Site auswählen. Ein Design ist eine Sammlung von Stileinstellungen wie Farben und Schriftarten. Sie können unter Einstellungen -> Themen konfiguriert werden.
+2. **Main menu**: Wählen Sie aus, welches Menü (das über die Registerkarte Einstellungen -> Menü verwaltet werden kann) als Hauptnavigationsmenü auf Ihrer Website verwendet werden soll.
+3. **Homepage**: Wählen Sie aus, welcher Knoten (Seite, Artikel oder Kampagne) als Startseite Ihrer Website dienen soll. **Hinweis**: Der hier ausgewählte Knoten wird nicht mehr an seinem üblichen Pfad & Slug gefunden.
 
-:::tip Hot tip
+:::tip Heißer Tipp
 
-If you want to experiment with a theme, create a new theme first, then create a new app, and configure the app to use your new theme.
+Wenn Sie mit einem Design experimentieren möchten, erstellen Sie zuerst ein neues Design, erstellen Sie dann eine neue App und konfigurieren Sie die App für die Verwendung Ihres neuen Designs.
 
 :::
 
-### Translation settings
+### Übersetzungseinstellungen
 
-On the the Translations settings of your App, you can select the Translation you have created (see the separate [webhooks page](webhooks) for more information).
+In den Übersetzungseinstellungen Ihrer App können Sie die von Ihnen erstellte Übersetzung auswählen (weitere Informationen finden Sie auf der separaten [Webhooks-Seite](Webhooks).
 
 ![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.48.21-1606906138.png)
 
-### Domains settings
+### Domain-Einstellungen
 
-See [here](custom-domains) for a separate documentation page about domains.
+Siehe [hier](custom-domains) für eine separate Dokumentationsseite zu Domains.
 
-### Scripts
+###Skripte
 
-It is easy to add custom scripts to your application. For example, you could add a Google Tag Manager script.
+Es ist einfach, Ihrer Anwendung benutzerdefinierte Skripte hinzuzufügen. Sie könnten beispielsweise ein Google Tag Manager-Skript hinzufügen.
 
 ![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.52.51-1606906389.png)
 
-1. Visit the 'Scripts' tab for your app
-2. Click 'Edit scripts'.
+1. Rufen Sie den Tab "Skripte" für Ihre App auf
+2. Klicken Sie auf 'Skripte bearbeiten'.
 
-Then, you can easily add the scripts:
+Anschließend können Sie die Skripte einfach hinzufügen:
 
 ![](https://screens.wings.dev/CleanShot-2020-12-02-at-11.54.25-1606906541.png)
 
-1. Give your script a name.
-2. Paste the script here. It should start with `<script>` and end with `</script>`.
-3. Choose a location.
-4. Add additional scripts if you need.
-5. Click Finish
-6. And save your new settings.
+1. Geben Sie Ihrem Skript einen Namen.
+2. Fügen Sie das Skript hier ein. Es sollte mit `<script>` beginnen und mit `</script>` enden.
+3. Wählen Sie einen Standort.
+4. Fügen Sie bei Bedarf zusätzliche Skripte hinzu.
+5. Klicken Sie auf Fertig stellen
+6. Und speichern Sie Ihre neuen Einstellungen.
 
-### Adding a Google Universal Analytics script
+### Hinzufügen eines Google Universal Analytics-Skripts
 
-Do you use Universal Analytics, with a tag that has the format `UA-XXXXX-Y`? Copy the script below and paste it into the script field in Wings Admin, but \*\*replace UA-XXXXX-Y' with your own tag.
+Verwenden Sie Universal Analytics mit einem Tag im Format "UA-XXXXX-Y"? Kopieren Sie das Skript unten und fügen Sie es in das Skriptfeld in Wings Admin ein, aber \*\*ersetzen Sie UA-XXXXX-Y' durch Ihr eigenes Tag.
 
 ```
 <!-- Google Analytics -->
@@ -81,70 +81,65 @@ ga('send', 'pageview');
 <!-- End Google Analytics -->
 ```
 
-## Themes
+##Themen
 
-On the Themes page, you can configure your themes. **Note**: when you edit the theme that is currently set to be active on your site, you will immediately change the presentation of your website.
-
+Auf der Seite Themen können Sie Ihre Themen konfigurieren. **Hinweis**: Wenn Sie das Thema bearbeiten, das derzeit auf Ihrer Website aktiv ist, ändern Sie sofort die Darstellung Ihrer Website.
 ![](https://screens.wings.dev/CleanShot-2020-09-07-at-13.50.20-1599479432.png)
 
-## Menus
+## Menüs
 
-You can configure menus here. Click `Add Menu Item` to add an item and type its title and path. **Note**: you do not need to enter the entire url; you can use relative paths. For example, for a page with the slug '`our-team`', you can enter the path `/our-team` (with a `/` at the start). Remember that articles, signups, fundraisers, events and petitions should be linked with a path that includes their node type. A fundraiser with the slug `save-the-day` has a path called `/fundraisers/save-the-day`. The same goes for `/articles/`, `/petitions/`, `/events/` and `/signups/`, respectively.
+Hier können Sie Menüs konfigurieren. Klicken Sie auf "Menüelement hinzufügen", um ein Element hinzuzufügen und seinen Titel und Pfad einzugeben. **Hinweis**: Sie müssen nicht die gesamte URL eingeben; Sie können relative Pfade verwenden. Beispielsweise können Sie für eine Seite mit dem Slug ''unser-Team'' den Pfad `/unser-Team' eingeben (mit einem `/` am Anfang). Denken Sie daran, dass Artikel, Anmeldungen, Spendenaktionen, Veranstaltungen und Petitionen mit einem Pfad verknüpft werden sollten, der ihren Knotentyp enthält. Eine Spendenaktion mit der Schnecke `save-the-day` hat einen Pfad namens `/fundraisers/save-the-day`. Das gleiche gilt für `/articles/`, `/petitions/`, `/events/` bzw. `/signups/`.
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-17-36-31-1582475796.gif)
 
-## Languages
+## Sprachen
 
-See the separate [Languages](webhooks) page for more information.
+Weitere Informationen finden Sie auf der separaten Seite [Sprachen](Webhooks).
 
-## Commerce
+## Handel
 
-At the Commerce Settings page, you can set up payment integrations for payment processors Stripe or Mollie. If you use Stripe, you should fill out your Public Key and Secret. In case of Mollie, just fill out your API key. Your Fundraiser campaigns should work automatically. Tip: fill out your test credentials at first so you can test the payment flow without making actual payments, and change these to your live credentials after publishing your website.
+Auf der Seite Commerce-Einstellungen können Sie Zahlungsintegrationen für die Zahlungsprozessoren Stripe oder Mollie einrichten. Wenn Sie Stripe verwenden, sollten Sie Ihren öffentlichen Schlüssel und Ihr Geheimnis ausfüllen. Im Fall von Mollie füllen Sie einfach Ihren API-Schlüssel aus. Ihre Fundraiser-Kampagnen sollten automatisch funktionieren. Tipp: Füllen Sie zunächst Ihre Testdaten aus, damit Sie den Zahlungsfluss testen können, ohne tatsächlich Zahlungen zu leisten, und ändern Sie diese nach der Veröffentlichung Ihrer Website in Ihre Live-Zugangsdaten.
 
-Note: you can also set a Currency on a separate tab.
+Hinweis: Sie können eine Währung auch auf einer separaten Registerkarte festlegen.
 
 ![](https://screens.wings.dev/CleanShot-2020-03-13-at-09.11.43-1584087129.png)
 
-## Integrations
+## Integrationen
 
-On the Integrations page, you will be able to set up integrations with third party services such as Mailchimp. Create an API key in your Mailchimp account and enter it here
+Auf der Seite Integrationen können Sie Integrationen mit Diensten von Drittanbietern wie Mailchimp einrichten. Erstelle einen API-Schlüssel in deinem Mailchimp-Konto und gib ihn hier ein.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-17.54.20-1582476872.png)
 
-## Emails
+##E-Mails
 
-At the Emails settings page, you can configure the confirmation/notification emails that will be sent to anyone who submits a campaign form. There are two primary use cases.
+Auf der Seite E-Mail-Einstellungen können Sie die Bestätigungs-/Benachrichtigungs-E-Mails konfigurieren, die an alle gesendet werden, die ein Kampagnenformular einreichen. Es gibt zwei Hauptanwendungsfälle.
 
-### 1. Confirmation emails
+### 1. Bestätigungs-E-Mails
 
-You can include a button or text link with a confirmation link. If a user clicks this link, they will be sent to a 'confirmed' campaign page [such as this one](https://demo.wings.dev/petitions/demo-petition/confirmed). Additionally, their submission will be recorded as being 'confirmed'.
+Sie können eine Schaltfläche oder einen Textlink in einen Bestätigungslink einfügen. Wenn ein Benutzer auf diesen Link klickt, wird er zu einer "bestätigten" Kampagnenseite [wie dieser](https://demo.wings.dev/petitions/unterschreiben-sie-die-petition-retten-sie-diese-blauen-vogel/confirmed?lang=de) weitergeleitet. Außerdem wird ihre Einreichung als „bestätigt“ protokolliert.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-18.04.09-1582477476.png)
 
-This confirmation flow is useful to verify that a user's submission contains a valid email address, and that you have obtained permission to use their personal information.
+Dieser Bestätigungsablauf ist nützlich, um zu überprüfen, ob die Übermittlung eines Benutzers eine gültige E-Mail-Adresse enthält und Sie die Erlaubnis zur Verwendung seiner persönlichen Daten erhalten haben.
 
-Another advantage of this flow is that the 'confirmed' page contains call to action links that let a user share the campaign with their friends.
+Ein weiterer Vorteil dieses Ablaufs besteht darin, dass die Seite "Bestätigt" Call-to-Action-Links enthält, die es einem Benutzer ermöglichen, die Kampagne mit seinen Freunden zu teilen.
+### Konfigurieren der Bestätigungs-E-Mails
 
-### Configuring the confirmation emails
-
-All campaigns only record a user's information after they have clicked a confirmation link in the email that is sent by Wings. Note: all campaigns of a certain campaign type get the same email. In other words: petition signers will receive the same petition confirmation email regardless of the petition being signed.
+Alle Kampagnen erfassen die Informationen eines Benutzers erst, nachdem dieser auf einen Bestätigungslink in der von Wings gesendeten E-Mail geklickt hat. Hinweis: Alle Kampagnen eines bestimmten Kampagnentyps erhalten dieselbe E-Mail. Mit anderen Worten: Petitionsunterzeichner erhalten dieselbe Petitionsbestätigungs-E-Mail, unabhängig davon, ob die Petition unterschrieben wurde.
 
 ![](https://bureaubolster.s3-eu-west-1.amazonaws.com/IMG_1108.jpeg)
 
-1. Visit Settings -> Emails to configure the emails.
-2. Set the 'From' name.
-3. Choose which campaign type you want to configure the emails for.
-4. Write an email subject line.
-5. Here, you can drag content blocks from the right to the left, in order to add them to your email.
+1. Rufen Sie Settings -> Emails auf, um die E-Mails zu konfigurieren.
+2. Legen Sie den 'From'-Namen fest.
+3. Wählen Sie aus, für welchen Kampagnentyp Sie die E-Mails konfigurieren möchten.
+4. Schreiben Sie eine E-Mail-Betreffzeile.
+5. Hier können Sie Inhaltsblöcke von rechts nach links ziehen, um sie Ihrer E-Mail hinzuzufügen.
+6. 
+### 2. Benachrichtigungs- oder Dankes-E-Mails
 
-### 2. Notification or Thank You emails
-
-Alternatively, you can configure the email as a simple 'thank you' email with perhaps a followup call to action link.
+Alternativ können Sie die E-Mail als einfache „Dankeschön“-E-Mail mit möglicherweise einem Follow-up-Call-to-Action-Link konfigurieren.
 
 ## Webhooks
 
-See [here](webhooks) for a separate documentation page about Webhooks.
+Siehe [hier](webhooks) für eine separate Dokumentationsseite zu Webhooks.
 
-## Schemas
-
-Schemas will be typically used by developers to allow for custom components and experiences. [Contact us](mailto:dev@wings.dev) if you are interested.
