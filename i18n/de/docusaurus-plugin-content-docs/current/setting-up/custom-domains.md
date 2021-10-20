@@ -2,18 +2,18 @@
 sidebar_position: 5
 ---
 
-# Legen Sie eine benutzerdefinierte Domäne fest
-
 :::caution Hinweis: in Arbeit
 
-Die Wings-Dokumentation ist noch nicht ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
+Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
+
+# Legen Sie eine benutzerdefinierte Domäne fest
 
 Um eine Website zu starten, sollten Sie Ihre Website auf einer benutzerdefinierten Domain bereitstellen. Wings unterstützt jede gewünschte benutzerdefinierte Domain und stellt automatisch ein SSL-Zertifikat bereit, sodass der gesamte Webverkehr https:// verwendet.
 
-:::Tipp Oder lass es uns einfach machen
+:::Tip Oder lassen Sie es uns einfach machen
 
-Wir halten es für wichtig, dass Sie Ihre Domain selbst _konfigurieren_ können – aber nicht müssen. Gerne konfigurieren wir Ihre Domain kostenlos für Sie. Senden Sie eine E-Mail an `support@wings.dev` und wir werden es erledigen.
+Wir halten es für wichtig, dass Sie Ihre Domain selbst konfigurieren _können_ – aber nicht _müssen_. Gerne konfigurieren wir Ihre Domain kostenlos für Sie. Senden Sie eine E-Mail an `support@wings.dev` und wir werden es erledigen.
 :::
 
 ## Über Domains
@@ -24,18 +24,18 @@ Die `...app.wings.dev` ist eine temporäre URL in einer `app.wings.dev`-Subdomai
 
 Noch wichtiger ist, dass diese temporäre Domain zufällig ausgewählt wird und nur den Personen bekannt sein kann, mit denen Sie sie teilen möchten. Sie können sie also gerne mit Partnern und Mitarbeitern teilen, betonen Sie nur, dass dies eine temporäre Vorschau-URL ist, und teilen Sie sie nicht öffentlich.
 
-:::Info Hinweis:
+:::info Notiz:
 Auch nachdem Sie eine benutzerdefinierte Domäne hinzugefügt haben, funktioniert diese temporäre Domäne weiterhin. Dies hat keinerlei Einfluss auf die Leistung Ihrer Website.
 :::
 
-Entscheiden Sie zunächst, ob Sie eine Subdomain einer bestehenden Domain ( `action.mywebsite.com`) oder eine 'root'- oder 'apex'-Domain verwenden möchten, **sowohl mit als auch ohne** `www`.).
+Entscheiden Sie zunächst, ob Sie eine Subdomain einer bestehenden Domain ( `aktion.meinewebsite.de`) oder eine 'root'- oder 'apex'-Domain verwenden möchten, **sowohl mit als auch ohne** `www`.).
 
-## 1. Using a subdomain
+## 1. Verwendung einer Subdomain
 
-If you only want to use a subdomain of an existing domain for your Wings project - for example: `action.mywebsite.com`, create a CNAME record for your subdomain and point it to `app.wings.dev`.
+Wenn Sie für Ihr Wings-Projekt nur eine Subdomain einer bestehenden Domain verwenden möchten - zum Beispiel: `aktion.meinewebsite.de`, erstellen Sie einen CNAME-Record für Ihre Subdomain und verweisen Sie ihn auf `app.wings.dev`.
 
-:::info Note:
-If you use a subdomain, skip step 2 below and go directly to [the step after that](#configure-your-domain-in-wings).
+:::info Notiz:
+Wenn Sie eine Subdomain verwenden, überspringen Sie Schritt 2 unten und gehen Sie direkt zu [dem Schritt danach](#konfigurieren-sie-ihre-domain-in-wings).
 :::
 
 ## 2. Using an apex domain
@@ -58,7 +58,7 @@ If your registrar does not support ALIAS records (this includes DNSimple and Nam
 - create an A record for your domain (without www) and point it to `34.76.238.51`
 - create a CNAME record for `www.yourdomain.com` and point it to `yourdomain.com`.
 
-## Configure your domain in Wings
+## Konfigurieren Sie Ihre Domain in Wings
 
 After you made sure your domain points to Wings, you still have to configure your domain in your Wings project. **Note**: it is best to wait until the DNS changes have propagated, and your domain actually points to Wings.
 
