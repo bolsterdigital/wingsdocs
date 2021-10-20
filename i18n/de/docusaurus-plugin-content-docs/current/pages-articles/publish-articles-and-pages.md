@@ -13,158 +13,151 @@ Unter _Articles_ können Sie Artikel hinzufügen und bearbeiten; Unter Seiten k�
 Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
-1. Click 'Content' in the main menu.
-2. Choose between Articles and Pages. Depending on your selection, you will find a list of existing articles and pages below.
-3. Click here to create a new article or page.
+1. Klicken Sie im Hauptmenü auf `Content`.
+2. Wählen Sie zwischen Articles (Artikeln) und Pages (Seiten). Je nach Auswahl finden Sie untenstehend eine Liste der vorhandenen Artikel und Seiten.
+3. Klicken Sie hier, um einen neuen Artikel oder eine neue Seite zu erstellen.
 
-## Editing an article or page
+## Bearbeiten eines Artikels oder einer Seite
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-12.04.52-1582456048.png)
 
-1. General: this tab is open by default. It's where you write the content.
-2. Platforms: SEO and social media optimisation settings are to be found here.
-3. Meta: this tab may occasionally be used to configure specific settings. If applicable, you should receive specific instructions from a website developer
-4. Apps: if you need to edit specific settings related to the frontend application, this is where you need to be. For example, you can set a main navigation menu that this page should show on the frontend, if it needs to be different from the one that is set as a default main menu.
-5. The title goes here.
-6. The slug goes here. Pages will by default have your main website domain + their slug as their public url, for example `https://www.yourwebsite.com/hello-world`. Articles are placed in a directory called `articles`, for example `https://www.yourwebsite.com/articles/hello-world`.
-7. You can set the language for this page here.
-8. Here you will see a blinking cursor. Start typing away!
-9. This is the layout toolbar, which works similar to other CMS'es and word editing applications. You can use it to add headings, unordered lists (usually styled with bullets), ordered (numbered) lists, **strong**, `code` and [links](https://example.com).
-10. A 'card' is a special content block, which will be explained in the next section.
-11. Save, delete, publish or _depublish_ a node.
-12. Set the publication date of this node.
+1. `General`: Diese Tab ist standardmäßig geöffnet. Hier schreiben Sie den Inhalt.
+2. `Platforms`: Hier finden Sie SEO- und Social-Media-Optimierungseinstellungen.
+3. `Meta`: Diese Tab kann gelegentlich verwendet werden, um bestimmte Einstellungen zu konfigurieren. Gegebenenfalls sollten Sie spezifische Anweisungen von einem Website-Entwickler erhalten
+4. `Apps`: Wenn Sie spezifische Einstellungen in Bezug auf die Frontend-Anwendung bearbeiten müssen, müssen Sie hier sein. Sie können beispielsweise ein Hauptnavigationsmenü festlegen, das diese Seite im Frontend anzeigen soll, wenn es sich von dem als Standard-Hauptmenü eingestellten unterscheiden muss.
+5. Hier kann der Titel eingestellt werden.
+6. Hier kann der _slug_ eingestellt werden Seiten haben standardmäßig Ihre Hauptwebsite-Domain + ihren Slug als öffentliche URL, zum Beispiel "https://www.yourwebsite.com/hello-world". Artikel werden in einem Verzeichnis namens `articles` abgelegt, zum Beispiel `https://www.yourwebsite.com/articles/hello-world`.
+7. Hier können Sie die Sprache für diese Seite einstellen.
+8. Hier sehen Sie einen blinkenden Cursor. Fangen Sie an zu tippen!
+9. Dies ist die Layout-Symbolleiste, die ähnlich wie andere CMS und Textbearbeitungsanwendungen funktioniert. Sie können es verwenden, um Überschriften, ungeordnete Listen (normalerweise mit Aufzählungszeichen), geordnete (nummerierte) Listen, **strong**, `Code` und [Links](https://example.com) hinzuzufügen.
+10. Eine 'Card' ist ein spezieller Inhaltsblock, der im nächsten Abschnitt erklärt wird.
+11. Speichern, löschen, veröffentlichen oder _depublizieren_ Sie einen Knoten.
+12. Legen Sie das Veröffentlichungsdatum dieses _node_ fest.
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-12-20-01-1582456809.gif)
 
-## Adding content cards
+## Inhaltskarten hinzufügen
 
-There are several pre-made content cards you can use, ranging from images to pullquotes and from campaign cards to collections of persons.
+Es gibt mehrere vorgefertigte Inhaltskarten, die Sie verwenden können, von Bildern bis hin zu Zitaten und von Kampagnenkarten bis hin zu Personensammlungen.
 
-### Inserting a content card
+### Einfügen einer Inhaltskarte
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-12-21-05-1582456877.gif)
 
-1. Place your cursor on the spot where you would like to insert a card.
-2. Click 'Card' in the toolbar.
-3. Choose the kind of content card you want to use.
-4. Click on the content card you just inserted into your page to edit and configure it. Depending on the card, you will find various content fields you can edit.
+1. Setzen Sie den Cursor an die Stelle, an der Sie eine Karte einlegen möchten.
+2. Klicken Sie in der Symbolleiste auf „Karte“.
+3. Wählen Sie die Art der Inhaltskarte aus, die Sie verwenden möchten.
+4. Klicken Sie auf die soeben in Ihre Seite eingefügte Inhaltskarte, um sie zu bearbeiten und zu konfigurieren. Je nach Karte finden Sie verschiedene Inhaltsfelder, die Sie bearbeiten können.
 
-A brief overview of the content cards is listed below. You can visit the [demo article with all elements](https://demo.wings.dev/articles/all-elements) to see what they look like by default.
-
-### Chapter
-
-A 'chapter' card contains a title and description, which typically is used to create an in-page navigation menu to skip to certain headers/chapters.
-
-![](https://screens.wings.dev/CleanShot-2020-02-23-at-12.30.29-1582457439.png)
+Nachfolgend finden Sie eine kurze Übersicht über die Inhaltskarten. Sie können den [Demo-Artikel mit allen Elementen](https://demo.wings.dev/articles/all-elements) besuchen, um zu sehen, wie sie standardmäßig aussehen.
 
 ### Text
 
-A 'text' card will display a block of highlighted text, which will usually have a different background color compared to regular page text.
+Eine 'Text'-Karte zeigt einen Block mit hervorgehobenem Text an, der normalerweise eine andere Hintergrundfarbe hat als normaler Seitentext.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-23.02.27-1582495359.png)
 
 ### Image
 
-The 'image' card allows you to display a single image. It can have various sizes, as well as an optional caption. **Note**: the image has to be uploaded beforehand in the 'Files' page.
-
+Mit der Karte 'Bild' können Sie ein einzelnes Bild anzeigen. Es kann verschiedene Größen sowie eine optionale Beschriftung haben. **Hinweis**: Das Bild muss vorher auf der Seite 'Dateien' hochgeladen werden.
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-12.32.44-1582457575.png)
 
 ### Quote
 
-A 'quote card can either be blockquote (for quoting longer texts) or a pullquote (a larger quote). After selecting this card, you can choose the type of quote with a dropdown button.
+Eine Quote (Zitatkarte) kann entweder ein Blockquote (zum Zitieren längerer Texte) oder eine Pullquote (ein größeres Zitat) sein. Nachdem Sie diese Karte ausgewählt haben, können Sie die Art des Angebots über eine Dropdown-Schaltfläche auswählen.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-14.45.16-1582465527.png)
 
-The **pullquote** has the additional option to choose whether it should 'float' alongside text:
+Das **Pullquote** hat die zusätzliche Option zu wählen, ob es neben dem Text "schweben" soll:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-14.48.17-1582465714.png)
 
-And here is a **blockquote**:
+Und hier ist ein **blockquote**:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-14.37.29-1582465101.png)
 
 ### Campaign
 
-The Campaign card is quite powerful: it allows you to display a Signup, Petition, Fundraiser or Event campaign anywhere on a Page or Article. Just place the card and pick the campaign you want to display:
+Die Campaign Card ist sehr mächtig: Sie ermöglicht es Ihnen, eine Signup-, Petitions-, Spendenaktions- oder Event-Kampagne überall auf einer Seite oder einem Artikel anzuzeigen. Platzieren Sie einfach die Karte und wählen Sie die Kampagne aus, die Sie anzeigen möchten:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-14.55.30-1582466140.png)
 
-As a result, the campaign will be displayed at the appointed location:
+Anschließend wird die Kampagne am angegebenen Ort angezeigt:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-14.58.20-1582466318.png)
 
 ### Nodes
 
-A Nodes card will allow you to display a grid of pages, articles or campaigns. You can either choose to display a manual selection of nodes, or an automatically updated list of the most recent nodes of a certain type, with pagination (so: a list of articles / pages / events, etc).
+Mit einer Nodes-Karte können Sie ein Raster von Seiten, Artikeln oder Kampagnen anzeigen. Sie können entweder eine manuelle Auswahl von Nodes oder eine automatisch aktualisierte Liste der neuesten Nodes eines bestimmten Typs mit Paginierung anzeigen (also: eine Liste von Artikeln / Seiten / Ereignissen usw.).
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.06.58-1582466831.png)
 
-Let's try a manual selection of nodes first:
+Versuchen wir es zunächst mit einer manuellen Auswahl von Knoten:
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-11-58-1582467134.gif)
 
-The result will look something like this:
+Dann sieht es ungefähr so aus:
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-15-09-1582467315.gif)
 
-The 'Archive' version will display the 12 most recent nodes of the selected node type, and will allow you to view other nodes by using the pagination buttons at the bottom.
+Die 'Archive'-Version zeigt die 12 neuesten Nodes des ausgewählten Knotentyps an und ermöglicht es Ihnen, andere Nodes anzuzeigen, indem Sie die Paginierungsschaltflächen unten verwenden.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.17.35-1582467483.png)
 
-### An embed
+### Eine Embed
 
-An embed lets you display a YouTube video by entering its URL.
+Mit einer Embed können Sie ein YouTube-Video anzeigen, indem Sie seine URL eingeben.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.21.47-1582467746.png)
 
-### An insight
+### Ein Insight
 
-An insight displays a large, highlighted quote.
+Ein Insight zeigt ein großes, hervorgehobenes Zitat an.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.23.09-1582467798.png)
 
-### A testimonial
+### Ein Testimonial
 
-The testimonial allows you to display a highlighted story and an image. If the screen size is sufficiently wide, the image and story are displayed alongside each other.
+Mit dem Testimonial können Sie eine hervorgehobene Geschichte und ein Bild anzeigen. Ist die Bildschirmgröße ausreichend breit, werden Bild und Story nebeneinander angezeigt.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.24.07-1582467859.png)
 
 ### Q&A
 
-The Q&A is often used for FAQs: it displays a list of questions and will expand and collapse the answer section of each question.
+Das Q&A wird häufig für FAQs verwendet: Es zeigt eine Liste von Fragen an und erweitert und reduziert den Antwortbereich jeder Frage.
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-27-06-1582468032.gif)
 
 ### CTA
 
-The CTA (Call To Action) element lets you display a title, text and a prominently displayed link button.
+Mit dem CTA-Element (Call To Action / Aufruf zum Handeln) können Sie einen Titel, Text und einen prominent platzierten Link-Button anzeigen.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.28.32-1582468118.png)
 
 ### Collection
 
-The Collection element lets you display a grid of persons or a list of organisations:
+Mit dem Element 'Collection' können Sie ein Personenraster oder eine Liste von Organisationen anzeigen:
 
 ![](https://screens.wings.dev/Screen-Recording-2020-02-23-15-30-48-1582468259.gif)
 
-A 'people' collection displays a grid of person cards:
+Eine 'Personen'-Sammlung zeigt ein Raster von Personenkarten an:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.31.42-1582468308.png)
 
-An 'organizations' collection shows a list of organization profiles:
+Eine 'Organisationen'-Sammlung zeigt eine Liste von Organisationsprofilen:
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.32.33-1582468374.png)
 
-## Platforms: SEO and Social
+## Plattformen: SEO und Social
 
-At the Platforms tab, you can configure settings for search engines and social media.
+Auf der Registerkarte Plattformen können Sie Einstellungen für Suchmaschinen und soziale Medien konfigurieren.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-15.33.39-1582468459.png)
 
-If you click the 'Platforms' tab, you can configure the following:
+Wenn Sie auf die Registerkarte "Plattformen" klicken, können Sie Folgendes konfigurieren:
 
-- **Featured**: the title, description and image that is displayed when using the 'nodes' or 'campaign' card. These settings are also used for search engines and social media, **unless** you configure these separately:
-- **Search Engines**: set a title and description to override what you have configured on the 'Featured' tab.
-- **Facebook**: set a title, description and meta image for Facebook and other social media platforms, which are used to display a 'card' when any user shares a link to the page you are editing on social media. The Facebook settings are also used for Twitter and WhatsApp, **unless** you configure those separately
-- **Twitter**: enter details here if you want to use a different title, description and image than you have configured for Facebook.
-- **WhatsApp**: configure a default share message.
+- **Featured**: der Titel, die Beschreibung und das Bild, das angezeigt wird, wenn die Karte "Knoten" oder "Kampagne" verwendet wird. Diese Einstellungen werden auch für Suchmaschinen und soziale Medien verwendet, \*\*sofern Sie diese nicht separat konfigurieren:
+- **Search Engines**: Legen Sie einen Titel und eine Beschreibung fest, um das zu überschreiben, was Sie auf der Registerkarte "Vorgestellt" konfiguriert haben.
+- **Facebook**: Legen Sie einen Titel, eine Beschreibung und ein Metabild für Facebook und andere Social-Media-Plattformen fest, die verwendet werden, um eine "Karte" anzuzeigen, wenn ein Benutzer einen Link zu der Seite teilt, die Sie in den sozialen Medien bearbeiten. Die Facebook-Einstellungen werden auch für Twitter und WhatsApp verwendet, \*\*sofern Sie diese nicht separat konfigurieren
+- **Twitter**: Geben Sie hier Details ein, wenn Sie einen anderen Titel, eine andere Beschreibung und ein anderes Bild verwenden möchten, als Sie für Facebook konfiguriert haben.
+- **WhatsApp**: Konfigurieren Sie eine Standard-Share-Botschaft.

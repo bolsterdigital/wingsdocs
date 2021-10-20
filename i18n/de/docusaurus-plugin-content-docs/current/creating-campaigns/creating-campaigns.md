@@ -13,19 +13,19 @@ Bei Kampagnen glänzt Wings wirklich: Sie ermöglichen es Ihnen, sinnvolle und e
 Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
 :::
 
-- **Signups** are simple forms that let people 'sign up', for example to receive newsletter updates.
-- **Events** are geared towards getting people to visit an event.
-- **Petitions** are aimed towards letting people sign a policy proposal, letter of support or some other kind of petition.
-- **Fundraisers** will allow users to make a donation.
+- **Signups** (Anmeldungen) sind einfache Formulare, die es Leuten ermöglichen, sich anzumelden, um beispielsweise Newsletter-Updates zu erhalten.
+- **Events** (Veranstaltungen) sind darauf ausgerichtet, Menschen dazu zu bringen, eine Veranstaltung zu besuchen.
+- **Petitions** (Petitionen) zielen darauf ab, Menschen einen politischen Vorschlag, ein Unterstützungsschreiben oder eine andere Art von Petition unterzeichnen zu lassen.
+- **Fundraisers** (Spendenaktionen) ermöglichen es Benutzern, einen Betrag zu spenden.
 
-## Campaigns on the frontend
+## Kampagnen im Frontend
 
-Campaigns can be shown on the frontend in two ways:
+Kampagnen können auf zwei Arten im Frontend angezeigt werden:
 
-1. Every campaign gets its own 'slug'; most Wings web applications will make each campaign publicly accessible at this slug on the frontend, inside its respective campaign directory. For example, a petition with the slug `my-petition` will typically be found at `mywebsite.com/petitions/my-petition`. Events, signups and fundraisers will be found in `/events/`, `/signups/` and `/fundraisers/`, respectively.
-2. You can also place campaign on a regular content page or article page, by using a [campaign card](../pages-articles/publish-articles-and-pages#campaign)
+1. Jede Kampagne bekommt ihre eigene _slug_. Eine Petition mit dem Slug `meine-petition` findet sich beispielsweise normalerweise unter `meinewebsite.de/petitions/meine-petition`. Petitionen, Veranstaltungen, Anmeldungen und Spendenaktionen finden Sie jeweils in `/petitions/`, `/events/`, `/signups/` und `/fundraisers/`.
+2. Sie können eine Kampagne auch auf einer normalen Inhaltsseite oder Artikelseite platzieren, indem Sie eine [Campaign card](../pages-articles/publish-articles-and-pages#campaign) verwenden.
 
-![A demo petition at [demo.wings.dev/petitions/demo-petition](https://demo.wings.dev/petitions/demo-petition)](https://screens.wings.dev/CleanShot-2020-02-23-at-21.44.08-1582490660.png)
+![](https://screens.wings.dev/CleanShot-2020-02-23-at-21.44.08-1582490660.png)
 
 ## Die Kampagnenübersicht
 
@@ -37,7 +37,7 @@ Campaigns can be shown on the frontend in two ways:
 
 ## Eine Kampagne erstellen
 
-Kampagnen haben einige Optionen, aber nur wenige sind erforderlich, um loszulegen. Lass uns beginnen mit :
+Kampagnen haben einige Optionen, aber nur wenige sind erforderlich, um loszulegen. Lass uns beginnen mit:
 
 1. Ein Titel
 2. Ein Bild (auch das ist optional)

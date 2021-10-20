@@ -23,7 +23,7 @@ Petitionen bestehen in der Regel aus folgenden Elementen:
 - Petitionen **funktionieren auf vielen Ebenen**: Sie schärfen das Bewusstsein, nutzen die Veröffentlichung, bauen öffentlichen Druck auf und helfen Ihnen, Unterstützer und Aktivisten zu organisieren und zu rekrutieren.
 - Eine Petition sollte eine **Theorie des Wandels** haben – es sollte einfach _sinnvoll sein_, dass die Unterzeichnung einer Petition Ihnen helfen kann, Ihr Ziel zu erreichen. Dieses Ziel sollte erreichbar erscheinen, zeitgebunden, messbar, etwas begrenzt und dramatisch sein.
 
-##Petitionen: spezielle Einstellungen
+## Petitionen: spezielle Einstellungen
 
 Petitionskampagnen haben einige spezielle Optionen:
 
