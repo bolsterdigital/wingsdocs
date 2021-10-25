@@ -52,14 +52,18 @@ function Pricing({ label, price, feature1, feature2, setupFee, buttonclass }) {
           </p>
           <p>{feature1}</p>
           <p>{feature2}</p>
-          <p>Setup fee: {setupFee}</p>
+          <p>
+            <Translate>Setup fee</Translate>: {setupFee}
+          </p>
 
           <motion.button
             className={buttonclass}
             whileHover={{ scale: 1.2 }}
             whileTap={{ scale: 0.9 }}
           >
-            <Link to="/demo">Request a demo</Link>
+            <Link to="/demo">
+              <Translate>Request a demo</Translate>
+            </Link>
           </motion.button>
         </div>
       </div>

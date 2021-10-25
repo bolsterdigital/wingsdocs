@@ -607,5 +607,21 @@
   },
   "Get a Wings account": {
     "message": "Wings-Konto anfordern"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Zurück nach oben scrollen",
+    "description": "The ARIA label for the back to top button"
+  },
+  "What people are saying": {
+    "message": "Was andere sagen"
+  },
+  "Visit": {
+    "message": "Besuch"
+  },
+  "Setup fee": {
+    "message": "Einrichtungsgebühr"
+  },
+  "Request a demo": {
+    "message": "Demo-Konto anfordern"
   }
 }

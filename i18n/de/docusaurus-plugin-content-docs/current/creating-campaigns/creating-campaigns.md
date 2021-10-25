@@ -23,7 +23,7 @@ Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und 
 Kampagnen können auf zwei Arten im Frontend angezeigt werden:
 
 1. Jede Kampagne bekommt ihre eigene _slug_. Eine Petition mit dem Slug `meine-petition` findet sich beispielsweise normalerweise unter `meinewebsite.de/petitions/meine-petition`. Petitionen, Veranstaltungen, Anmeldungen und Spendenaktionen finden Sie jeweils in `/petitions/`, `/events/`, `/signups/` und `/fundraisers/`.
-2. Sie können eine Kampagne auch auf einer normalen Inhaltsseite oder Artikelseite platzieren, indem Sie eine [Campaign card](../pages-articles/publish-articles-and-pages#campaign) verwenden.
+2. Sie können eine Kampagne auch auf einer normalen Inhaltsseite oder Artikelseite platzieren, indem Sie eine [Campaign card](../publishing-content/publish-articles-and-pages#campaign) verwenden.
 
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-21.44.08-1582490660.png)
 

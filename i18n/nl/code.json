@@ -604,5 +604,21 @@
   },
   "Get a Wings account": {
     "message": "Wings-account aanvragen"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll terug naar boven",
+    "description": "The ARIA label for the back to top button"
+  },
+  "What people are saying": {
+    "message": "Hoor het eens van een ander"
+  },
+  "Visit": {
+    "message": "Bezoeken"
+  },
+  "Setup fee": {
+    "message": "Opstartkosten"
+  },
+  "Request a demo": {
+    "message": "Proefaccount aanvragen"
   }
 }

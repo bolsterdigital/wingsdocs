@@ -179,7 +179,7 @@ function Case({ image, title, description, link }) {
         <div className="card__footer">
           <Link to={link}>
             <button className="button button--primary button--block">
-              Visit
+              <Translate>Visit</Translate>
             </button>
           </Link>
         </div>

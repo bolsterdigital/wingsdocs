@@ -18,7 +18,7 @@ sidebar_position: 1
 Campagnes kunnen op twee manieren op de frontend getoond worden:
 
 1. Elke campagne krijgt zijn eigen 'slug'; de meeste Wings-webapplicaties maken elke campagne openbaar toegankelijk via deze _slug_ aan de voorkant, in de respectievelijke campagne-directory. Bijvoorbeeld een petitie met de slug `mijn-petitie` kun je vinden in `mywebsite.com/petitions/mijn-petitie`. Evenementen (events), aanmeldingen (signups) en donatiecampagnes (fundraisers) worden geplaatst in de directories `/events/`, `/signups/` en `/fundraisers/`, respectievelijk.
-2. Je kunt de campagne ook op een normale inhoudspagina of artikelpagina plaatsen door een [campaign card](../pages-articles/publish-articles-and-pages#campaign) in te voegen.
+2. Je kunt de campagne ook op een normale inhoudspagina of artikelpagina plaatsen door een [campaign card](../publishing-content/publish-articles-and-pages#campaign) in te voegen.
 
 ![A demo petition at [demo.wings.dev/petitions/demo-petition](https://demo.wings.dev/petitions/demo-petition)](https://screens.wings.dev/CleanShot-2020-02-23-at-21.44.08-1582490660.png)
 

@@ -8,7 +8,9 @@ import SanneWalvisch from '/img/sanne-walvisch.jpg';
 export default function Testimonial() {
   return (
     <div className={clsx('container', styles.testimonial)}>
-      <h2 className={styles.testimonialTitle}>What people are saying</h2>
+      <h2 className={styles.testimonialTitle}>
+        <Translate>What people are saying</Translate>
+      </h2>
       <div className={styles.profileImage}>
         <ImageComponent image={SanneWalvisch} />
         <small className={styles.quotePerson}>
