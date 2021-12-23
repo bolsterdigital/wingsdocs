@@ -27,7 +27,7 @@ function Pricing() {
               <Translate>
                 From the smallest grassroots neighbourhood initiative to global,
                 multilingual federated website infrastructure: Wings can
-                accomodate any progressive campaign.
+                accommodate any progressive campaign.
               </Translate>
             </p>
           </div>

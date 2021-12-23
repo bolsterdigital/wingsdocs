@@ -31,7 +31,7 @@
     font-size: 3rem;
   }
   .heroSubtitle {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     max-width: 50rem;
     line-height: 2.2rem;
   }
@@ -39,7 +39,7 @@
 
 @media screen and (min-width: 1200px) {
   .heroTitle {
-    font-size: 4rem;
+    font-size: 3rem;
   }
 }
 
