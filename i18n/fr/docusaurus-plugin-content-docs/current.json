@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Suivante",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Setting up": {
+    "message": "Mise en place",
+    "description": "The label for category Setting up in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Publishing content": {
+    "message": "Publication de contenu",
+    "description": "The label for category Publishing content in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Creating campaigns": {
+    "message": "Création de campagnes",
+    "description": "The label for category Creating campaigns in sidebar tutorialSidebar"
+  }
+}

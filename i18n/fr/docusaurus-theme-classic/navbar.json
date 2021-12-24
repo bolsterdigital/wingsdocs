@@ -3,40 +3,36 @@
     "message": "Wings",
     "description": "The title in the navbar"
   },
+  "item.label.Features": {
+    "message": "Fonctionnalités",
+    "description": "Navbar item with label Features"
+  },
+  "item.label.Showcase": {
+    "message": "Exemples",
+    "description": "Navbar item with label Showcase"
+  },
   "item.label.Docs": {
     "message": "Docs",
     "description": "Navbar item with label Docs"
   },
-  "item.label.Wings Admin": {
-    "message": "Wings Admin",
-    "description": "Navbar item with label Wings Admin"
+  "item.label.More": {
+    "message": "Plus",
+    "description": "Navbar item with label More"
   },
   "item.label.Background": {
-    "message": "Background",
+    "message": "Histoire",
     "description": "Navbar item with label Background"
-  },
-  "item.label.Features": {
-    "message": "Features",
-    "description": "Navbar item with label Features"
-  },
-  "item.label.Pricing": {
-    "message": "Pricing",
-    "description": "Navbar item with label Pricing"
-  },
-  "item.label.Showcase": {
-    "message": "Showcase",
-    "description": "Navbar item with label Showcase"
-  },
-  "item.label.More": {
-    "message": "More",
-    "description": "Navbar item with label More"
   },
   "item.label.Wings Coalitions": {
     "message": "Wings Coalitions",
     "description": "Navbar item with label Wings Coalitions"
   },
+  "item.label.Pricing": {
+    "message": "Tarifs",
+    "description": "Navbar item with label Pricing"
+  },
   "item.label.Request demo": {
-    "message": "Request demo",
+    "message": "Demander une démo",
     "description": "Navbar item with label Request demo"
   },
   "item.label.Admin": {

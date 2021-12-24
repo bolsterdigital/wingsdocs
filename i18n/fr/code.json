@@ -1,0 +1,561 @@
+{
+  "Want to know more?": {
+    "message": "Vous voulez en savoir plus?"
+  },
+  "Just take Wings for a spin. Send us a message and we will set you up with a demo account in no time, free of charge.": {
+    "message": "Essayez Wings. Envoyez-nous un message et nous vous créerons un compte de démonstration en un rien de temps, sans frais."
+  },
+  "Get Wings": {
+    "message": "Essayez Wings"
+  },
+  "Republiek": {
+    "message": "Republiek"
+  },
+  "Republiek – formerly known as Republikeins Genootschap – is a Dutch advocacy group that wants The Netherlands to abolish the monarchy and to become a republic.": {
+    "message": "Republiek - anciennement connu sous le nom de Republikeins Genootschap - est un groupe de défense des droits néerlandais qui œuvre pour que les Pays-Bas abolissent la monarchie et deviennent une république."
+  },
+  "Extinction Rebellion": {
+    "message": "Extinction Rebellion"
+  },
+  "A coalition campaign led by Extinction Rebellion to launch a citizen council for climate & environmental issues.": {
+    "message": "Une campagne de coalition menée par Extinction Rebellion pour lancer un conseil citoyen pour les questions climatiques et environnementales."
+  },
+  "SPD Niedersachsen": {
+    "message": "SPD Niedersachsen"
+  },
+  "This is a campaign website for the German social-democrats of Niedersachsen.": {
+    "message": "Il s’agit d’un site de campagne des sociaux-démocrates allemands de Niedersachsen."
+  },
+  "Controle Alt Delete": {
+    "message": "Controle Alt Delete"
+  },
+  "Controle Alt Delete, a nonprofit that fights back against excessive police violence and ethnic profiling, uses Wings for their main website as well as for petition campaigns.": {
+    "message": "Controle Alt Delete, une association à but non lucratif qui lutte contre la violence policière excessive et le profilage ethnique, utilise Wings pour son site web principal ainsi que pour ses campagnes de pétition."
+  },
+  "Jongsocialisten": {
+    "message": "Jongsocialisten"
+  },
+  "The Belgian Young Socialists use Wings to power their main website as well as local chapter websites.": {
+    "message": "Les Jeunes socialistes belges utilisent Wings pour alimenter leur site principal ainsi que les sites des sections locales."
+  },
+  "Frisse Wind": {
+    "message": "Frisse Wind"
+  },
+  "Frisse Wind is a brave citizen action committee that uses Wings to raise close to € 60,000 euros to fund their lawsuit against Tata Steel corporation and its toxic emissions.": {
+    "message": "Frisse Wind est un comité d'action citoyenne courageux qui utilise Wings pour collecter près de 60.000 euros afin de financer son procès contre la société Tata Steel et ses émissions toxiques."
+  },
+  "Next Blue": {
+    "message": "Next Blue"
+  },
+  "Next Blue is a storytelling platform about water.": {
+    "message": "Next Blue est une plateforme de narration sur les sujets de l'eau."
+  },
+  "SP voor Rood": {
+    "message": "SP voor Rood"
+  },
+  "This is a fundraising campaign for the socialist youth organization ROOD.": {
+    "message": "Il s'agit d'une campagne de collecte de fonds pour l'organisation de jeunesse socialiste ROOD."
+  },
+  "Open over Abortus": {
+    "message": "Open over Abortus"
+  },
+  "A campaign website by the Dutch Humanist Society which aims to break the silence around abortion.": {
+    "message": "Un site de campagne de la Société humaniste néerlandaise qui vise à briser le silence autour de l'avortement."
+  },
+  "Stop Belastingparadijs NL": {
+    "message": "Stop Belastingparadijs NL"
+  },
+  "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals.": {
+    "message": "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals."
+  },
+  "BIJ1": {
+    "message": "BIJ1"
+  },
+  "The Dutch leftist party BIJ1 uses Wings to power its local chapter website.": {
+    "message": "Le parti de gauche néerlandais BIJ1 utilise Wings pour alimenter le site web de sa section locale."
+  },
+  "Probeer de Bond": {
+    "message": "Probeer de Bond"
+  },
+  "A campaign website by labour union CNV to get more young people to join a union.": {
+    "message": "Site de campagne du syndicat CNV visant à inciter davantage de jeunes à se syndiquer."
+  },
+  "Visit": {
+    "message": "Visitez"
+  },
+  "It's battle-tested and ready for your campaign.": {
+    "message": "La plateforme a fait ses preuves et est prête pour votre campagne."
+  },
+  "Wings is a proven platform that has been used by green, social-democratic and socialist parties, labour unions, citizen action groups and non-governmental organizations to process millions of signups, signatures and donations. Take a look at some examples.": {
+    "message": "Wings est une plateforme éprouvée, qui a été utilisée par des partis verts, sociaux-démocrates et socialistes, des syndicats, des groupes d'action citoyenne et des organisations non gouvernementales pour traiter des millions d'inscriptions, de signatures et de dons. Jetez un coup d'œil à quelques exemples."
+  },
+  "More cases": {
+    "message": "Plus d'exemples"
+  },
+  "Want to see Wings in action? Go ahead and take a look.": {
+    "message": "Vous voulez voir Wings en action ? Allez-y et jetez un œil."
+  },
+  "Wings is used by political parties, labour unions, advocacy groups and more.": {
+    "message": "Wings est utilisé par les partis politiques, les syndicats, les groupes de défense des droits et bien d'autres."
+  },
+  "Petitions": {
+    "message": "Pétitions"
+  },
+  "Create petition campaigns with custom fields, a configurable counter and email confirmations.": {
+    "message": "Créez des campagnes de pétition avec des champs personnalisés, un compteur configurable et des confirmations par e-mail."
+  },
+  "Donations": {
+    "message": "Dons"
+  },
+  "Launch powerful fundraiser campaigns and process donations with Stripe or Mollie.": {
+    "message": "Lancez de puissantes campagnes de collecte de fonds et traitez les dons avec Stripe ou Mollie."
+  },
+  "Event campaigns": {
+    "message": "Campagnes d'événements"
+  },
+  "Launch event campaigns and save user data of people who sign up to attend.": {
+    "message": "Lancez des campagnes d'événements et enregistrez les données des utilisateurs qui s'inscrivent pour y participer."
+  },
+  "Signups": {
+    "message": "Inscriptions"
+  },
+  "Publish email signup forms on standalone landing pages or insert signup campaigns into any article or page.": {
+    "message": "Publiez des formulaires d'inscription par e-mail sur des pages de renvoi autonomes ou insérez des campagnes d'inscription dans n'importe quel article ou page."
+  },
+  "Pages & Articles": {
+    "message": "Pages et articles"
+  },
+  "beautiful pages and compelling stories with Wings.": {
+    "message": "Créez de superbes pages et des articles captivants avec Wings."
+  },
+  "Advanced Editor": {
+    "message": "Éditeur avancé"
+  },
+  "Use our user-friendly card-based editor to create beautiful content.": {
+    "message": "Utilisez notre éditeur convivial basé sur des cartes pour créer du contenu de qualité."
+  },
+  "Confirmation emails": {
+    "message": "E-mails de confirmation"
+  },
+  "Configure personalized confirmation emails with a user-friendly drag-and-drop editor.": {
+    "message": "Configurez des e-mails de confirmation personnalisés à l'aide d'un éditeur convivial de type glisser-déposer."
+  },
+  "Themes": {
+    "message": "Thèmes"
+  },
+  "Easily configure colors, typography, link styles and more with the Theme editor, and even create multiple themes.": {
+    "message": "Configurez facilement les couleurs, la typographie, les styles de liens et bien plus encore avec l'éditeur de thèmes, et créez même plusieurs thèmes."
+  },
+  "Internationalization": {
+    "message": "Internationalisation"
+  },
+  "Wings supports multiple languages, including a language switcher for pages that have mulitple locales.": {
+    "message": "Wings prend en charge plusieurs langues – dont le français, bien sûr – et propose un sélecteur de langue."
+  },
+  "Custom fields": {
+    "message": "Champs personnalisés"
+  },
+  "Add custom text or checkbox fields to your campaign forms to collect valuable user info and build a movement.": {
+    "message": "Ajoutez des champs de texte ou des cases à cocher personnalisés à vos formulaires de campagne pour recueillir des informations précieuses sur les utilisateurs et créer un mouvement."
+  },
+  "Custom scripts": {
+    "message": "Scripts personnalisés"
+  },
+  "Insert any script you want into the header or body of your website and easily add an analytics script, tag manager or cookie wall to your website.": {
+    "message": "Insérez le script de votre choix dans l'en-tête ou le corps de votre site web et ajoutez facilement un script d'analyse, un gestionnaire de balises ou un mur de cookies à votre site web."
+  },
+  "Custom domains": {
+    "message": "Domaines personnalisés"
+  },
+  "You are in control: add any domain you want, and we handle the rest. Your domain is automatically routed, configured and equipped with a Let's Encrypt SSL certificate.": {
+    "message": "Vous avez le contrôle : ajoutez le domaine de votre choix et nous nous occupons du reste. Votre domaine est automatiquement acheminé, configuré et équipé d'un certificat SSL Let's Encrypt."
+  },
+  "Webhooks": {
+    "message": "Webhooks"
+  },
+  "Use our webhooks service to send updates and form submissions to any third party-service, including Mailchimp, Nationbuilder, The Action Network and many others.": {
+    "message": "Utilisez notre service de crochets web pour envoyer des mises à jour et des soumissions de formulaires à tout service tiers, y compris Mailchimp, Nationbuilder, The Action Network et bien d'autres."
+  },
+  "Media Uploader": {
+    "message": "Téléchargeur de médias"
+  },
+  "Upload images to your Wings media library, add alt tags and captions, and insert them in various layout types into your pages.": {
+    "message": "Téléchargez des photos vers votre médiathèque Wings, ajoutez des balises alt et des légendes, et insérez-les dans vos pages dans différents types de mise en page."
+  },
+  "CSV Downloads": {
+    "message": "Téléchargements CSV"
+  },
+  "Wings campaigns let you download a CSV file with your user data, allowing you to decide how to use that data with your preferred CRM or email application.": {
+    "message": "Les campagnes Wings vous permettent de télécharger un fichier CSV contenant les données de vos utilisateurs, ce qui vous permet de décider comment utiliser ces données avec votre application CRM ou e-mail préférée."
+  },
+  "All the features you need. None of the ones you don't.": {
+    "message": "Toutes les fonctionnalités dont vous avez besoin. Aucune fonctionnalité indésirable."
+  },
+  "Wings is designed from the ground up to build a non-profit website and run progressive campaigns. Here is an overview of features.": {
+    "message": "Wings est conçu de A à Z pour vous permettre de créer un site web à but non lucratif et mener des campagnes progressives. Voici un aperçu des fonctionnalités."
+  },
+  "Run winning campaigns": {
+    "message": "Menez des campagnes gagnantes"
+  },
+  "Build a movement with our": {
+    "message": "Créez un mouvement grâce à nos"
+  },
+  "powerful features": {
+    "message": "puissantes fonctionnalités"
+  },
+  "create signups, petitions, events and fundraisers to win your campaign.": {
+    "message": "créez des inscriptions, des pétitions, des événements et des collectes de fonds pour gagner votre campagne."
+  },
+  "Build a powerhouse": {
+    "message": "Construisez une forteresse"
+  },
+  "Dive into the": {
+    "message": "Plongez dans la"
+  },
+  "webhooks docs": {
+    "message": "documentation sur les webhooks"
+  },
+  "and find out how to integrate Wings with Mailchimp, The Action Network and many more.": {
+    "message": "et découvrez comment intégrer Wings à Mailchimp, The Action Network et bien d'autres."
+  },
+  "Try before you buy": {
+    "message": "Essayez avant d'acheter"
+  },
+  "Wings is set up quickly and has affordable": {
+    "message": "Wings s'installe rapidement et son"
+  },
+  "pricing": {
+    "message": "prix est abordable"
+  },
+  "Try out a": {
+    "message": "Essayez un"
+  },
+  "free demo account": {
+    "message": "compte de démonstration gratuit"
+  },
+  "and you will be up and running in no time.": {
+    "message": "et vous serez opérationnel en un rien de temps."
+  },
+  "Try it out": {
+    "message": "Essayez-le"
+  },
+  "Supercharge your campaign.": {
+    "message": "Optimisez votre campagne."
+  },
+  "Use Wings as your content management system and public-facing website. Tell stories, launch petitions, build a following, raise funds, and win a campaign.": {
+    "message": "Utilisez Wings comme système de gestion de contenu et de site web public. Racontez des histoires, lancez des pétitions, générez un public, collectez des fonds et gagnez une campagne."
+  },
+  "Get a demo account": {
+    "message": "Obtenez un compte de démonstration"
+  },
+  "grassroots": {
+    "message": "base"
+  },
+  "€ 39": {
+    "message": "€ 39"
+  },
+  "For non-profits with no paid staff": {
+    "message": "Pour les organismes sans but lucratif sans personnel rémunéré"
+  },
+  "3 user accounts": {
+    "message": "3 comptes utilisateurs"
+  },
+  "€ 495": {
+    "message": "€ 495"
+  },
+  "Basic": {
+    "message": "Ordinaire"
+  },
+  "€ 79": {
+    "message": "€ 79"
+  },
+  "For small non-profits with fewer than 10 staff members": {
+    "message": "Pour les petites associations de moins de 10 salariés"
+  },
+  "6 user accounts": {
+    "message": "6 comptes utilisateurs"
+  },
+  "€ 1295": {
+    "message": "€ 1295"
+  },
+  "Premium": {
+    "message": "Prime"
+  },
+  "€ 195": {
+    "message": "€ 195"
+  },
+  "For large non-profits": {
+    "message": "Pour les grandes associations"
+  },
+  "unlimited user accounts": {
+    "message": "comptes d'utilisateurs illimités"
+  },
+  "€ 4.995": {
+    "message": "€ 4.995"
+  },
+  "per project": {
+    "message": "par projet"
+  },
+  "Setup fee": {
+    "message": "Frais d'installation"
+  },
+  "Request a demo": {
+    "message": "Demander une démo"
+  },
+  "What people are saying": {
+    "message": "Ce que les gens pensent de nous"
+  },
+  "Using Wings saved us a lot of time and effort getting a grassroots campaign off the ground. I love how easy it is to get started with great default settings, while it offers advanced options if you want to build more complex and customized supporter journeys.": {
+    "message": "L'utilisation de Wings nous a permis d'économiser beaucoup de temps et d'efforts pour lancer une campagne populaire. J’adore la facilité de pouvoir démarrer avec d'excellents paramètres par défaut, tout en profitant d’options avancées si vous souhaitez construire des compagnes plus complexes et personnalisées."
+  },
+  "Take Wings for a spin": {
+    "message": "Faites un tour avec Wings"
+  },
+  "Let's create a demo project that you can try out for free, no obligations.": {
+    "message": "Créons un projet de démonstration que vous pourrez essayer gratuitement, sans aucune obligation."
+  },
+  "Name": {
+    "message": "Nom"
+  },
+  "Email": {
+    "message": "E-mail"
+  },
+  "Phone Number": {
+    "message": "Numéro de téléphone"
+  },
+  "Organization": {
+    "message": "Organisation"
+  },
+  "Comments": {
+    "message": "Commentaires"
+  },
+  "Get a Wings account": {
+    "message": "Obtenez un compte Wings"
+  },
+  "A better platform for your progressive digital campaign.": {
+    "message": "Une meilleure plateforme pour votre campagne numérique progressive."
+  },
+  "Wings is a better, faster and more user-friendly campaign website service. Customizable, integrations-ready and privacy-friendly.": {
+    "message": "Wings est le meilleur service de site web de campagne, plus rapide et plus convivial. Personnalisable, prêt à être intégré et respectueux de la vie privée."
+  },
+  "Features": {
+    "message": "Fonctionnalités"
+  },
+  "Cases": {
+    "message": "Exemples"
+  },
+  "We've got great plans for you.": {
+    "message": "Nos tarifs"
+  },
+  "From the smallest grassroots neighbourhood initiative to global, multilingual federated website infrastructure: Wings can accommodate any progressive campaign.": {
+    "message": "De la plus petite initiative de quartier à l'infrastructure mondiale et multilingue d'un site web fédéré : Wings peut s'adapter à toute campagne progressiste."
+  },
+  "theme.NotFound.title": {
+    "message": "Page introuvable",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Nous n'avons pas trouvé ce que vous recherchez.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Veuillez contacter le propriétaire du site qui vous a lié à l'URL d'origine et leur faire savoir que leur lien est cassé.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Fermer",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll back to top",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archive",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archive",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Pagination de la liste des articles du blog",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Nouvelles entrées",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Anciennes entrées",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Une minute de lecture|{readingTime} minutes de lecture",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Lire plus",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Pagination des articles du blog",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Article plus récent",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Article plus ancien",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copier le code",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Copié",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Copier",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Navigation dans les articles récents du blog",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.blog.post.plurals": {
+    "message": "Un article|{count} articles",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} tagués avec « {tagName} »",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Voir tous les tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Déplier le menu latéral",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Déplier le menu latéral",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Pagination des documents",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Précédent",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Suivant",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Réduire le menu latéral",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Réduire le menu latéral",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "Un document tagué|{count} documents tagués",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} avec \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Ceci est la documentation de la prochaine version {versionLabel} de {siteTitle}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Ceci est la documentation de {siteTitle} {versionLabel}, qui n'est plus activement maintenue.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Pour une documentation à jour, consultez la {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "dernière version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Éditer cette page",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Lien direct vers le titre",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " le {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " par {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Dernière mise à jour{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Retour au menu principal",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Aller au contenu principal",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Sur cette page",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tags :",
+    "description": "The label alongside a tag list"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithVersion": {
+    "message": "Rechercher... [{version}]",
+    "description": "Placeholder shown in the searchbar if it is empty and no documentation version has been detected"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithoutVersion": {
+    "message": "Rechercher...",
+    "description": "Placeholder shown in the searchbar if it is empty and a documentation version has been detected (available in the {version} placeholder"
+  },
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Effacer",
+    "description": "Title of the button to clear the current search input"
+  },
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Annuler",
+    "description": "Text of the button to close the detached search window"
+  },
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Chercher",
+    "description": "Title of the button to submit a new search"
+  },
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Pas de résultat.",
+    "description": "message shown if no results are found"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
+  }
+}

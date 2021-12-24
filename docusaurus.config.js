@@ -17,7 +17,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     projectName: 'bolsterdigital', // Usually your repo name.
     i18n: {
       defaultLocale: 'en',
-      locales: ['en', 'nl', 'de'],
+      locales: ['en', 'nl', 'de', 'fr'],
     },
     plugins: [
       'docusaurus-plugin-matomo',
@@ -25,7 +25,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         require.resolve('@cmfcmf/docusaurus-search-local'),
         {
           indexPages: true,
-          language: ['en', 'nl', 'de'],
+          language: ['en', 'nl', 'de', 'fr'],
         },
       ],
     ],

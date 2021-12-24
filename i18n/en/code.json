@@ -178,5 +178,384 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Want to know more?": {
+    "message": "Want to know more?"
+  },
+  "Just take Wings for a spin. Send us a message and we will set you up with a demo account in no time, free of charge.": {
+    "message": "Just take Wings for a spin. Send us a message and we will set you up with a demo account in no time, free of charge."
+  },
+  "Get Wings": {
+    "message": "Get Wings"
+  },
+  "Republiek": {
+    "message": "Republiek"
+  },
+  "Republiek – formerly known as Republikeins Genootschap – is a Dutch advocacy group that wants The Netherlands to abolish the monarchy and to become a republic.": {
+    "message": "Republiek – formerly known as Republikeins Genootschap – is a Dutch advocacy group that wants The Netherlands to abolish the monarchy and to become a republic."
+  },
+  "Extinction Rebellion": {
+    "message": "Extinction Rebellion"
+  },
+  "A coalition campaign led by Extinction Rebellion to launch a citizen council for climate & environmental issues.": {
+    "message": "A coalition campaign led by Extinction Rebellion to launch a citizen council for climate & environmental issues."
+  },
+  "SPD Niedersachsen": {
+    "message": "SPD Niedersachsen"
+  },
+  "This is a campaign website for the German social-democrats of Niedersachsen.": {
+    "message": "This is a campaign website for the German social-democrats of Niedersachsen."
+  },
+  "Controle Alt Delete": {
+    "message": "Controle Alt Delete"
+  },
+  "Controle Alt Delete, a nonprofit that fights back against excessive police violence and ethnic profiling, uses Wings for their main website as well as for petition campaigns.": {
+    "message": "Controle Alt Delete, a nonprofit that fights back against excessive police violence and ethnic profiling, uses Wings for their main website as well as for petition campaigns."
+  },
+  "Jongsocialisten": {
+    "message": "Jongsocialisten"
+  },
+  "The Belgian Young Socialists use Wings to power their main website as well as local chapter websites.": {
+    "message": "The Belgian Young Socialists use Wings to power their main website as well as local chapter websites."
+  },
+  "Frisse Wind": {
+    "message": "Frisse Wind"
+  },
+  "Frisse Wind is a brave citizen action committee that uses Wings to raise close to € 60,000 euros to fund their lawsuit against Tata Steel corporation and its toxic emissions.": {
+    "message": "Frisse Wind is a brave citizen action committee that uses Wings to raise close to € 60,000 euros to fund their lawsuit against Tata Steel corporation and its toxic emissions."
+  },
+  "Next Blue": {
+    "message": "Next Blue"
+  },
+  "Next Blue is a storytelling platform about water.": {
+    "message": "Next Blue is a storytelling platform about water."
+  },
+  "SP voor Rood": {
+    "message": "SP voor Rood"
+  },
+  "This is a fundraising campaign for the socialist youth organization ROOD.": {
+    "message": "This is a fundraising campaign for the socialist youth organization ROOD."
+  },
+  "Open over Abortus": {
+    "message": "Open over Abortus"
+  },
+  "A campaign website by the Dutch Humanist Society which aims to break the silence around abortion.": {
+    "message": "A campaign website by the Dutch Humanist Society which aims to break the silence around abortion."
+  },
+  "Stop Belastingparadijs NL": {
+    "message": "Stop Belastingparadijs NL"
+  },
+  "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals.": {
+    "message": "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals."
+  },
+  "BIJ1": {
+    "message": "BIJ1"
+  },
+  "The Dutch leftist party BIJ1 uses Wings to power its local chapter website.": {
+    "message": "The Dutch leftist party BIJ1 uses Wings to power its local chapter website."
+  },
+  "Probeer de Bond": {
+    "message": "Probeer de Bond"
+  },
+  "A campaign website by labour union CNV to get more young people to join a union.": {
+    "message": "A campaign website by labour union CNV to get more young people to join a union."
+  },
+  "Visit": {
+    "message": "Visit"
+  },
+  "It's battle-tested and ready for your campaign.": {
+    "message": "It's battle-tested and ready for your campaign."
+  },
+  "Wings is a proven platform that has been used by green, social-democratic and socialist parties, labour unions, citizen action groups and non-governmental organizations to process millions of signups, signatures and donations. Take a look at some examples.": {
+    "message": "Wings is a proven platform that has been used by green, social-democratic and socialist parties, labour unions, citizen action groups and non-governmental organizations to process millions of signups, signatures and donations. Take a look at some examples."
+  },
+  "More cases": {
+    "message": "More cases"
+  },
+  "Want to see Wings in action? Go ahead and take a look.": {
+    "message": "Want to see Wings in action? Go ahead and take a look."
+  },
+  "Wings is used by political parties, labour unions, advocacy groups and more.": {
+    "message": "Wings is used by political parties, labour unions, advocacy groups and more."
+  },
+  "Petitions": {
+    "message": "Petitions"
+  },
+  "Create petition campaigns with custom fields, a configurable counter and email confirmations.": {
+    "message": "Create petition campaigns with custom fields, a configurable counter and email confirmations."
+  },
+  "Donations": {
+    "message": "Donations"
+  },
+  "Launch powerful fundraiser campaigns and process donations with Stripe or Mollie.": {
+    "message": "Launch powerful fundraiser campaigns and process donations with Stripe or Mollie."
+  },
+  "Event campaigns": {
+    "message": "Event campaigns"
+  },
+  "Launch event campaigns and save user data of people who sign up to attend.": {
+    "message": "Launch event campaigns and save user data of people who sign up to attend."
+  },
+  "Signups": {
+    "message": "Signups"
+  },
+  "Publish email signup forms on standalone landing pages or insert signup campaigns into any article or page.": {
+    "message": "Publish email signup forms on standalone landing pages or insert signup campaigns into any article or page."
+  },
+  "Pages & Articles": {
+    "message": "Pages & Articles"
+  },
+  "beautiful pages and compelling stories with Wings.": {
+    "message": "beautiful pages and compelling stories with Wings."
+  },
+  "Advanced Editor": {
+    "message": "Advanced Editor"
+  },
+  "Use our user-friendly card-based editor to create beautiful content.": {
+    "message": "Use our user-friendly card-based editor to create beautiful content."
+  },
+  "Confirmation emails": {
+    "message": "Confirmation emails"
+  },
+  "Configure personalized confirmation emails with a user-friendly drag-and-drop editor.": {
+    "message": "Configure personalized confirmation emails with a user-friendly drag-and-drop editor."
+  },
+  "Themes": {
+    "message": "Themes"
+  },
+  "Easily configure colors, typography, link styles and more with the Theme editor, and even create multiple themes.": {
+    "message": "Easily configure colors, typography, link styles and more with the Theme editor, and even create multiple themes."
+  },
+  "Internationalization": {
+    "message": "Internationalization"
+  },
+  "Wings supports multiple languages, including a language switcher for pages that have mulitple locales.": {
+    "message": "Wings supports multiple languages, including a language switcher for pages that have mulitple locales."
+  },
+  "Custom fields": {
+    "message": "Custom fields"
+  },
+  "Add custom text or checkbox fields to your campaign forms to collect valuable user info and build a movement.": {
+    "message": "Add custom text or checkbox fields to your campaign forms to collect valuable user info and build a movement."
+  },
+  "Custom scripts": {
+    "message": "Custom scripts"
+  },
+  "Insert any script you want into the header or body of your website and easily add an analytics script, tag manager or cookie wall to your website.": {
+    "message": "Insert any script you want into the header or body of your website and easily add an analytics script, tag manager or cookie wall to your website."
+  },
+  "Custom domains": {
+    "message": "Custom domains"
+  },
+  "You are in control: add any domain you want, and we handle the rest. Your domain is automatically routed, configured and equipped with a Let's Encrypt SSL certificate.": {
+    "message": "You are in control: add any domain you want, and we handle the rest. Your domain is automatically routed, configured and equipped with a Let's Encrypt SSL certificate."
+  },
+  "Webhooks": {
+    "message": "Webhooks"
+  },
+  "Use our webhooks service to send updates and form submissions to any third party-service, including Mailchimp, Nationbuilder, The Action Network and many others.": {
+    "message": "Use our webhooks service to send updates and form submissions to any third party-service, including Mailchimp, Nationbuilder, The Action Network and many others."
+  },
+  "Media Uploader": {
+    "message": "Media Uploader"
+  },
+  "Upload images to your Wings media library, add alt tags and captions, and insert them in various layout types into your pages.": {
+    "message": "Upload images to your Wings media library, add alt tags and captions, and insert them in various layout types into your pages."
+  },
+  "CSV Downloads": {
+    "message": "CSV Downloads"
+  },
+  "Wings campaigns let you download a CSV file with your user data, allowing you to decide how to use that data with your preferred CRM or email application.": {
+    "message": "Wings campaigns let you download a CSV file with your user data, allowing you to decide how to use that data with your preferred CRM or email application."
+  },
+  "All the features you need. None of the ones you don't.": {
+    "message": "All the features you need. None of the ones you don't."
+  },
+  "Wings is designed from the ground up to build a non-profit website and run progressive campaigns. Here is an overview of features.": {
+    "message": "Wings is designed from the ground up to build a non-profit website and run progressive campaigns. Here is an overview of features."
+  },
+  "Run winning campaigns": {
+    "message": "Run winning campaigns"
+  },
+  "Build a movement with our": {
+    "message": "Build a movement with our"
+  },
+  "powerful features": {
+    "message": "powerful features"
+  },
+  "create signups, petitions, events and fundraisers to win your campaign.": {
+    "message": "create signups, petitions, events and fundraisers to win your campaign."
+  },
+  "Build a powerhouse": {
+    "message": "Build a powerhouse"
+  },
+  "Dive into the": {
+    "message": "Dive into the"
+  },
+  "webhooks docs": {
+    "message": "webhooks docs"
+  },
+  "and find out how to integrate Wings with Mailchimp, The Action Network and many more.": {
+    "message": "and find out how to integrate Wings with Mailchimp, The Action Network and many more."
+  },
+  "Try before you buy": {
+    "message": "Try before you buy"
+  },
+  "Wings is set up quickly and has affordable": {
+    "message": "Wings is set up quickly and has affordable"
+  },
+  "pricing": {
+    "message": "pricing"
+  },
+  "Try out a": {
+    "message": "Try out a"
+  },
+  "free demo account": {
+    "message": "free demo account"
+  },
+  "and you will be up and running in no time.": {
+    "message": "and you will be up and running in no time."
+  },
+  "Try it out": {
+    "message": "Try it out"
+  },
+  "Supercharge your campaign.": {
+    "message": "Supercharge your campaign."
+  },
+  "Use Wings as your content management system and public-facing website. Tell stories, launch petitions, build a following, raise funds, and win a campaign.": {
+    "message": "Use Wings as your content management system and public-facing website. Tell stories, launch petitions, build a following, raise funds, and win a campaign."
+  },
+  "Get a demo account": {
+    "message": "Get a demo account"
+  },
+  "grassroots": {
+    "message": "grassroots"
+  },
+  "€ 39": {
+    "message": "€ 39"
+  },
+  "For non-profits with no paid staff": {
+    "message": "For non-profits with no paid staff"
+  },
+  "3 user accounts": {
+    "message": "3 user accounts"
+  },
+  "€ 495": {
+    "message": "€ 495"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "€ 79": {
+    "message": "€ 79"
+  },
+  "For small non-profits with fewer than 10 staff members": {
+    "message": "For small non-profits with fewer than 10 staff members"
+  },
+  "6 user accounts": {
+    "message": "6 user accounts"
+  },
+  "€ 1295": {
+    "message": "€ 1295"
+  },
+  "Premium": {
+    "message": "Premium"
+  },
+  "€ 195": {
+    "message": "€ 195"
+  },
+  "For large non-profits": {
+    "message": "For large non-profits"
+  },
+  "unlimited user accounts": {
+    "message": "unlimited user accounts"
+  },
+  "€ 4.995": {
+    "message": "€ 4.995"
+  },
+  "per project": {
+    "message": "per project"
+  },
+  "Setup fee": {
+    "message": "Setup fee"
+  },
+  "Request a demo": {
+    "message": "Request a demo"
+  },
+  "What people are saying": {
+    "message": "What people are saying"
+  },
+  "Using Wings saved us a lot of time and effort getting a grassroots campaign off the ground. I love how easy it is to get started with great default settings, while it offers advanced options if you want to build more complex and customized supporter journeys.": {
+    "message": "Using Wings saved us a lot of time and effort getting a grassroots campaign off the ground. I love how easy it is to get started with great default settings, while it offers advanced options if you want to build more complex and customized supporter journeys."
+  },
+  "Take Wings for a spin": {
+    "message": "Take Wings for a spin"
+  },
+  "Let's create a demo project that you can try out for free, no obligations.": {
+    "message": "Let's create a demo project that you can try out for free, no obligations."
+  },
+  "Name": {
+    "message": "Name"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Phone Number": {
+    "message": "Phone Number"
+  },
+  "Organization": {
+    "message": "Organization"
+  },
+  "Comments": {
+    "message": "Comments"
+  },
+  "Get a Wings account": {
+    "message": "Get a Wings account"
+  },
+  "A better platform for your progressive digital campaign.": {
+    "message": "A better platform for your progressive digital campaign."
+  },
+  "Wings is a better, faster and more user-friendly campaign website service. Customizable, integrations-ready and privacy-friendly.": {
+    "message": "Wings is a better, faster and more user-friendly campaign website service. Customizable, integrations-ready and privacy-friendly."
+  },
+  "Features": {
+    "message": "Features"
+  },
+  "Cases": {
+    "message": "Cases"
+  },
+  "We've got great plans for you.": {
+    "message": "We've got great plans for you."
+  },
+  "From the smallest grassroots neighbourhood initiative to global, multilingual federated website infrastructure: Wings can accommodate any progressive campaign.": {
+    "message": "From the smallest grassroots neighbourhood initiative to global, multilingual federated website infrastructure: Wings can accommodate any progressive campaign."
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll back to top",
+    "description": "The ARIA label for the back to top button"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithVersion": {
+    "message": "Search... [{version}]",
+    "description": "Placeholder shown in the searchbar if it is empty and no documentation version has been detected"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholderWithoutVersion": {
+    "message": "Search...",
+    "description": "Placeholder shown in the searchbar if it is empty and a documentation version has been detected (available in the {version} placeholder"
+  },
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Clear",
+    "description": "Title of the button to clear the current search input"
+  },
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Cancel",
+    "description": "Text of the button to close the detached search window"
+  },
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Submit",
+    "description": "Title of the button to submit a new search"
+  },
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "No results found.",
+    "description": "message shown if no results are found"
   }
 }
