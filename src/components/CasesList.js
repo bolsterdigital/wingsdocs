@@ -204,7 +204,7 @@ function SimpleCase({ image, title, description }) {
   );
 }
 
-const Featured = [CaseList[3], CaseList[0], CaseList[5]];
+const Featured = [CaseList[3], CaseList[0], CaseList[2]];
 
 export function FeaturedList() {
   return (
