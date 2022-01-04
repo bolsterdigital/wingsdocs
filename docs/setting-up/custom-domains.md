@@ -43,15 +43,9 @@ Before you do this, it is wise – but not strictly necessary – to set the TTL
 
 ### 2B) Create the DNS records
 
-If your domain registrar supports ALIAS records (for example: DNSimple), do the following:
 
-- create an ALIAS record for `yourdomain.com` (without www) and point it to `app.wings.dev`
-- create a CNAME record for `www.yourdomain.com` and point it to `yourdomain.com`
-
-If your registrar does not support ALIAS records (this includes DNSimple and Namecheap; if you are unsure, you can safely assume your register does not support it), do the following:
-
-- create an A record for your domain (without www) and point it to `34.76.238.51`
-- create a CNAME record for `www.yourdomain.com` and point it to `yourdomain.com`.
+1. create an A record for your domain (without www) and point it to `34.76.238.51`
+2. create a CNAME record for `www.yourdomain.com` (you probably only need to fill out the `www` part) and point it to `yourdomain.com`.
 
 ## Configure your domain in Wings
 

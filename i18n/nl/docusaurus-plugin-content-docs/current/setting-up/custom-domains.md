@@ -43,15 +43,8 @@ Voordat je dit doet is het verstandig – maar niet strikt noodzakelijk – om m
 
 ### 2B) De DNS-records maken
 
-Indien je domeinregistreerder ALIAS-records ondersteunt (bijvoorbeeld: DNSimple), doe je het volgende:
-
-- maak een ALIAS-record voor `uwdomein.com` (zonder www) en wijs het naar `app.wings.dev`
-- maak een CNAME-record voor `www.uwdomein.com` en wijs het naar `uwdomein.com`
-
-Als je registrar ALIAS-records niet ondersteunt (dit geldt voor DNSimple en Namecheap; als je het niet zeker weet, kun je er gerust van uitgaan dat je registrar dit niet ondersteunt), doe dan het volgende:
-
 - maak een A-record voor jouw domein (zonder www) en wijs het naar `34.76.238.51`
-- maak een CNAME-record aan voor `www.uwdomein.com` en verwijs het naar `uwdomein.com`.
+- maak een CNAME-record aan voor `www.uwdomein.com` (waarschijnlijk hoef je alleen het `www`-deel in te vullen) en verwijs het naar uwdomein.com`.
 
 ## Configureer je domein in Wings
 

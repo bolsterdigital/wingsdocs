@@ -2,16 +2,11 @@
 sidebar_position: 5
 ---
 
-:::caution Hinweis: in Arbeit
-
-Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
-:::
-
-# Legen Sie eine benutzerdefinierte Domäne fest
+# Benutzerdefinierte Domäne 
 
 Um eine Website zu starten, sollten Sie Ihre Website auf einer benutzerdefinierten Domain bereitstellen. Wings unterstützt jede gewünschte benutzerdefinierte Domain und stellt automatisch ein SSL-Zertifikat bereit, sodass der gesamte Webverkehr https:// verwendet.
 
-:::Tip Oder lassen Sie es uns einfach machen
+:::tip Oder lassen Sie es uns einfach machen
 
 Wir halten es für wichtig, dass Sie Ihre Domain selbst konfigurieren _können_ – aber nicht _müssen_. Gerne konfigurieren wir Ihre Domain kostenlos für Sie. Senden Sie eine E-Mail an `support@wings.dev` und wir werden es erledigen.
 :::
@@ -48,15 +43,9 @@ Bevor Sie dies tun, ist es ratsam – aber nicht unbedingt notwendig – die TTL
 
 ### 2B) Erstellen Sie die DNS-Records
 
-Wenn Ihr Domain-Registrar ALIAS-Record unterstützt (zum Beispiel: DNSimple), gehen Sie wie folgt vor:
-
-- Erstellen Sie einen ALIAS-Record für `yourdomain.com` (ohne www) und verweisen Sie ihn auf `app.wings.dev`
-- Erstellen Sie einen CNAME-Record für `www.yourdomain.com` und verweisen Sie ihn auf `yourdomain.com`
-
-Wenn Ihr Registrar ALIAS-Einträge nicht unterstützt (dies umfasst DNSimple und Namecheap; wenn Sie sich nicht sicher sind, können Sie davon ausgehen, dass Ihr Register dies nicht unterstützt), gehen Sie wie folgt vor:
 
 - Erstellen Sie einen A-Eintrag für Ihre Domain (ohne www) und verweisen Sie ihn auf `34.76.238.51`
-- Erstellen Sie einen CNAME-Eintrag für `www.yourdomain.com` und verweisen Sie ihn auf `yourdomain.com`.
+- Erstellen Sie einen CNAME-Eintrag für `www.yourdomain.com` (du musst wahrscheinlich nur den 'www'-Teil ausfüllen) und verweisen Sie ihn auf `yourdomain.com`.
 
 ## Konfigurieren Sie Ihre Domain in Wings
 
