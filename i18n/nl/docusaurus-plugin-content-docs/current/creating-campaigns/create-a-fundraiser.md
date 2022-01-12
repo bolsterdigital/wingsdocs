@@ -21,7 +21,7 @@ Gebruikers dienen een campagneformulier in op je Wings-website, maar worden door
 
 ### Zoek de benodigde gegevens op van Mollie of Stripe
 
-- [zie hier]https://help.mollie.com/hc/nl/articles/115000328205-Waar-kan-ik-de-live-API-key-vinden-) hoe je je Mollie-API-key kunt vinden. 
+- [zie hier](https://help.mollie.com/hc/nl/articles/115000328205-Waar-kan-ik-de-live-API-key-vinden-) hoe je je Mollie-API-key kunt vinden.
 - Bekijk [deze Stripe-webpagina](https://stripe.com/docs/keys) voor de benodigde gegevens van Stripe.
 
 ### Voer uw inloggegevens in Wings in
