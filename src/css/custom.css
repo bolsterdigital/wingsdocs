@@ -16,6 +16,7 @@
   --ifm-color-primary-lighter: rgb(203, 216, 241);
   --ifm-color-primary-lightest: rgb(234, 238, 242);
   --ifm-code-font-size: 95%;
+  background-color: #f7f7f7;
 }
 
 @media screen and (max-width: 996px) {
@@ -158,6 +159,7 @@ html[data-theme='dark'] {
   --ifm-heading-color: #fff;
   --ifm-menu-color-active: #a2c3ff;
   --ifm-link-color: #a2c3ff;
+  background-color: #000;
   --ifm-navbar-link-hover-color: #a2c3ff;
   /* any other colors you wish to overwrite */
 }
