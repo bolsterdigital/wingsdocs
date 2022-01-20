@@ -18,16 +18,28 @@ We think it is important that you _are able to_ configure your domain yourself â
 
 ## Entering your DNS settings
 
-First, decide between to options:
+First, log in to your domain name registrar, visit the page where you can manage the settings for the domain you want to configure, and find the page where you can edit your DNS records. This page may look something like this:
+
+![](https://screens.wings.dev/CleanShot-2022-01-20-at-15.51.43-mkRxXWP2hLjXqq115xtBoW6I27Qzs1zD5H9jh8LIOLjBlT1GjtUyzBSktNbA7HpRtZ3uZrF7XOfaaVAgnXxDGN5LROggrCtg4ySO.png)
+
+Each line is a DNS record that provides instructions to DNS servers around the world how to handle requests, including users who use a browser to visit a web page. Each record has 4 characteristics:
+
+1. The 'Type' â€“ we will be dealing with A records that point to an IP address, and CNAME records for subdomains.
+2. Name: you can leave this blank if you create a record for the 'root' domain (`mycoolwingswebsite.com`, or fill out the subdomain if you create a CNAME record.
+3. Content: the destination (where the request should be directed to)
+4. TTL: 'Time to live', which refers to how long a setting is valid. A shorter TTL means that your changes will be picked up more quickly.
+
+Now, decide between to options:
 
 1. You can use a **regular domain** with and without 'www', for example: `mycoolwingswebsite.com` _and_ `www.mycoolwingswebsite.com`.
 2. Or you can use a **subdomain** of an existing domain, for example `action.myexistingwebsite.com`)
 
 <Tabs>
   <TabItem value="subdomain" label="Instructions for a regular domain" default>
-   
-    
-First, we will connect the 'root' domain (the one without 'www') to Wings. You will have to either edit your existing A record, or create a new one. Most domain name registrars will automatically assign an A record, so you probably have to edit the existing record.
+
+## 1. Configure the root domain
+
+Now, we will connect the 'root' domain (the one without 'www') to Wings. You will need to either edit your existing A record, or create a new one. Most domain name registrars will automatically assign an A record, so you probably have to edit the existing record.
 
 This is how that looks if you use DNSimple.com, but the interface of your website registrar may look similar:
 
@@ -36,6 +48,8 @@ This is how that looks if you use DNSimple.com, but the interface of your websit
 1. Leave this value empty.
 2. Enter the IP address of the Wings service, which is `34.76.238.51`.
 3. Add the record.
+
+## 2. Configure the www subdomain
 
 Next, you also need to point your 'www'-subdomain to Wings. For this, you need to:
 
