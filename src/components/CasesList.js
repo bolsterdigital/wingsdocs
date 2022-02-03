@@ -23,29 +23,27 @@ const CaseList = [
   },
   {
     title: <Translate>Extinction Rebellion</Translate>,
-    image: '/img/xr-website.png',
+    image: '/img/datacenter.png',
     description: (
       <>
         <Translate>
-          A coalition campaign led by Extinction Rebellion to launch a citizen
-          council for climate & environmental issues.
+          A coalition campaign led by Extinction Rebellion to protest the construction of an enormous datacenter by META / Facebook in the Dutch countryside.
         </Translate>
       </>
     ),
-    link: 'https://burgerberaad.extinctionrebellion.nl',
+    link: 'https://www.ikblokkeerhetdatacenter.nl',
   },
   {
-    title: <Translate>SPD Niedersachsen</Translate>,
-    image: '/img/spd-niedersachsen.png',
+    title: <Translate>Josephine Gauselmann</Translate>,
+    image: '/img/josephine.png',
     description: (
       <>
         <Translate>
-          This is a campaign website for the German social-democrats of
-          Niedersachsen.
+          Josephine Gauselmann is running to represent her constituents in Mönchengladbach for her party, the social democrats of SPD.
         </Translate>
       </>
     ),
-    link: 'https://aktion.spdnds.de',
+    link: 'https://josephine-gauselmann.de',
   },
   {
     title: <Translate>Controle Alt Delete</Translate>,
@@ -99,17 +97,16 @@ const CaseList = [
     link: 'https://next.blue',
   },
   {
-    title: <Translate>SP voor Rood</Translate>,
-    image: '/img/spvoorrood.png',
+    title: <Translate>Gordan Dudas</Translate>,
+    image: '/img/gordan-dudas.png',
     description: (
       <>
         <Translate>
-          This is a fundraising campaign for the socialist youth organization
-          ROOD.
+          Gordan Dudas is a German parliamentarian on behalf of the social-democratic SPD.
         </Translate>
       </>
     ),
-    link: 'https://www.spvoorrood.nl',
+    link: 'https://www.gordan-dudas.de',
   },
   {
     title: <Translate>Open over Abortus</Translate>,
@@ -125,17 +122,16 @@ const CaseList = [
     link: 'https://openoverabortus.humanistischverbond.nl',
   },
   {
-    title: <Translate>Stop Belastingparadijs NL</Translate>,
-    image: '/img/stopbelastingparadijs.png',
+    title: <Translate>Haagse Stadspartij</Translate>,
+    image: '/img/haagse-stadspartij.png',
     description: (
       <>
         <Translate>
-          A coalition campaign that aims to stop The Netherlands from serving as
-          a tax haven for multinationals.
+          The 'Haagse Stadspartij' is an awesome local political party in The Netherlands, as they are decidedly leftist and progressive.
         </Translate>
       </>
     ),
-    link: 'https://www.stopbelastingparadijs.nl',
+    link: 'https://campagne.haagsestadspartij.nl',
   },
   {
     title: <Translate>BIJ1</Translate>,
@@ -144,7 +140,7 @@ const CaseList = [
       <>
         <Translate>
           The Dutch leftist party BIJ1 uses Wings to power its local chapter
-          website.
+          websites.
         </Translate>
       </>
     ),

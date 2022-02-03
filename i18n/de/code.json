@@ -431,9 +431,6 @@
   "Wings is used by political parties, labour unions, advocacy groups and more.": {
     "message": "Wings wird von politischen Parteien, Gewerkschaften, Interessengruppen und mehr genutzt."
   },
-  "SP voor Rood": {
-    "message": "SP voor Rood"
-  },
   "This is a fundraising campaign for the socialist youth organization ROOD.": {
     "message": "Dies ist eine Spendenaktion für die sozialistische Jugendorganisation ROOD."
   },
@@ -442,12 +439,6 @@
   },
   "A campaign website by the Dutch Humanist Society with a collection of submitted stories and a manifesto which aims to break the silence around abortion.": {
     "message": "Eine Kampagnen-Website der Niederländischen Humanistischen Gesellschaft mit einer Sammlung eingereichter Geschichten und einem Manifest, das darauf abzielt, das Schweigen über die Abtreibung zu brechen."
-  },
-  "Stop Belastingparadijs NL": {
-    "message": "Stop Belastingparadijs NL"
-  },
-  "A coalition campaign that aims to stop The Netherlands from serving as a tax haven for multinationals.": {
-    "message": "Eine Koalitionskampagne, die darauf abzielt, die Niederlande daran zu hindern, als Steueroase für multinationale Unternehmen zu dienen"
   },
   "Want to know more?": {
     "message": "Möchten Sie mehr wissen?"
@@ -527,9 +518,6 @@
   "Extinction Rebellion": {
     "message": "Extinction Rebellion"
   },
-  "A coalition campaign led by Extinction Rebellion to launch a citizen council for climate & environmental issues.": {
-    "message": "Eine von Extinction Rebellion geführte Koalitionskampagne zur Gründung eines Bürgerrats für Klima- und Umweltfragen."
-  },
   "A campaign website by the Dutch Humanist Society which aims to break the silence around abortion.": {
     "message": "Eine Kampagnen-Website der Niederländischen Humanistischen Gesellschaft, die darauf abzielt, das Schweigen über Abtreibungen zu brechen.."
   },
@@ -537,7 +525,7 @@
     "message": "BIJ1"
   },
   "The Dutch leftist party BIJ1 uses Wings to power its local chapter website.": {
-    "message": "Die niederländische Linkspartei BIJ1 nutzt Wings, um ihre lokale Chapter-Website zu betreiben."
+    "message": "Die niederländische Linkspartei BIJ1 nutzt Wings, um ihre lokale Chapter-Websites zu betreiben."
   },
   "Probeer de Bond": {
     "message": "Probeer de Bond"
@@ -623,5 +611,29 @@
   },
   "Request a demo": {
     "message": "Demo-Konto anfordern"
+  },
+  "A coalition campaign led by Extinction Rebellion to protest the construction of an enormous datacenter by META / Facebook in the Dutch countryside.": {
+    "message": "Eine von Extinction Rebellion angeführte Koalitionskampagne, um gegen den Bau eines riesigen Rechenzentrums von META / Facebook auf dem niederländischen Land zu protestieren."
+  },
+  "Josephine Gauselmann": {
+    "message": "Josephine Gauselmann"
+  },
+  "Josephine Gauselmann is running to represent her constituents in Mönchengladbach for her party, the social democrats of SPD.": {
+    "message": "Josephine Gauselmann kandidiert für ihre Partei, die SPD, für ihre Wähler in Mönchengladbach."
+  },
+  "Gordan Dudas": {
+    "message": "Gordan Dudas"
+  },
+  "Gordan Dudas is a German parliamentarian on behalf of the social-democratic SPD.": {
+    "message": "Gordan Dudas ist deutscher Bundestagsabgeordneter im Auftrag der sozialdemokratischen SPD."
+  },
+  "Haagse Stadspartij": {
+    "message": "Haagse Stadspartij"
+  },
+  "The 'Haagse Stadspartij' is an awesome local political party in The Netherlands, as they are decidedly leftist and progressive.": {
+    "message": "Die 'Haagse Stadspartij' ist eine großartige lokale politische Partei in den Niederlanden, da sie entschieden links und progressiv ist."
+  },
+  "The Dutch leftist party BIJ1 uses Wings to power its local chapter websites.": {
+    "message": "Die niederländische Linkspartei BIJ1 verwendet Wings, um ihre lokalen Abteilung-Websites zu betreiben."
   }
 }

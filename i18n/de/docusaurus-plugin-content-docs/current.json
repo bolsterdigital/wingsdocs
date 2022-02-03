@@ -18,5 +18,9 @@
   "sidebar.tutorialSidebar.category.Publishing content": {
     "message": "Inhalte veröffentlichen",
     "description": "The label for category Publishing content in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Leitfäden",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
   }
 }
