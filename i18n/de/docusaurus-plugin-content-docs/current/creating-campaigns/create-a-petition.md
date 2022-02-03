@@ -34,4 +34,4 @@ Petitionskampagnen haben einige spezielle Optionen:
 
 ## Allgemeine Einstellungen
 
-Petitionen und andere Kampagnentypen haben einige Merkmale gemeinsam. Besuchen Sie daher die allgemeine Seite [Kampagnen erstellen](creating-campaigns), um weitere Informationen zum Einrichten und Starten Ihrer Petitionskampagne zu erhalten.
+Petitionen und andere Kampagnentypen haben einige Merkmale gemeinsam. Besuchen Sie daher die allgemeine Seite [Kampagnen erstellen](create-a-campaign), um weitere Informationen zum Einrichten und Starten Ihrer Petitionskampagne zu erhalten.

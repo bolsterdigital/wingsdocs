@@ -34,4 +34,4 @@ Petitiecampagnes hebben een aantal speciale opties:
 
 ## Algemene instellingen
 
-Petities en andere soorten campagnes delen nogal wat kenmerken. Ga daarom naar de algemene pagina [Campagnes aanmaken](creating-campaigns) voor meer informatie over het opzetten en lanceren van je petitiecampagne.
+Petities en andere soorten campagnes delen nogal wat kenmerken. Ga daarom naar de algemene pagina [Campagnes aanmaken](create-a-campaign) voor meer informatie over het opzetten en lanceren van je petitiecampagne.
