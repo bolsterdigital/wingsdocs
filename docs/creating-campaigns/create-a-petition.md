@@ -34,5 +34,5 @@ Petition campaigns have a couple of special options:
 ![](https://screens.wings.dev/CleanShot-2020-02-23-at-22.37.37-1582493891.png)
 
 ## General settings
-Petitions and other campaign types share quite a few characteristics. Therefore, head over to the general [Creating Campaigns](creating-campaigns) page for more information about setting up and launching your petition campaign.
+Petitions and other campaign types share quite a few characteristics. Therefore, head over to the general [Creating Campaigns](create-a-campaign) page for more information about setting up and launching your petition campaign.
 

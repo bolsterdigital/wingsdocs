@@ -644,5 +644,21 @@
   },
   "The Dutch leftist party BIJ1 uses Wings to power its local chapter websites.": {
     "message": "BIJ1 gebruikt Wings voor haar lokale afdelingswebsites, zoals Amsterdam BIJ1."
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "Deze pagina heeft een ongelukje gehad.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Probeer opnieuw",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Toggle the collapsible sidebar category '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "cmfcmf/d-s-l.searchBar.placeholder": {
+    "message": "Zoeken",
+    "description": "Placeholder shown in the searchbar"
   }
 }
