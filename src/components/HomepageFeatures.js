@@ -28,7 +28,7 @@ const FeatureList = [
     description: (
       <>
         <Translate>Dive into the</Translate>{' '}
-        <Link to="/docs/setting-up/webhooks">
+        <Link to="/docs/guides/webhooks">
           <Translate>webhooks docs</Translate>
         </Link>{' '}
         <Translate>
