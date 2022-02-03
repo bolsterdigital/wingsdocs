@@ -44,6 +44,6 @@ Wings and The Action Network share a few similarities:
 
 ## Conclusion: they go great together
 
-Wings gives you a great campaign website that lets you connect to The Action Network for follow-up communications. Our [webhooks documentation](/docs/setting-up/webhooks#use-zapier-to-process-form-submissions) even uses The Action Network as an example.
+Wings gives you a great campaign website that lets you connect to The Action Network for follow-up communications. Our [webhooks documentation](/docs/guides/webhooks#use-zapier-to-process-form-submissions) even uses The Action Network as an example.
 
 If you want to know more, just request a free [Wings demo account](/demo) and you can try it out yourself.

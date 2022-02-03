@@ -72,7 +72,7 @@ Auf der Registerkarte Legal können Sie die Pfade oder URLs für die Links zu de
 Um Benutzerdaten an Drittanbieterdienste (wie E-Mail-Newsletter und Wähleraktivierungssoftware) zu übermitteln, können Sie zwei Hauptmethoden verwenden:
 
 1. Manuell Benutzerdaten herunterladen im CSV-Format
-2. Verwenden Sie [webhooks](/docs/setting-up/webhooks), um Benutzerdaten zur intelligenten Verarbeitung automatisch an einen Dienst wie Zapier zu senden, sodass Wings-Kampagnen programmatisch mit einer unbegrenzten Anzahl von Diensten verbunden werden können.
+2. Verwenden Sie [webhooks](/docs/guides/webhooks), um Benutzerdaten zur intelligenten Verarbeitung automatisch an einen Dienst wie Zapier zu senden, sodass Wings-Kampagnen programmatisch mit einer unbegrenzten Anzahl von Diensten verbunden werden können.
 
 ### Petitionsoptionen
 

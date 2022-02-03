@@ -68,7 +68,7 @@ Op het tabblad Legal ('juridisch') kun je de paden of urls instellen voor de lin
 Om gebruikersgegevens in te dienen bij diensten van derden (zoals e-mailnieuwsbrieven en kiezersactiveringssoftware), kun je twee hoofdmethoden gebruiken:
 
 1. Handmatig [gebruikersgegevens downloaden](#downloading-user-data) in CSV-formaat
-2. Gebruik [webhooks](/docs/setting-up/webhooks) om automatisch gebruikersgegevens naar een service als Zapier te sturen voor slimme verwerking, waardoor Wings-campagnes programmatisch kunnen worden gekoppeld aan een onbeperkt aantal services.
+2. Gebruik [webhooks](/docs/guides/webhooks) om automatisch gebruikersgegevens naar een service als Zapier te sturen voor slimme verwerking, waardoor Wings-campagnes programmatisch kunnen worden gekoppeld aan een onbeperkt aantal services.
 
 ### Petitie-mogelijkheden
 

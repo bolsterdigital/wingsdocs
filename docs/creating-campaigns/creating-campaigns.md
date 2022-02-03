@@ -68,7 +68,7 @@ On the Legal tab, you can set the paths or urls for the links to the pages where
 In order to submit user data to third-party services (like email newsletters and voter activation software), you can use two main methods:
 
 1. Manually [download user data](#downloading-user-data) in CSV format
-2. Use [webhooks](/docs/setting-up/webhooks) to automatically send user data to a service like Zapier for smart processing, allowing to connect Wings campaigns programmatically to an unlimited number of services.
+2. Use [webhooks](/docs/guides/webhooks) to automatically send user data to a service like Zapier for smart processing, allowing to connect Wings campaigns programmatically to an unlimited number of services.
 
 ### Petition Options
 
