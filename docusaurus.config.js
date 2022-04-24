@@ -128,20 +128,28 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           style: 'light',
           links: [
             {
-              title: 'Info',
+              title: 'Support',
               items: [
                 {
                   label: '📧 info@wings.dev',
                   to: 'mailto:info@wings.dev',
                 },
+                {
+                  label: 'Read the docs',
+                  to: '/docs/intro',
+                },
               ],
             },
             {
-              title: 'More',
+              title: 'Use Wings',
               items: [
                 {
-                  label: 'Wings admin',
+                  label: 'CMS login',
                   to: 'https://admin.wings.dev',
+                },
+                {
+                  label: 'Analytics login',
+                  to: 'https://analytics.wings.dev',
                 },
               ],
             },
