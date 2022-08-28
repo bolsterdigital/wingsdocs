@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
-# Checklist before launch
+# Pre-launch checklist
 
 So, you think you are ready to launch your website? Here is a checklist of things you may want to do and verify.
 

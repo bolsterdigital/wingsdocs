@@ -15,10 +15,6 @@ Sie können hier auch eine primäre Sprache einstellen.
 
 ![](https://screens.wings.dev/CleanShot-2020-10-31-at-10.44.29-2x-1604137489.png)
 
-:::caution Hinweis: in Arbeit
-
-Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
-:::
 
 ## Projektweite Übersetzungen für Strings
 

@@ -120,6 +120,15 @@ const FeatureList = [
     ),
   },
   {
+    title: <Translate>Powerful Analytics</Translate>,
+    image: '/img/wings-analytics2.png',
+    description: (
+      <Translate>
+       You can also simply use the powerful Wings Analytics system, which uses the open-source privacy-friendly Matomo service.
+      </Translate>
+    ),
+  },
+  {
     title: <Translate>Custom domains</Translate>,
     image: '/img/customdomains.png',
     description: (
@@ -151,6 +160,7 @@ const FeatureList = [
       </Translate>
     ),
   },
+
   {
     title: <Translate>CSV Downloads</Translate>,
     image: '/img/csvdownloads.png',

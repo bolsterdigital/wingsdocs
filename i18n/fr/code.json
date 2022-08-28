@@ -557,5 +557,106 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "A coalition campaign led by Extinction Rebellion to protest the construction of an enormous datacenter by META / Facebook in the Dutch countryside.": {
+    "message": "A coalition campaign led by Extinction Rebellion to protest the construction of an enormous datacenter by META / Facebook in the Dutch countryside."
+  },
+  "Josephine Gauselmann": {
+    "message": "Josephine Gauselmann"
+  },
+  "Josephine Gauselmann is running to represent her constituents in Mönchengladbach for her party, the social democrats of SPD.": {
+    "message": "Josephine Gauselmann is running to represent her constituents in Mönchengladbach for her party, the social democrats of SPD."
+  },
+  "Gordan Dudas": {
+    "message": "Gordan Dudas"
+  },
+  "Gordan Dudas is a German parliamentarian on behalf of the social-democratic SPD.": {
+    "message": "Gordan Dudas is a German parliamentarian on behalf of the social-democratic SPD."
+  },
+  "Haagse Stadspartij": {
+    "message": "Haagse Stadspartij"
+  },
+  "The 'Haagse Stadspartij' is an awesome local political party in The Netherlands, as they are decidedly leftist and progressive.": {
+    "message": "The 'Haagse Stadspartij' is an awesome local political party in The Netherlands, as they are decidedly leftist and progressive."
+  },
+  "The Dutch leftist party BIJ1 uses Wings to power its local chapter websites.": {
+    "message": "The Dutch leftist party BIJ1 uses Wings to power its local chapter websites."
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "Cette page a planté.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Réessayer",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.admonition.note": {
+    "message": "remarque",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "astuce",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.caution": {
+    "message": "attention",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Basculer entre le mode sombre et clair (actuellement {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "mode sombre",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "mode clair",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Page d'accueil",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Fil d'Ariane",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} éléments",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Activer/désactiver le retour à la ligne",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Plier/Déplier la catégorie '{label}' de la barre latérale",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Langues",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "En savoir plus sur {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "Powerful Analytics": {
+    "message": "Analyses Puissantes"
+  },
+  "You can also simply use the powerful Wings Analytics system, which uses the open-source privacy-friendly Matomo service.": {
+    "message": "Vous pouvez également simplement utiliser le puissant service Wings Analytics, qui utilise le système Matomo respectueux de la vie privée"
   }
 }

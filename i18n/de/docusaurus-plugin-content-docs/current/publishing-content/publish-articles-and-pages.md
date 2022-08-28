@@ -8,10 +8,6 @@ Unter _Articles_ können Sie Artikel hinzufügen und bearbeiten; Unter Seiten k�
 
 ![](https://screens.wings.dev/Screen-Shot-2020-02-23-11-46-44-1582454834.png)
 
-:::caution Hinweis: in Arbeit
-
-Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
-:::
 
 1. Klicken Sie im Hauptmenü auf `Content`.
 2. Wählen Sie zwischen Articles (Artikeln) und Pages (Seiten). Je nach Auswahl finden Sie untenstehend eine Liste der vorhandenen Artikel und Seiten.

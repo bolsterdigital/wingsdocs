@@ -85,7 +85,7 @@ If you want to change the default copy of a campaign, for example the Campaign f
 
 ![](https://screens.wings.dev/CleanShot-2021-06-29-at-09.01.00-15V2q3EV3eye7VCKU0hTEkyBbuZAC7XCRNwcQ3fUFk66TUsO4xDMEcXgypkTb3z5HHSGb8TCD2JubqzwsRTZ4Xd5uvQhlj3TXE5R.png)
 
-**Note**: if you want to change the default copy for _every_ campaign, you can create your own 'translation'. [Look here for instructions](../setting-up/use-multiple-languages#project-wide-translations-for-strings).
+**Note**: if you want to change the default copy for _every_ campaign, you can create your own 'translation'. [Look here for instructions](../guides/use-multiple-languages#project-wide-translations-for-strings).
 
 ## Event settings
 

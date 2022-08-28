@@ -8,11 +8,6 @@ sidebar_position: 1
 
 Bei Kampagnen glänzt Wings wirklich: Sie ermöglichen es Ihnen, sinnvolle und effektive Möglichkeiten zu schaffen, mit denen Benutzer zu Ihrem Anliegen beitragen können, indem sie an Veranstaltungen teilnehmen, eine Petition unterschreiben oder eine Spende tätigen. Ein schneller Überblick:
 
-:::caution Hinweis: in Arbeit
-
-Die Wings-Dokumentation ist noch nicht vollständig ins Deutsche übersetzt und wird Ihnen daher vorerst auf Englisch präsentiert.
-:::
-
 - **Signups** (Anmeldungen) sind einfache Formulare, die es Leuten ermöglichen, sich anzumelden, um beispielsweise Newsletter-Updates zu erhalten.
 - **Events** (Veranstaltungen) sind darauf ausgerichtet, Menschen dazu zu bringen, eine Veranstaltung zu besuchen.
 - **Petitions** (Petitionen) zielen darauf ab, Menschen einen politischen Vorschlag, ein Unterstützungsschreiben oder eine andere Art von Petition unterzeichnen zu lassen.

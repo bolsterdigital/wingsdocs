@@ -14,5 +14,9 @@
   "sidebar.tutorialSidebar.category.Creating campaigns": {
     "message": "Création de campagnes",
     "description": "The label for category Creating campaigns in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar tutorialSidebar"
   }
 }

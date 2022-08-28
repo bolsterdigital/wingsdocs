@@ -84,7 +84,7 @@ Petities hebben een aantal bijzondere opties:
 Als je de standaardkopij van een campagne wilt wijzigen, bijvoorbeeld de bevestigingsteksten, ga dan naar het tabblad **Copy**, waar je velden kunt vinden om elk tekstje te overschrijven.
 ![](https://screens.wings.dev/CleanShot-2021-06-29-at-09.01.00-15V2q3EV3eye7VCKU0hTEkyBbuZAC7XCRNwcQ3fUFk66TUsO4xDMEcXgypkTb3z5HHSGb8TCD2JubqzwsRTZ4Xd5uvQhlj3TXE5R.png)
 
-**Opmerking**: als je de standaardkopie voor _elke_ campagne wilt wijzigen, kun je je eigen 'vertaling' maken. [Kijk hier voor instructies](../setting-up/use-multiple-languages#project-wide-translations-for-strings).
+**Opmerking**: als je de standaardkopie voor _elke_ campagne wilt wijzigen, kun je je eigen 'vertaling' maken. [Kijk hier voor instructies](../guides/use-multiple-languages#project-wide-translations-for-strings).
 
 ## Evenement-instellingen
 

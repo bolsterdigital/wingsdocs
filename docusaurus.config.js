@@ -21,13 +21,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     },
     plugins: [
       'docusaurus-plugin-matomo',
-      [
-        require.resolve('@cmfcmf/docusaurus-search-local'),
-        {
-          indexPages: true,
-          language: ['en', 'nl', 'de', 'fr'],
-        },
-      ],
+      // [
+      //   require.resolve('@cmfcmf/docusaurus-search-local'),
+      //   {
+      //     indexPages: true,
+      //     language: ['en', 'nl', 'de', 'fr'],
+      //   },
+      // ],
     ],
 
     presets: [

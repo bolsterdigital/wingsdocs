@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Use webhooks
@@ -47,7 +47,7 @@ With webhooks, you are in control over your data – and your campaign software 
 
 You can use a service such as [webhook.site](https://webhook.site) to test webhooks. You will be given a webhook url you can copy:
 
-![](https://screens.wings.dev/CleanShot-2020-12-04-at-13.08.22-1607083724.png)
+![](https://screens.wings.dev/CleanShot-2022-08-28-at-11.16.52-OVT9TWQqx.png)
 
 The, you can paste this url in the webhooks field in your Wings settings page.
 
