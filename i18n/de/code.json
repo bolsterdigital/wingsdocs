@@ -89,13 +89,13 @@
   "Build a powerhouse": {
     "message": "Baue ein Kraftpaket"
   },
-  "Dive into the": {
+  "Use": {
     "message": "Tauchen Sie ein in die"
   },
-  "webhooks docs": {
+  "webhooks": {
     "message": "Webhooks-Dokumentation"
   },
-  "and find out how to integrate Wings with Mailchimp, The Action Network and many more.": {
+  "to connect Wings to Mailchimp, The Action Network, Nationbuilder, Citipo, Qomon and many more.": {
     "message": "und finden Sie heraus, wie Sie Wings mit Mailchimp, The Action Network und vielen mehr integrieren können."
   },
   "Try it out": {
