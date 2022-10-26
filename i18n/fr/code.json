@@ -215,8 +215,8 @@
   "webhooks docs": {
     "message": "documentation sur les webhooks"
   },
-  "and find out how to integrate Wings with Mailchimp, The Action Network and many more.": {
-    "message": "et découvrez comment intégrer Wings à Mailchimp, The Action Network et bien d'autres."
+  "and find out how to integrate Wings with Citipo, Mailchimp, The Action Network and many more.": {
+    "message": "et découvrez comment intégrer Wings à Citipo, Mailchimp, The Action Network et bien d'autres."
   },
   "Try before you buy": {
     "message": "Essayez avant d'acheter"
@@ -269,8 +269,8 @@
   "€ 79": {
     "message": "€ 79"
   },
-  "For small non-profits with fewer than 10 staff members": {
-    "message": "Pour les petites associations de moins de 10 salariés"
+  "For small non-profits with fewer than 20 staff members": {
+    "message": "Pour les petites associations de moins de 20 salariés"
   },
   "6 user accounts": {
     "message": "6 comptes utilisateurs"
@@ -281,8 +281,8 @@
   "Premium": {
     "message": "Prime"
   },
-  "€ 195": {
-    "message": "€ 195"
+  "€ 149": {
+    "message": "€ 149"
   },
   "For large non-profits": {
     "message": "Pour les grandes associations"
@@ -290,8 +290,8 @@
   "unlimited user accounts": {
     "message": "comptes d'utilisateurs illimités"
   },
-  "€ 4.995": {
-    "message": "€ 4.995"
+  "€ 1.995": {
+    "message": "€ 1.995"
   },
   "per project": {
     "message": "par projet"

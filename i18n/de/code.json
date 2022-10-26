@@ -95,8 +95,8 @@
   "webhooks": {
     "message": "Webhooks-Dokumentation"
   },
-  "to connect Wings to Mailchimp, The Action Network, Nationbuilder, Citipo, Qomon and many more.": {
-    "message": "und finden Sie heraus, wie Sie Wings mit Mailchimp, The Action Network und vielen mehr integrieren können."
+  "and find out how to integrate Wings with Citipo, Mailchimp, The Action Network and many more.": {
+    "message": "und finden Sie heraus, wie Sie Wings mit Citipo, Mailchimp, The Action Network und vielen mehr integrieren können."
   },
   "Try it out": {
     "message": "Versuch es"
@@ -131,8 +131,8 @@
   "€ 79": {
     "message": "€ 79"
   },
-  "For small non-profits with fewer than 10 staff members": {
-    "message": "Für kleine gemeinnützige Organisationen mit weniger als 10 Mitarbeitern"
+  "For small non-profits with fewer than 20 staff members": {
+    "message": "Für kleine gemeinnützige Organisationen mit weniger als 20 Mitarbeitern"
   },
   "6 user accounts": {
     "message": "6 Benutzerkonten"
@@ -143,8 +143,8 @@
   "Premium": {
     "message": "Premium"
   },
-  "€ 195": {
-    "message": "€ 195"
+  "€ 149": {
+    "message": "€ 149"
   },
   "For large non-profits": {
     "message": "Für große Organisationen"
@@ -152,8 +152,8 @@
   "unlimited user accounts": {
     "message": "unbegrenzte Anzahl von Benutzerkonten"
   },
-  "€ 4.995": {
-    "message": "€ 4.995"
+  "€ 1.995": {
+    "message": "€ 1.995"
   },
   "Name": {
     "message": "Nahme"

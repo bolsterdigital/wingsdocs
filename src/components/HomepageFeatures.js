@@ -32,7 +32,7 @@ const FeatureList = [
           <Translate>webhooks docs</Translate>
         </Link>{' '}
         <Translate>
-          and find out how to integrate Wings with Mailchimp, The Action Network
+          and find out how to integrate Wings with Citipo, Mailchimp, The Action Network
           and many more.
         </Translate>
       </>

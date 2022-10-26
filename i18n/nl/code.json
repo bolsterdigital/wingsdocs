@@ -197,8 +197,8 @@
   "webhooks docs": {
     "message": "webhooks-documentatie"
   },
-  "and find out how to integrate Wings with Mailchimp, The Action Network and many more.": {
-    "message": "en ontdek hoe je Wings kunt verbinden met Mailchimp, The Action Network en vele andere diensten."
+  "and find out how to integrate Wings with Citipo, Mailchimp, The Action Network and many more.": {
+    "message": "en ontdek hoe je Wings kunt verbinden met Citipo, Mailchimp, The Action Network en vele andere diensten."
   },
   "Progressive campaign websites-as-a-service. Your domain, your visual identity, your content, your data.": {
     "message": "Progressieve campagnewebsites-as-a-service. Jouw domein, jouw huisstijl, jouw content, jouw data."
@@ -299,8 +299,8 @@
   "€ 79": {
     "message": "€ 79"
   },
-  "For small non-profits with fewer than 10 staff members": {
-    "message": "Voor nonprofits met een staf van minder dan 10 mensen"
+  "For small non-profits with fewer than 20 staff members": {
+    "message": "Voor nonprofits met minder dan 20 medewerkersn"
   },
   "10 user accounts": {
     "message": "10 gebruikersaccounts"
@@ -311,8 +311,8 @@
   "Premium": {
     "message": "Premium"
   },
-  "€ 195": {
-    "message": "€ 195"
+  "€ 149": {
+    "message": "€ 149"
   },
   "For large non-profits": {
     "message": "Voor grote non-profits"
@@ -374,8 +374,8 @@
   "unlimited user accounts": {
     "message": "onbeperkt aantal gebruikersaccounts"
   },
-  "€ 4.995": {
-    "message": "€ 4.995"
+  "€ 1.995": {
+    "message": "€ 1.995"
   },
   "per project": {
     "message": "per project"
