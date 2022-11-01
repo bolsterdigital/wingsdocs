@@ -8,4 +8,4 @@
 /docs/guides/webhooks /docs/guides/webhooks
 /docs/setting-up/use-multiple-languages /docs/guides/use-multiple-languages
 /*/docs/setting-up/use-multiple-languages/ /:splat/docs/setting-up/use-multiple-languages/
-/.well-known/host-meta  https://social.wings.dev
+/.well-known/host-meta  https://social.wings.dev/.well-known/host-meta
