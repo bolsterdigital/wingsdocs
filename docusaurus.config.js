@@ -164,6 +164,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   label: 'Twitter',
                   href: 'https://twitter.com/wingscms',
                 },
+                {
+                  label: 'Mastodon',
+                  rel: 'me',
+                  href: 'https://social.wings.dev/@jaapstronks',
+                },
+                
               ],
             },
           ],
