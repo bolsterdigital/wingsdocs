@@ -22,7 +22,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     plugins: [
       'docusaurus-plugin-matomo',
       [
-        require.resolve('@cmfcmf/docusaurus-search-local'),
+        require.resolve('@easyops-cn/docusaurus-search-local'),
         {
           indexPages: true,
           language: ['en', 'nl', 'de', 'fr'],
@@ -78,12 +78,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             src: 'img/wings_logo_blue.svg',
           },
           items: [
+            {to: 'blog', label: 'Blog', position: 'left'},
             { to: 'features', label: 'Features', position: 'left' },
-            {
-              to: 'cases',
-              label: 'Showcase',
-              position: 'left',
-            },
+      
             {
               type: 'doc',
               docId: 'intro',
@@ -97,6 +94,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                 {
                   label: 'Background',
                   href: '/about',
+                },
+                {
+                  label: 'Cases',
+                  href: '/cases',
                 },
                 {
                   label: 'Wings Coalitions',
