@@ -1,7 +1,9 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './CasesList.module.css';
-import Translate, { translate } from '@docusaurus/Translate';
+import Translate, {
+  translate,
+} from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
 import ImageComponent from '../components/ImageComponent';
 import Link from '@docusaurus/Link';
@@ -13,9 +15,10 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          Republiek – formerly known as Republikeins Genootschap – is a Dutch
-          advocacy group that wants The Netherlands to abolish the monarchy and
-          to become a republic.
+          Republiek – formerly known as Republikeins
+          Genootschap – is a Dutch advocacy group that wants
+          The Netherlands to abolish the monarchy and to
+          become a republic.
         </Translate>
       </>
     ),
@@ -27,23 +30,14 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          A coalition campaign led by Extinction Rebellion to protest the construction of an enormous datacenter by META / Facebook in the Dutch countryside.
+          A coalition campaign led by Extinction Rebellion
+          to protest the construction of an enormous
+          datacenter by META / Facebook in the Dutch
+          countryside.
         </Translate>
       </>
     ),
     link: 'https://www.ikblokkeerhetdatacenter.nl',
-  },
-  {
-    title: <Translate>Josephine Gauselmann</Translate>,
-    image: '/img/josephine.png',
-    description: (
-      <>
-        <Translate>
-          Josephine Gauselmann is running to represent her constituents in Mönchengladbach for her party, the social democrats of SPD.
-        </Translate>
-      </>
-    ),
-    link: 'https://josephine-gauselmann.de',
   },
   {
     title: <Translate>Controle Alt Delete</Translate>,
@@ -51,9 +45,10 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          Controle Alt Delete, a nonprofit that fights back against excessive
-          police violence and ethnic profiling, uses Wings for their main
-          website as well as for petition campaigns.
+          Controle Alt Delete, a nonprofit that fights back
+          against excessive police violence and ethnic
+          profiling, uses Wings for their main website as
+          well as for petition campaigns.
         </Translate>
       </>
     ),
@@ -66,8 +61,9 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          The Belgian Young Socialists use Wings to power their main website as
-          well as local chapter websites.
+          The Belgian Young Socialists use Wings to power
+          their main website as well as local chapter
+          websites.
         </Translate>
       </>
     ),
@@ -79,30 +75,23 @@ const CaseList = [
     image: '/img/frissewind.png',
     description: (
       <Translate>
-        Frisse Wind is a brave citizen action committee that uses Wings to raise
-        close to € 60,000 euros to fund their lawsuit against Tata Steel
-        corporation and its toxic emissions.
+        Frisse Wind is a brave citizen action committee that
+        uses Wings to raise close to € 60,000 euros to fund
+        their lawsuit against Tata Steel corporation and its
+        toxic emissions.
       </Translate>
     ),
     link: 'https://www.frissewind.nu',
   },
-  {
-    title: <Translate>Next Blue</Translate>,
-    image: '/img/nextblue.png',
-    description: (
-      <>
-        <Translate>Next Blue is a storytelling platform about water.</Translate>
-      </>
-    ),
-    link: 'https://next.blue',
-  },
+
   {
     title: <Translate>Gordan Dudas</Translate>,
     image: '/img/gordan-dudas.png',
     description: (
       <>
         <Translate>
-          Gordan Dudas is a German parliamentarian on behalf of the social-democratic SPD.
+          Gordan Dudas is a German parliamentarian on behalf
+          of the social-democratic SPD.
         </Translate>
       </>
     ),
@@ -114,8 +103,8 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          A campaign website by the Dutch Humanist Society which aims to break
-          the silence around abortion.
+          A campaign website by the Dutch Humanist Society
+          which aims to break the silence around abortion.
         </Translate>
       </>
     ),
@@ -127,7 +116,9 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          The 'Haagse Stadspartij' is an awesome local political party in The Netherlands, as they are decidedly leftist and progressive.
+          The 'Haagse Stadspartij' is an awesome local
+          political party in The Netherlands, as they are
+          decidedly leftist and progressive.
         </Translate>
       </>
     ),
@@ -139,8 +130,8 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          The Dutch leftist party BIJ1 uses Wings to power its local chapter
-          websites.
+          The Dutch leftist party BIJ1 uses Wings to power
+          its local chapter websites.
         </Translate>
       </>
     ),
@@ -152,8 +143,8 @@ const CaseList = [
     description: (
       <>
         <Translate>
-          A campaign website by labour union CNV to get more young people to
-          join a union.
+          A campaign website by labour union CNV to get more
+          young people to join a union.
         </Translate>
       </>
     ),
@@ -166,7 +157,10 @@ function Case({ image, title, description, link }) {
     <div className={clsx('col col--4')}>
       <div className="card shadow--lw">
         <div className="card__image">
-          <ImageComponent className={styles.featuredImage} image={image} />
+          <ImageComponent
+            className={styles.featuredImage}
+            image={image}
+          />
         </div>
         <div className="card__body">
           <h2>{title}</h2>
@@ -189,7 +183,10 @@ function SimpleCase({ image, title, description }) {
     <div className={clsx('col col--4')}>
       <div className="card shadow--lw">
         <div className="card__image">
-          <ImageComponent className={styles.featuredImage} image={image} />
+          <ImageComponent
+            className={styles.featuredImage}
+            image={image}
+          />
         </div>
         <div className="card__body">
           <h2>{title}</h2>
@@ -218,17 +215,20 @@ export function FeaturedList() {
           >
             <h2 className={styles.featureTitle}>
               <Translate>
-                It's battle-tested and ready for your campaign.
+                It's battle-tested and ready for your
+                campaign.
               </Translate>
             </h2>
 
             <p className={styles.homeIntro}>
               <Translate>
-                Wings is a proven platform that has been used by green,
-                social-democratic and socialist parties, labour unions, citizen
-                action groups and non-governmental organizations to process
-                millions of signups, signatures and donations. Take a look at
-                some examples.
+                Wings is a proven platform that has been
+                used by green, social-democratic and
+                socialist parties, labour unions, citizen
+                action groups and non-governmental
+                organizations to process millions of
+                signups, signatures and donations. Take a
+                look at some examples.
               </Translate>{' '}
             </p>
           </motion.div>
@@ -266,14 +266,15 @@ export default function Cases() {
           >
             <h1>
               <Translate>
-                Want to see Wings in action? Go ahead and take a look.
+                Want to see Wings in action? Go ahead and
+                take a look.
               </Translate>
             </h1>
 
             <p>
               <Translate>
-                Wings is used by political parties, labour unions, advocacy
-                groups and more.
+                Wings is used by political parties, labour
+                unions, advocacy groups and more.
               </Translate>{' '}
             </p>
           </motion.div>
