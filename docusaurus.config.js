@@ -22,7 +22,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     plugins: [
       'docusaurus-plugin-matomo',
       [
-        require.resolve('@easyops-cn/docusaurus-search-local'),
+        require.resolve(
+          '@easyops-cn/docusaurus-search-local'
+        ),
         {
           indexPages: true,
           language: ['en', 'nl', 'de', 'fr'],
@@ -38,11 +40,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           docs: {
             sidebarPath: require.resolve('./sidebars.js'),
             // Please change this to your repo.
-            editUrl: 'https://github.com/bolsterdigital/wingsdocs/edit/main/',
+            editUrl:
+              'https://github.com/bolsterdigital/wingsdocs/edit/main/',
           },
 
           theme: {
-            customCss: require.resolve('./src/css/custom.css'),
+            customCss: require.resolve(
+              './src/css/custom.css'
+            ),
           },
         }),
       ],
@@ -78,9 +83,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             src: 'img/wings_logo_blue.svg',
           },
           items: [
-            {to: 'blog', label: 'Blog', position: 'left'},
-            { to: 'features', label: 'Features', position: 'left' },
-      
+            { to: 'blog', label: 'Blog', position: 'left' },
+            {
+              to: 'features',
+              label: 'Features',
+              position: 'left',
+            },
+
             {
               type: 'doc',
               docId: 'intro',
@@ -165,12 +174,6 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
                   label: 'Twitter',
                   href: 'https://twitter.com/wingscms',
                 },
-                {
-                  label: 'Mastodon',
-                  rel: 'me',
-                  href: 'https://social.wings.dev/@jaapstronks',
-                },
-                
               ],
             },
           ],
