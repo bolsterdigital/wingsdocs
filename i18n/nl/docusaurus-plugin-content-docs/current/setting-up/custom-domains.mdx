@@ -15,7 +15,7 @@ Wij vinden het belangrijk dat je je domein zelf _kunt_ configureren – maar dat
 
 Voordat je je aangepaste domein in Wings kunt instellen, moet je een domeinnaam registreren en configureren bij een domeinnaam-dienst en een DNS-beheerservice gebruiken. In veel gevallen gaat het om dezelfde dienst, maar het is mogelijk om verschillende diensten te gebruiken voor A) domeinregistratie en B) het beheren van DNS-records. Je dient in te loggen op je DNS beheer punt je (sub)domein naar Wings.
 
-De `...app.wings.dev` is een tijdelijke url op een `app.wings.dev`-subdomein die je kunt gebruiken om een voorbeeld van een openbare versie van je website te bekijken totdat het tijd is om je website te lanceren. Deze tijdelijke url is zo opgezet dat zoekmachines worden ontmoedigd om deze te indexeren (hij zal niet verschijnen in zoekmachines zoals Google, maar we kunnen dit niet garanderen).
+De `...apps.wings.dev` is een tijdelijke url op een `apps.wings.dev`-subdomein die je kunt gebruiken om een voorbeeld van een openbare versie van je website te bekijken totdat het tijd is om je website te lanceren. Deze tijdelijke url is zo opgezet dat zoekmachines worden ontmoedigd om deze te indexeren (hij zal niet verschijnen in zoekmachines zoals Google, maar we kunnen dit niet garanderen).
 
 Wat nog belangrijker is, dit tijdelijke domein wordt willekeurig gekozen en kan alleen bekend zijn bij de mensen met wie je het wilt delen. Dus voel je vrij om het te delen met partners en collega's, benadruk alleen dat dit een tijdelijke preview-url is en deel het niet openbaar.
 
@@ -27,7 +27,7 @@ Bepaal eerst of je een subdomein van een bestaand domein (`action.mywebsite.com`
 
 ## 1. Een subdomein gebruiken
 
-Als je alleen een subdomein van een bestaand domein wilt gebruiken voor je Wings-project - bijvoorbeeld: `action.mywebsite.com`, maak dan een CNAME-record aan voor je subdomein en verwijs het naar `app.wings.dev`.
+Als je alleen een subdomein van een bestaand domein wilt gebruiken voor je Wings-project - bijvoorbeeld: `action.mywebsite.com`, maak dan een CNAME-record aan voor je subdomein en verwijs het naar `cname.vercel-dns.com.`.
 
 :::info Opmerking:
 Als je een subdomein gebruikt, sla dan stap 2 hieronder over en ga direct naar [de stap daarna](#configure-your-domain-in-wings).
@@ -43,8 +43,8 @@ Voordat je dit doet is het verstandig – maar niet strikt noodzakelijk – om m
 
 ### 2B) De DNS-records maken
 
-- maak een A-record voor jouw domein (zonder www) en wijs het naar `34.76.238.51`
-- maak een CNAME-record aan voor `www.uwdomein.com` (waarschijnlijk hoef je alleen het `www`-deel in te vullen) en verwijs het naar uwdomein.com`.
+- maak een A-record voor jouw domein (zonder www) en wijs het naar `76.76.21.21`
+- maak een CNAME-record aan voor `www.uwdomein.com` (waarschijnlijk hoef je alleen het `www`-deel in te vullen) en verwijs het naar `cname.vercel-dns.com.`.
 
 ## Configureer je domein in Wings
 

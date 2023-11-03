@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Benutzerdefinierte Domäne 
+# Benutzerdefinierte Domäne
 
 Um eine Website zu starten, sollten Sie Ihre Website auf einer benutzerdefinierten Domain bereitstellen. Wings unterstützt jede gewünschte benutzerdefinierte Domain und stellt automatisch ein SSL-Zertifikat bereit, sodass der gesamte Webverkehr https:// verwendet.
 
@@ -15,7 +15,7 @@ Wir halten es für wichtig, dass Sie Ihre Domain selbst konfigurieren _können_ 
 
 Bevor Sie Ihre benutzerdefinierte Domäne in Wings einrichten können, müssen Sie einen Domänennamen bei einer Domänenregistrierungsstelle registrieren und konfigurieren und einen DNS-Verwaltungsdienst verwenden. In vielen Fällen ist dies derselbe Dienst, es ist jedoch möglich, verschiedene Dienste für A) Domänenregistrierung und B) Verwaltung von DNS-Einträgen zu verwenden. Sie müssen sich bei Ihrem DNS-Management anmelden und Ihre (Sub-)Domain auf Wings verweisen.
 
-Die `...app.wings.dev` ist eine temporäre URL in einer `app.wings.dev`-Subdomain, die Sie verwenden können, um eine Vorschau einer öffentlichen Version Ihrer Website anzuzeigen, bis es Zeit ist, Ihre Website zu starten. Diese temporäre URL ist so eingerichtet, dass Suchmaschinen davon abgeraten werden, sie zu indizieren (sie wird in Suchmaschinen wie Google nicht angezeigt, aber wir können dies nicht garantieren).
+Die `...apps.wings.dev` ist eine temporäre URL in einer `apps.wings.dev`-Subdomain, die Sie verwenden können, um eine Vorschau einer öffentlichen Version Ihrer Website anzuzeigen, bis es Zeit ist, Ihre Website zu starten. Diese temporäre URL ist so eingerichtet, dass Suchmaschinen davon abgeraten werden, sie zu indizieren (sie wird in Suchmaschinen wie Google nicht angezeigt, aber wir können dies nicht garantieren).
 
 Noch wichtiger ist, dass diese temporäre Domain zufällig ausgewählt wird und nur den Personen bekannt sein kann, mit denen Sie sie teilen möchten. Sie können sie also gerne mit Partnern und Mitarbeitern teilen, betonen Sie nur, dass dies eine temporäre Vorschau-URL ist, und teilen Sie sie nicht öffentlich.
 
@@ -27,7 +27,7 @@ Entscheiden Sie zunächst, ob Sie eine Subdomain einer bestehenden Domain ( `akt
 
 ## 1. Verwendung einer Subdomain
 
-Wenn Sie für Ihr Wings-Projekt nur eine Subdomain einer bestehenden Domain verwenden möchten - zum Beispiel: `aktion.meinewebsite.de`, erstellen Sie einen CNAME-Record für Ihre Subdomain und verweisen Sie ihn auf `app.wings.dev`.
+Wenn Sie für Ihr Wings-Projekt nur eine Subdomain einer bestehenden Domain verwenden möchten - zum Beispiel: `aktion.meinewebsite.de`, erstellen Sie einen CNAME-Record für Ihre Subdomain und verweisen Sie ihn auf `cname.vercel-dns.com.`.
 
 :::info Notiz:
 Wenn Sie eine Subdomain verwenden, überspringen Sie Schritt 2 unten und gehen Sie direkt zu [dem Schritt danach](#konfigurieren-sie-ihre-domain-in-wings).
@@ -43,9 +43,8 @@ Bevor Sie dies tun, ist es ratsam – aber nicht unbedingt notwendig – die TTL
 
 ### 2B) Erstellen Sie die DNS-Records
 
-
-- Erstellen Sie einen A-Eintrag für Ihre Domain (ohne www) und verweisen Sie ihn auf `34.76.238.51`
-- Erstellen Sie einen CNAME-Eintrag für `www.yourdomain.com` (du musst wahrscheinlich nur den 'www'-Teil ausfüllen) und verweisen Sie ihn auf `yourdomain.com`.
+- Erstellen Sie einen A-Eintrag für Ihre Domain (ohne www) und verweisen Sie ihn auf `76.76.21.21`
+- Erstellen Sie einen CNAME-Eintrag für `www.yourdomain.com` (du musst wahrscheinlich nur den 'www'-Teil ausfüllen) und verweisen Sie ihn auf `cname.vercel-dns.com.`.
 
 ## Konfigurieren Sie Ihre Domain in Wings
 

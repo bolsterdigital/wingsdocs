@@ -7,7 +7,7 @@ import TabItem from '@theme/TabItem';
 
 # Set a custom domain
 
-Your Wings website has a temporary `...app.wings.dev` web address for previewing purposes. It will not be indexed by search engines.
+Your Wings website has a temporary `...apps.wings.dev` web address for previewing purposes. It will not be indexed by search engines.
 
 You will want to serve your site on a custom domain. Wings supports any custom domain you want and automatically provides an SSL certificate, so that all web traffic will use https://. To make this work, you need to have registered a domain name at a domain name registrar and edit your DNS records.
 
@@ -46,7 +46,7 @@ This is how that looks if you use DNSimple.com, but the interface of your websit
 ![](https://screens.wings.dev/CleanShot-2022-01-20-at-09.01.15-2x-cLwMczVmWJJs3PveEKSXB5ouqfFQGeJymkt95bZayhyozFCRl9pySIK64kBoqRkQ4eA0bmQ0GADoINgbcm7lUbZT1c9VMmeekORf.png)
 
 1. Leave this value empty.
-2. Enter the IP address of the Wings service, which is `34.76.238.51`.
+2. Enter the IP address of the Wings service, which is `76.76.21.21`.
 3. Add the record.
 
 ## 2. Configure the www subdomain
@@ -54,15 +54,11 @@ This is how that looks if you use DNSimple.com, but the interface of your websit
 Next, you also need to point your 'www'-subdomain to Wings. For this, you need to:
 
 1. Delete any A record and/or AAAA record you may have listed for the 'www' subdomain.
-2. If you already have a CNAME record for your 'www' subdomain, edit it. If not, create a new one. Make sure you have a CNAME record for `www.mycoolwingswebsite.com` (or whatever your domain name is). You probably only need to fill out the (1)`www` part, and point it to `mycoolwingswebsite.com.` (2) (some registrars require that you include the `.` at the end), and (3) save it. See the image below.
-
-![](https://screens.wings.dev/CleanShot-2022-01-20-at-09.16.54-2x-nC1CwX0LyNIxznIm3a6atWm2NjIE13i30LLQu6zetgqax1K60ZwmSsmiGPGU9p8KGukSWA16CllNOTYSYmv16QEHVxiFFU5Khrbb.png)
+2. If you already have a CNAME record for your 'www' subdomain, edit it. If not, create a new one. Make sure you have a CNAME record for `www.mycoolwingswebsite.com` (or whatever your domain name is). You probably only need to fill out the (1)`www` part, and point it to `cname.vercel-dns.com.` (2) (some registrars require that you include the `.` at the end), and (3) save it.
 
 </TabItem>
 <TabItem value="regular" label="Instructions for a subdomain">
-    If you only want to use a subdomain of an existing domain for your Wings project - for example: `action.myexistingwebsite.com`, create a CNAME record for your subdomain and point it to `app.wings.dev.`, like so:
-
-![](https://screens.wings.dev/CleanShot-2022-01-20-at-09.20.15-2x-onk9WcF1TCTDhscTgKJGrNr7quCakCUPpKjFhFaLVqdhKMWvFCwkXeuQKvmdwFE8xj17DMuwgGgZPERpr5VeZ3sB501jZx4AVpOW.png)
+    If you only want to use a subdomain of an existing domain for your Wings project - for example: `action.myexistingwebsite.com`, create a CNAME record for your subdomain and point it to `cname.vercel-dns.com.`
 
 </TabItem>
 
