@@ -25,21 +25,6 @@ const CaseList = [
     link: 'https://republiek.org',
   },
   {
-    title: <Translate>Extinction Rebellion</Translate>,
-    image: '/img/datacenter.png',
-    description: (
-      <>
-        <Translate>
-          A coalition campaign led by Extinction Rebellion
-          to protest the construction of an enormous
-          datacenter by META / Facebook in the Dutch
-          countryside.
-        </Translate>
-      </>
-    ),
-    link: 'https://www.ikblokkeerhetdatacenter.nl',
-  },
-  {
     title: <Translate>Controle Alt Delete</Translate>,
     image: '/img/controlealtdel.png',
     description: (
@@ -197,7 +182,7 @@ function SimpleCase({ image, title, description }) {
   );
 }
 
-const Featured = [CaseList[3], CaseList[0], CaseList[2]];
+const Featured = [CaseList[2], CaseList[0], CaseList[1]];
 
 export function FeaturedList() {
   return (
