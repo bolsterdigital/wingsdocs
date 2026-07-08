@@ -4,14 +4,10 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
-import HomepageFeatures from '../components/HomepageFeatures';
-import HomepageProposition from '../components/HomepageProposition';
 import productImage from '../../static/img/wings-petition.png';
 import Translate, { translate } from '@docusaurus/Translate';
 import { motion } from 'framer-motion';
 import ImageComponent from '../components/ImageComponent';
-import { FeaturedList } from '../components/CasesList';
-import Testimonial from '../components/Testimonial';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -29,7 +25,7 @@ function HomepageHeader() {
         >
           <h1 className={clsx('hero__title', styles.heroTitle)}>
             <Translate>
-              A better platform for your progressive digital campaign.
+              This was Wings. A better platform for your digital campaign.
             </Translate>
           </h1>
         </motion.div>
@@ -39,8 +35,9 @@ function HomepageHeader() {
           <p className={clsx('hero__subtitle', styles.heroSubtitle)}>
             {' '}
             <Translate>
-              Wings is a better, faster and more user-friendly campaign website
+              Wings was a better, faster and more user-friendly campaign website
               service. Customizable, integrations-ready and privacy-friendly.
+              The service has since been discontinued.
             </Translate>
           </p>
 
@@ -54,16 +51,6 @@ function HomepageHeader() {
               <Translate>Features</Translate>
             </button>
           </Link>
-          <Link to="/cases">
-            <button
-              className={clsx(
-                'button button--outline button--lg button--secondary',
-                styles.secondarybutton
-              )}
-            >
-              <Translate>Cases</Translate>
-            </button>
-          </Link>
         </div>
       </div>
     </header>
@@ -75,15 +62,10 @@ export default function Home() {
   return (
     <Layout
       title={`A website-as-a-service for progressive organizations`}
-      description="Go create a movement and win a campaign."
+      description="This was Wings, a platform for digital campaigns."
     >
       <main>
         <HomepageHeader />
-
-        <HomepageFeatures />
-        <Testimonial />
-        <FeaturedList />
-        <HomepageProposition />
       </main>
     </Layout>
   );

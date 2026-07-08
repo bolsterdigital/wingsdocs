@@ -1,7 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import Features from '../components/Features';
-import CallToAction from '../components/CallToAction';
 
 function FeaturePage() {
   return (
@@ -9,7 +8,6 @@ function FeaturePage() {
       <main>
         <Features />
       </main>
-      <CallToAction />
     </Layout>
   );
 }

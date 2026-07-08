@@ -19,30 +19,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
       defaultLocale: 'en',
       locales: ['en', 'nl', 'de', 'fr'],
     },
-    plugins: [
-      'docusaurus-plugin-matomo',
-      [
-        require.resolve(
-          '@easyops-cn/docusaurus-search-local'
-        ),
-        {
-          indexPages: true,
-          language: ['en', 'nl', 'de', 'fr'],
-        },
-      ],
-    ],
+    plugins: ['docusaurus-plugin-matomo'],
 
     presets: [
       [
         '@docusaurus/preset-classic',
         /** @type {import('@docusaurus/preset-classic').Options} */
         ({
-          docs: {
-            sidebarPath: require.resolve('./sidebars.js'),
-            // Please change this to your repo.
-            editUrl:
-              'https://github.com/bolsterdigital/wingsdocs/edit/main/',
-          },
+          docs: false,
+          blog: false,
 
           theme: {
             customCss: require.resolve(
@@ -83,101 +68,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             src: 'img/wings_logo_blue.svg',
           },
           items: [
-            { to: 'blog', label: 'Blog', position: 'left' },
             {
               to: 'features',
               label: 'Features',
               position: 'left',
             },
-
-            {
-              type: 'doc',
-              docId: 'intro',
-              label: 'Docs',
-            },
-            {
-              type: 'dropdown',
-              label: 'More',
-              position: 'left',
-              items: [
-                {
-                  label: 'Background',
-                  href: '/about',
-                },
-                {
-                  label: 'Cases',
-                  href: '/cases',
-                },
-                {
-                  label: 'Wings Coalitions',
-                  href: '/coalitions',
-                },
-
-                {
-                  label: 'Pricing',
-                  href: '/pricing',
-                },
-                {
-                  label: 'Request demo',
-                  href: '/demo',
-                },
-                {
-                  href: 'https://admin.wings.dev',
-                  label: 'Admin',
-                },
-              ],
-            },
-
             {
               type: 'localeDropdown',
               position: 'right',
             },
           ],
-        },
-        footer: {
-          style: 'light',
-          links: [
-            {
-              title: 'Support',
-              items: [
-                {
-                  label: '📧 info@wings.dev',
-                  to: 'mailto:info@wings.dev',
-                },
-                {
-                  label: 'Read the docs',
-                  to: '/docs/intro',
-                },
-              ],
-            },
-            {
-              title: 'Use Wings',
-              items: [
-                {
-                  label: 'CMS login',
-                  to: 'https://admin.wings.dev',
-                },
-                {
-                  label: 'Analytics login',
-                  to: 'https://analytics.wings.dev',
-                },
-              ],
-            },
-            {
-              title: 'Social',
-              items: [
-                {
-                  label: 'YouTube',
-                  href: 'https://www.youtube.com/channel/UC0Oo_OMGOrNwpC_zUCc7h5Q',
-                },
-                {
-                  label: 'Twitter',
-                  href: 'https://twitter.com/wingscms',
-                },
-              ],
-            },
-          ],
-          copyright: `Copyright © ${new Date().getFullYear()} Wings`,
         },
         prism: {
           theme: lightCodeTheme,
